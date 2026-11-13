@@ -1,0 +1,167 @@
+{
+ "generated": "2026-11-13T22:09:43+00:00",
+ "read_on": "13 Nov 2026",
+ "start": "2026-11-18",
+ "end": "2026-11-26",
+ "total": 0,
+ "official": 0,
+ "unofficial": 0,
+ "reported": 0,
+ "before": 140,
+ "realworld_now": 140,
+ "scheduled": 9,
+ "days": [
+  {
+   "date": "2026-11-18",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-19",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-20",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-21",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-22",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-23",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-24",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-25",
+   "official": 0,
+   "unofficial": 0
+  },
+  {
+   "date": "2026-11-26",
+   "official": 0,
+   "unofficial": 0
+  }
+ ],
+ "sched": {
+  "official": 5,
+  "unofficial": 4,
+  "reported": 3
+ },
+ "types": [],
+ "brands": [],
+ "latest": [],
+ "upcoming": [
+  {
+   "id": "off-rockstar-atlantic-gta-vi-album-listening-parties",
+   "brand": "Rockstar Games / Atlantic Records",
+   "title": "GTA VI album listening parties in 230-plus US record stores",
+   "category": "official",
+   "status": "rumoured",
+   "type": "music",
+   "date": "2026-11-18",
+   "added": "2026-11-12",
+   "source_name": "GTA BOOM",
+   "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
+  },
+  {
+   "id": "off-nike-cactus-jack-cactus-jack-x-rockstar-x-nike-air-for",
+   "brand": "Nike / Cactus Jack",
+   "title": "Cactus Jack x Rockstar x Nike Air Force 1 Low",
+   "category": "official",
+   "status": "rumoured",
+   "type": "merch",
+   "date": "2026-11-19",
+   "added": "2026-11-06",
+   "source_name": "Culted",
+   "source_url": "https://culted.com/sneakers/travis-scott-unveils-exclusive-gta-vi-nike-air-force-1-collaboration/"
+  },
+  {
+   "id": "off-youtube-youtube-x-rockstar-gta-vi-launch-partnership",
+   "brand": "YouTube",
+   "title": "YouTube and Rockstar partner on GTA VI launch, with a 24-hour livestream",
+   "category": "official",
+   "status": "confirmed",
+   "type": "platform partnership",
+   "date": "2026-11-19",
+   "added": "2026-11-13",
+   "source_name": "YouTube Official Blog",
+   "source_url": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/"
+  },
+  {
+   "id": "uno-clevelander-south-beach-gta-vi-launch-party",
+   "brand": "Clevelander South Beach",
+   "title": "The real Ocean View Hotel throws a GTA VI launch party",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "event",
+   "date": "2026-11-19",
+   "added": "2026-11-12",
+   "source_name": "GTA BOOM",
+   "source_url": "https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7"
+  },
+  {
+   "id": "uno-le-grand-rex-let-s-play-gta-vi-launch-night",
+   "brand": "Le Grand Rex / Iconic Production",
+   "title": "\"Let's Play GTA VI\" launch night at Le Grand Rex",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "event",
+   "date": "2026-11-19",
+   "added": "2026-11-03",
+   "source_name": "GTA BOOM",
+   "source_url": "https://www.gtaboom.com/a-historic-paris-cinema-is-turning-the-gta-6-launch-night-into-a-big-screen-event-c403"
+  },
+  {
+   "id": "uno-logitech-logi-game-day-gta-vi-day-off",
+   "brand": "Logitech",
+   "title": "Logitech gives its staff a day off for GTA VI launch",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "stunt",
+   "date": "2026-11-19",
+   "added": "2026-11-12",
+   "source_name": "Video Games Chronicle",
+   "source_url": "https://www.videogameschronicle.com/news/play-is-not-the-opposite-of-work-logitech-is-giving-workers-time-off-for-gta-6/"
+  },
+  {
+   "id": "uno-pocketpair-five-day-vice-city-business-trip-for-staff",
+   "brand": "Pocketpair",
+   "title": "Palworld studio Pocketpair gives staff a five-day 'business trip to Vice City'",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "stunt",
+   "date": "2026-11-19",
+   "added": "2026-11-13",
+   "source_name": "GTA BOOM",
+   "source_url": "https://www.gtaboom.com/the-palworld-studio-is-shutting-down-for-five-days-so-staff-can-play-gta-6-785a"
+  },
+  {
+   "id": "off-rockstar-playstation-grand-theft-auto-vi-the-festival",
+   "brand": "Rockstar Games and PlayStation",
+   "title": "Grand Theft Auto VI: The Festival in Miami",
+   "category": "official",
+   "status": "confirmed",
+   "type": "event",
+   "date": "2026-11-21",
+   "added": "2026-11-09",
+   "source_name": "Grand Theft Auto VI: The Festival (official site)",
+   "source_url": "https://gtavi-thefestival.miami/"
+  }
+ ],
+ "pushed": "2026-11-13T22:29:47+00:00"
+}
