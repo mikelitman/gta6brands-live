@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-13T22:09:43+00:00",
- "read_on": "13 Nov 2026",
+ "generated": "2026-11-14T07:09:30+00:00",
+ "read_on": "14 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
  "total": 0,
  "official": 0,
  "unofficial": 0,
  "reported": 0,
- "before": 140,
- "realworld_now": 140,
- "scheduled": 9,
+ "before": 144,
+ "realworld_now": 144,
+ "scheduled": 10,
  "days": [
   {
    "date": "2026-11-18",
@@ -59,7 +59,7 @@
  ],
  "sched": {
   "official": 5,
-  "unofficial": 4,
+  "unofficial": 5,
   "reported": 3
  },
  "types": [],
@@ -151,6 +151,18 @@
    "source_url": "https://www.gtaboom.com/the-palworld-studio-is-shutting-down-for-five-days-so-staff-can-play-gta-6-785a"
   },
   {
+   "id": "uno-twitch-daily-gta-vi-ultimate-edition-code-drops",
+   "brand": "Twitch",
+   "title": "Twitch to drop GTA VI Ultimate Edition codes daily until the end of November",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-19",
+   "added": "2026-11-14",
+   "source_name": "Shacknews",
+   "source_url": "https://www.shacknews.com/article/151356/twitch-gta-6-ultimate-edition-code-drop-twitchcon-2026"
+  },
+  {
    "id": "off-rockstar-playstation-grand-theft-auto-vi-the-festival",
    "brand": "Rockstar Games and PlayStation",
    "title": "Grand Theft Auto VI: The Festival in Miami",
@@ -161,7 +173,19 @@
    "added": "2026-11-09",
    "source_name": "Grand Theft Auto VI: The Festival (official site)",
    "source_url": "https://gtavi-thefestival.miami/"
+  },
+  {
+   "id": "off-bayo-rockstar-sponsored-bayo-block-party-in-little-haiti",
+   "brand": "BAYO",
+   "title": "Rockstar-sponsored BAYO block party in Little Haiti",
+   "category": "official",
+   "status": "rumoured",
+   "type": "event",
+   "date": "2026-11-22",
+   "added": "2026-11-02",
+   "source_name": "Analytics Insight",
+   "source_url": "https://www.analyticsinsight.net/news/gta-6-marketing-takes-over-miami-with-real-life-vice-city-promotions"
   }
  ],
- "pushed": "2026-11-13T22:29:47+00:00"
+ "pushed": "2026-11-14T07:09:54+00:00"
 }
