@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T07:09:30+00:00",
+ "generated": "2026-11-14T18:18:09+00:00",
  "read_on": "14 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
@@ -7,9 +7,9 @@
  "official": 0,
  "unofficial": 0,
  "reported": 0,
- "before": 144,
- "realworld_now": 144,
- "scheduled": 10,
+ "before": 151,
+ "realworld_now": 151,
+ "scheduled": 15,
  "days": [
   {
    "date": "2026-11-18",
@@ -58,9 +58,9 @@
   }
  ],
  "sched": {
-  "official": 5,
-  "unofficial": 5,
-  "reported": 3
+  "official": 6,
+  "unofficial": 9,
+  "reported": 4
  },
  "types": [],
  "brands": [],
@@ -77,6 +77,18 @@
    "added": "2026-11-12",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
+  },
+  {
+   "id": "off-2k-nba-2k27-gta-vi-season-3",
+   "brand": "NBA 2K27 (2K / Take-Two)",
+   "title": "NBA 2K27 teases a GTA VI-themed Season 3 with Rockstar",
+   "category": "official",
+   "status": "rumoured",
+   "type": "collab",
+   "date": "2026-11-19",
+   "added": "2026-11-14",
+   "source_name": "IGN",
+   "source_url": "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games"
   },
   {
    "id": "off-nike-cactus-jack-cactus-jack-x-rockstar-x-nike-air-for",
@@ -103,6 +115,18 @@
    "source_url": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/"
   },
   {
+   "id": "uno-bolt-grand-trip-away-competition",
+   "brand": "Bolt",
+   "title": "Bolt's 'Grand Trip Away' competition sends a gamer's partner on a launch-weekend trip",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-19",
+   "added": "2026-11-14",
+   "source_name": "Roastbrief US",
+   "source_url": "https://roastbrief.us/bolts-grand-trip-away-gives-one-overlooked-gamers-partner-a-real-life-adventure-on-the-gta-vi-launch-weekend/"
+  },
+  {
    "id": "uno-clevelander-south-beach-gta-vi-launch-party",
    "brand": "Clevelander South Beach",
    "title": "The real Ocean View Hotel throws a GTA VI launch party",
@@ -113,6 +137,18 @@
    "added": "2026-11-12",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7"
+  },
+  {
+   "id": "uno-kalshi-gta-vi-researcher-job",
+   "brand": "Kalshi",
+   "title": "Kalshi advertises a paid 'GTA VI researcher' job to livestream the game",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "recruitment",
+   "date": "2026-11-19",
+   "added": "2026-11-14",
+   "source_name": "Yahoo Finance UK",
+   "source_url": "https://uk.finance.yahoo.com/news/kalshi-is-hiring-a-gta-vi-researcher-to-livestream-the-game-and-study-its-economy-110000519.html"
   },
   {
    "id": "uno-le-grand-rex-let-s-play-gta-vi-launch-night",
@@ -151,6 +187,18 @@
    "source_url": "https://www.gtaboom.com/the-palworld-studio-is-shutting-down-for-five-days-so-staff-can-play-gta-6-785a"
   },
   {
+   "id": "uno-popeyes-spice-city-sandwich",
+   "brand": "Popeyes",
+   "title": "Popeyes launches the 'Spice City' chicken sandwich on GTA VI day",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "food",
+   "date": "2026-11-19",
+   "added": "2026-11-14",
+   "source_name": "IGN",
+   "source_url": "https://www.ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich"
+  },
+  {
    "id": "uno-twitch-daily-gta-vi-ultimate-edition-code-drops",
    "brand": "Twitch",
    "title": "Twitch to drop GTA VI Ultimate Edition codes daily until the end of November",
@@ -161,31 +209,7 @@
    "added": "2026-11-14",
    "source_name": "Shacknews",
    "source_url": "https://www.shacknews.com/article/151356/twitch-gta-6-ultimate-edition-code-drop-twitchcon-2026"
-  },
-  {
-   "id": "off-rockstar-playstation-grand-theft-auto-vi-the-festival",
-   "brand": "Rockstar Games and PlayStation",
-   "title": "Grand Theft Auto VI: The Festival in Miami",
-   "category": "official",
-   "status": "confirmed",
-   "type": "event",
-   "date": "2026-11-21",
-   "added": "2026-11-09",
-   "source_name": "Grand Theft Auto VI: The Festival (official site)",
-   "source_url": "https://gtavi-thefestival.miami/"
-  },
-  {
-   "id": "off-bayo-rockstar-sponsored-bayo-block-party-in-little-haiti",
-   "brand": "BAYO",
-   "title": "Rockstar-sponsored BAYO block party in Little Haiti",
-   "category": "official",
-   "status": "rumoured",
-   "type": "event",
-   "date": "2026-11-22",
-   "added": "2026-11-02",
-   "source_name": "Analytics Insight",
-   "source_url": "https://www.analyticsinsight.net/news/gta-6-marketing-takes-over-miami-with-real-life-vice-city-promotions"
   }
  ],
- "pushed": "2026-11-14T17:45:48+00:00"
+ "pushed": "2026-11-14T18:18:09+00:00"
 }
