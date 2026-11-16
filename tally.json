@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-15T07:12:30+00:00",
- "read_on": "15 Nov 2026",
+ "generated": "2026-11-16T07:14:46+00:00",
+ "read_on": "16 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
  "total": 0,
  "official": 0,
  "unofficial": 0,
  "reported": 0,
- "before": 159,
- "realworld_now": 159,
- "scheduled": 15,
+ "before": 169,
+ "realworld_now": 169,
+ "scheduled": 17,
  "days": [
   {
    "date": "2026-11-18",
@@ -58,9 +58,9 @@
   }
  ],
  "sched": {
-  "official": 6,
-  "unofficial": 9,
-  "reported": 4
+  "official": 7,
+  "unofficial": 10,
+  "reported": 0
  },
  "types": [],
  "brands": [],
@@ -71,7 +71,7 @@
    "brand": "Rockstar Games / Atlantic Records",
    "title": "GTA VI album listening parties in 230-plus US record stores",
    "category": "official",
-   "status": "rumoured",
+   "status": "confirmed",
    "type": "music",
    "date": "2026-11-18",
    "added": "2026-11-12",
@@ -83,7 +83,7 @@
    "brand": "NBA 2K27 (2K / Take-Two)",
    "title": "NBA 2K27 teases a GTA VI-themed Season 3 with Rockstar",
    "category": "official",
-   "status": "rumoured",
+   "status": "confirmed",
    "type": "platform partnership",
    "date": "2026-11-19",
    "added": "2026-11-14",
@@ -95,12 +95,24 @@
    "brand": "Nike / Cactus Jack",
    "title": "Cactus Jack x Rockstar x Nike Air Force 1 Low",
    "category": "official",
-   "status": "rumoured",
+   "status": "confirmed",
    "type": "merch",
    "date": "2026-11-19",
    "added": "2026-11-06",
    "source_name": "Culted",
    "source_url": "https://culted.com/sneakers/travis-scott-unveils-exclusive-gta-vi-nike-air-force-1-collaboration/"
+  },
+  {
+   "id": "off-weekly-famitsu-gta-vi-cover-and-32-page-special",
+   "brand": "Weekly Famitsu",
+   "title": "Weekly Famitsu puts GTA VI on its cover with a 32-page special",
+   "category": "official",
+   "status": "confirmed",
+   "type": "media campaign",
+   "date": "2026-11-19",
+   "added": "2026-11-16",
+   "source_name": "Beebom",
+   "source_url": "https://beebom.com/gta-6-famitsu-magazine-article-announced-japan/"
   },
   {
    "id": "off-youtube-youtube-x-rockstar-gta-vi-launch-partnership",
@@ -151,6 +163,18 @@
    "source_url": "https://uk.finance.yahoo.com/news/kalshi-is-hiring-a-gta-vi-researcher-to-livestream-the-game-and-study-its-economy-110000519.html"
   },
   {
+   "id": "uno-kfc-australia-funeral-for-ann-alibi-on-gta-vi-launch-day",
+   "brand": "KFC Australia",
+   "title": "KFC Australia holds a funeral for 'Ann Alibi' on GTA VI launch day",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "stunt",
+   "date": "2026-11-19",
+   "added": "2026-11-16",
+   "source_name": "Mumbrella",
+   "source_url": "https://mumbrella.com.au/kfc-stages-fake-funeral-to-give-gta-6-fans-an-excuse-to-chuck-a-sickie-944667"
+  },
+  {
    "id": "uno-le-grand-rex-let-s-play-gta-vi-launch-night",
    "brand": "Le Grand Rex / Iconic Production",
    "title": "\"Let's Play GTA VI\" launch night at Le Grand Rex",
@@ -185,31 +209,7 @@
    "added": "2026-11-13",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/the-palworld-studio-is-shutting-down-for-five-days-so-staff-can-play-gta-6-785a"
-  },
-  {
-   "id": "uno-popeyes-spice-city-sandwich",
-   "brand": "Popeyes",
-   "title": "Popeyes launches the 'Spice City' chicken sandwich on GTA VI day",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "food and drink",
-   "date": "2026-11-19",
-   "added": "2026-11-14",
-   "source_name": "IGN",
-   "source_url": "https://www.ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich"
-  },
-  {
-   "id": "uno-twitch-daily-gta-vi-ultimate-edition-code-drops",
-   "brand": "Twitch",
-   "title": "Twitch to drop GTA VI Ultimate Edition codes daily until the end of November",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "promotion",
-   "date": "2026-11-19",
-   "added": "2026-11-14",
-   "source_name": "Shacknews",
-   "source_url": "https://www.shacknews.com/article/151356/twitch-gta-6-ultimate-edition-code-drop-twitchcon-2026"
   }
  ],
- "pushed": "2026-11-15T12:57:39+00:00"
+ "pushed": "2026-11-16T07:19:17+00:00"
 }
