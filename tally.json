@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-16T07:14:46+00:00",
- "read_on": "16 Nov 2026",
+ "generated": "2026-11-17T07:13:14+00:00",
+ "read_on": "17 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
  "total": 0,
  "official": 0,
  "unofficial": 0,
  "reported": 0,
- "before": 169,
- "realworld_now": 169,
- "scheduled": 17,
+ "before": 182,
+ "realworld_now": 182,
+ "scheduled": 18,
  "days": [
   {
    "date": "2026-11-18",
@@ -58,8 +58,8 @@
   }
  ],
  "sched": {
-  "official": 7,
-  "unofficial": 10,
+  "official": 6,
+  "unofficial": 12,
   "reported": 0
  },
  "types": [],
@@ -77,30 +77,6 @@
    "added": "2026-11-12",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
-  },
-  {
-   "id": "off-2k-nba-2k27-gta-vi-season-3",
-   "brand": "NBA 2K27 (2K / Take-Two)",
-   "title": "NBA 2K27 teases a GTA VI-themed Season 3 with Rockstar",
-   "category": "official",
-   "status": "confirmed",
-   "type": "platform partnership",
-   "date": "2026-11-19",
-   "added": "2026-11-14",
-   "source_name": "IGN",
-   "source_url": "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games"
-  },
-  {
-   "id": "off-nike-cactus-jack-cactus-jack-x-rockstar-x-nike-air-for",
-   "brand": "Nike / Cactus Jack",
-   "title": "Cactus Jack x Rockstar x Nike Air Force 1 Low",
-   "category": "official",
-   "status": "confirmed",
-   "type": "merch",
-   "date": "2026-11-19",
-   "added": "2026-11-06",
-   "source_name": "Culted",
-   "source_url": "https://culted.com/sneakers/travis-scott-unveils-exclusive-gta-vi-nike-air-force-1-collaboration/"
   },
   {
    "id": "off-weekly-famitsu-gta-vi-cover-and-32-page-special",
@@ -199,6 +175,18 @@
    "source_url": "https://www.videogameschronicle.com/news/play-is-not-the-opposite-of-work-logitech-is-giving-workers-time-off-for-gta-6/"
   },
   {
+   "id": "uno-panther-coffee-gta-vi-coffee-blends-and-cups",
+   "brand": "Panther Coffee",
+   "title": "Panther Coffee releases a limited GTA VI coffee collection",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "food and drink",
+   "date": "2026-11-19",
+   "added": "2026-11-16",
+   "source_name": "Panther Coffee",
+   "source_url": "https://panthercoffee.com/products/leonida-gta-vi-blend"
+  },
+  {
    "id": "uno-pocketpair-five-day-vice-city-business-trip-for-staff",
    "brand": "Pocketpair",
    "title": "Palworld studio Pocketpair gives staff a five-day 'business trip to Vice City'",
@@ -209,7 +197,19 @@
    "added": "2026-11-13",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/the-palworld-studio-is-shutting-down-for-five-days-so-staff-can-play-gta-6-785a"
+  },
+  {
+   "id": "uno-popeyes-spice-city-sandwich",
+   "brand": "Popeyes",
+   "title": "Popeyes launches the 'Spice City' chicken sandwich on GTA VI day",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "food and drink",
+   "date": "2026-11-19",
+   "added": "2026-11-14",
+   "source_name": "IGN",
+   "source_url": "https://www.ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich"
   }
  ],
- "pushed": "2026-11-16T19:31:55+00:00"
+ "pushed": "2026-11-17T07:18:18+00:00"
 }
