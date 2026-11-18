@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-17T07:13:14+00:00",
- "read_on": "17 Nov 2026",
+ "generated": "2026-11-18T07:13:53+00:00",
+ "read_on": "18 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 0,
- "official": 0,
- "unofficial": 0,
- "reported": 0,
- "before": 182,
- "realworld_now": 182,
- "scheduled": 18,
+ "total": 5,
+ "official": 1,
+ "unofficial": 4,
+ "reported": 1,
+ "before": 186,
+ "realworld_now": 191,
+ "scheduled": 22,
  "days": [
   {
    "date": "2026-11-18",
-   "official": 0,
-   "unofficial": 0
+   "official": 1,
+   "unofficial": 4
   },
   {
    "date": "2026-11-19",
@@ -59,12 +59,94 @@
  ],
  "sched": {
   "official": 6,
-  "unofficial": 12,
-  "reported": 0
+  "unofficial": 16,
+  "reported": 1
  },
- "types": [],
+ "types": [
+  {
+   "label": "console",
+   "n": 1
+  },
+  {
+   "label": "event",
+   "n": 1
+  },
+  {
+   "label": "food and drink",
+   "n": 1
+  },
+  {
+   "label": "promotion",
+   "n": 1
+  },
+  {
+   "label": "stunt",
+   "n": 1
+  }
+ ],
  "brands": [],
- "latest": [],
+ "latest": [
+  {
+   "id": "uno-snappy-shopper-gta-6-snack-bundle",
+   "brand": "Snappy Shopper",
+   "title": "Snappy Shopper's £5.99 GTA 6 Snack Bundle",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "food and drink",
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "source_name": "Snappy Shopper Retailer Hub",
+   "source_url": "https://www.hub.snappyshopper.co.uk/announcements/gta-6-snack-bundle-campaign-opt-in"
+  },
+  {
+   "id": "uno-kfc-uk-cluck-n-bell-cadillac-delivery-in-london",
+   "brand": "KFC UK & Ireland",
+   "title": "KFC's 'Cluck n' Bell' pink Cadillac delivers in London",
+   "category": "unofficial",
+   "status": "rumoured",
+   "type": "promotion",
+   "date": "2026-11-19",
+   "added": "2026-11-18",
+   "source_name": "Dexerto",
+   "source_url": "https://www.dexerto.com/food/kfc-brings-gta-inspired-cluck-n-bell-to-life-with-delivery-car-straight-out-of-gta-6-3428986/"
+  },
+  {
+   "id": "uno-jbl-miami-gta-vi-launch-creator-day-with-clix",
+   "brand": "JBL",
+   "title": "JBL sponsors a Miami GTA VI launch day with Clix",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "event",
+   "date": "2026-11-19",
+   "added": "2026-11-18",
+   "source_name": "IGN",
+   "source_url": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond"
+  },
+  {
+   "id": "uno-inde-by-chairscarte-company-holiday-for-gta-vi-launch",
+   "brand": "Inde by ChairsCarte",
+   "title": "Chennai design firm Inde by ChairsCarte closes for GTA VI",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "stunt",
+   "date": "2026-11-19",
+   "added": "2026-11-18",
+   "source_name": "Times Now",
+   "source_url": "https://www.timesnownews.com/technology-science/just-2-days-left-for-gta-6-this-indian-company-announces-holiday-for-employees-on-november-19-article-156524927"
+  },
+  {
+   "id": "off-playstation-miami-heat-custom-gta-vi-ps5-pro-consoles",
+   "brand": "PlayStation / Rockstar Games",
+   "title": "Custom GTA VI PS5 Pro consoles for Miami HEAT players",
+   "category": "official",
+   "status": "confirmed",
+   "type": "console",
+   "date": "2026-11-17",
+   "added": "2026-11-18",
+   "source_name": "Hypebeast",
+   "source_url": "https://hypebeast.com/2026/11/miami-heat-custom-grand-theft-auto-6-playstation-5-pro-consoles-vice-city-revealed"
+  }
+ ],
  "upcoming": [
   {
    "id": "off-rockstar-atlantic-gta-vi-album-listening-parties",
@@ -127,6 +209,30 @@
    "source_url": "https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7"
   },
   {
+   "id": "uno-inde-by-chairscarte-company-holiday-for-gta-vi-launch",
+   "brand": "Inde by ChairsCarte",
+   "title": "Chennai design firm Inde by ChairsCarte closes for GTA VI",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "stunt",
+   "date": "2026-11-19",
+   "added": "2026-11-18",
+   "source_name": "Times Now",
+   "source_url": "https://www.timesnownews.com/technology-science/just-2-days-left-for-gta-6-this-indian-company-announces-holiday-for-employees-on-november-19-article-156524927"
+  },
+  {
+   "id": "uno-jbl-miami-gta-vi-launch-creator-day-with-clix",
+   "brand": "JBL",
+   "title": "JBL sponsors a Miami GTA VI launch day with Clix",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "event",
+   "date": "2026-11-19",
+   "added": "2026-11-18",
+   "source_name": "IGN",
+   "source_url": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond"
+  },
+  {
    "id": "uno-kalshi-gta-vi-researcher-job",
    "brand": "Kalshi",
    "title": "Kalshi advertises a paid 'GTA VI researcher' job to livestream the game",
@@ -151,6 +257,18 @@
    "source_url": "https://mumbrella.com.au/kfc-stages-fake-funeral-to-give-gta-6-fans-an-excuse-to-chuck-a-sickie-944667"
   },
   {
+   "id": "uno-kfc-uk-cluck-n-bell-cadillac-delivery-in-london",
+   "brand": "KFC UK & Ireland",
+   "title": "KFC's 'Cluck n' Bell' pink Cadillac delivers in London",
+   "category": "unofficial",
+   "status": "rumoured",
+   "type": "promotion",
+   "date": "2026-11-19",
+   "added": "2026-11-18",
+   "source_name": "Dexerto",
+   "source_url": "https://www.dexerto.com/food/kfc-brings-gta-inspired-cluck-n-bell-to-life-with-delivery-car-straight-out-of-gta-6-3428986/"
+  },
+  {
    "id": "uno-le-grand-rex-let-s-play-gta-vi-launch-night",
    "brand": "Le Grand Rex / Iconic Production",
    "title": "\"Let's Play GTA VI\" launch night at Le Grand Rex",
@@ -173,43 +291,7 @@
    "added": "2026-11-12",
    "source_name": "Video Games Chronicle",
    "source_url": "https://www.videogameschronicle.com/news/play-is-not-the-opposite-of-work-logitech-is-giving-workers-time-off-for-gta-6/"
-  },
-  {
-   "id": "uno-panther-coffee-gta-vi-coffee-blends-and-cups",
-   "brand": "Panther Coffee",
-   "title": "Panther Coffee releases a limited GTA VI coffee collection",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "food and drink",
-   "date": "2026-11-19",
-   "added": "2026-11-16",
-   "source_name": "Panther Coffee",
-   "source_url": "https://panthercoffee.com/products/leonida-gta-vi-blend"
-  },
-  {
-   "id": "uno-pocketpair-five-day-vice-city-business-trip-for-staff",
-   "brand": "Pocketpair",
-   "title": "Palworld studio Pocketpair gives staff a five-day 'business trip to Vice City'",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "stunt",
-   "date": "2026-11-19",
-   "added": "2026-11-13",
-   "source_name": "GTA BOOM",
-   "source_url": "https://www.gtaboom.com/the-palworld-studio-is-shutting-down-for-five-days-so-staff-can-play-gta-6-785a"
-  },
-  {
-   "id": "uno-popeyes-spice-city-sandwich",
-   "brand": "Popeyes",
-   "title": "Popeyes launches the 'Spice City' chicken sandwich on GTA VI day",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "food and drink",
-   "date": "2026-11-19",
-   "added": "2026-11-14",
-   "source_name": "IGN",
-   "source_url": "https://www.ign.com/articles/popeyes-is-riding-the-gta-6-hype-with-a-new-spice-city-chicken-sandwich"
   }
  ],
- "pushed": "2026-11-17T19:31:55+00:00"
+ "pushed": "2026-11-18T07:18:46+00:00"
 }
