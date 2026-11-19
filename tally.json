@@ -1,25 +1,25 @@
 {
- "generated": "2026-11-18T07:13:53+00:00",
- "read_on": "18 Nov 2026",
+ "generated": "2026-11-19T07:14:49+00:00",
+ "read_on": "19 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 5,
- "official": 1,
- "unofficial": 4,
- "reported": 1,
+ "total": 38,
+ "official": 3,
+ "unofficial": 35,
+ "reported": 4,
  "before": 186,
- "realworld_now": 191,
- "scheduled": 22,
+ "realworld_now": 224,
+ "scheduled": 40,
  "days": [
   {
    "date": "2026-11-18",
-   "official": 1,
-   "unofficial": 4
+   "official": 2,
+   "unofficial": 7
   },
   {
    "date": "2026-11-19",
-   "official": 0,
-   "unofficial": 0
+   "official": 1,
+   "unofficial": 28
   },
   {
    "date": "2026-11-20",
@@ -58,96 +58,156 @@
   }
  ],
  "sched": {
-  "official": 6,
-  "unofficial": 16,
-  "reported": 1
+  "official": 8,
+  "unofficial": 32,
+  "reported": 3
  },
  "types": [
   {
-   "label": "console",
-   "n": 1
-  },
-  {
-   "label": "event",
-   "n": 1
+   "label": "social post",
+   "n": 14
   },
   {
    "label": "food and drink",
-   "n": 1
-  },
-  {
-   "label": "promotion",
-   "n": 1
+   "n": 6
   },
   {
    "label": "stunt",
-   "n": 1
+   "n": 6
+  },
+  {
+   "label": "event",
+   "n": 2
+  },
+  {
+   "label": "merch",
+   "n": 2
   }
  ],
  "brands": [],
  "latest": [
   {
-   "id": "uno-snappy-shopper-gta-6-snack-bundle",
-   "brand": "Snappy Shopper",
-   "title": "Snappy Shopper's £5.99 GTA 6 Snack Bundle",
+   "id": "uno-volvo-cars-gta-style-social-post",
+   "brand": "Volvo Cars",
+   "title": "Volvo: 99 years preventing collisions, 13 years waiting to cause them",
    "category": "unofficial",
    "status": "confirmed",
-   "type": "food and drink",
-   "date": "2026-11-17",
-   "added": "2026-11-18",
-   "source_name": "Snappy Shopper Retailer Hub",
-   "source_url": "https://www.hub.snappyshopper.co.uk/announcements/gta-6-snack-bundle-campaign-opt-in"
+   "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-19",
+   "source_name": "Marketing-Interactive",
+   "source_url": "https://www.marketing-interactive.com/stealing-more-than-cars-brands-hijack-the-gta-6-conversation"
   },
   {
-   "id": "uno-kfc-uk-cluck-n-bell-cadillac-delivery-in-london",
-   "brand": "KFC UK & Ireland",
-   "title": "KFC's 'Cluck n' Bell' pink Cadillac delivers in London",
-   "category": "unofficial",
-   "status": "rumoured",
-   "type": "promotion",
-   "date": "2026-11-19",
-   "added": "2026-11-18",
-   "source_name": "Dexerto",
-   "source_url": "https://www.dexerto.com/food/kfc-brings-gta-inspired-cluck-n-bell-to-life-with-delivery-car-straight-out-of-gta-6-3428986/"
-  },
-  {
-   "id": "uno-jbl-miami-gta-vi-launch-creator-day-with-clix",
-   "brand": "JBL",
-   "title": "JBL sponsors a Miami GTA VI launch day with Clix",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "event",
-   "date": "2026-11-19",
-   "added": "2026-11-18",
-   "source_name": "IGN",
-   "source_url": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond"
-  },
-  {
-   "id": "uno-inde-by-chairscarte-company-holiday-for-gta-vi-launch",
-   "brand": "Inde by ChairsCarte",
-   "title": "Chennai design firm Inde by ChairsCarte closes for GTA VI",
+   "id": "uno-visiontell-ceo-trades-a-day-off-for-likes",
+   "brand": "VisionTell",
+   "title": "VisionTell's CEO trades a GTA VI day off for 10,000 likes",
    "category": "unofficial",
    "status": "confirmed",
    "type": "stunt",
-   "date": "2026-11-19",
-   "added": "2026-11-18",
-   "source_name": "Times Now",
-   "source_url": "https://www.timesnownews.com/technology-science/just-2-days-left-for-gta-6-this-indian-company-announces-holiday-for-employees-on-november-19-article-156524927"
+   "date": "2026-11-20",
+   "added": "2026-11-19",
+   "source_name": "Business Insider",
+   "source_url": "https://www.businessinsider.com/grand-theft-auto-6-ask-boss-day-off-likes-trend-2026-11"
   },
   {
-   "id": "off-playstation-miami-heat-custom-gta-vi-ps5-pro-consoles",
-   "brand": "PlayStation / Rockstar Games",
-   "title": "Custom GTA VI PS5 Pro consoles for Miami HEAT players",
-   "category": "official",
+   "id": "uno-uncle-roger-gta-style-social-post",
+   "brand": "Uncle Roger",
+   "title": "Uncle Roger prescribes fried rice for 'GTA flu'",
+   "category": "unofficial",
    "status": "confirmed",
-   "type": "console",
-   "date": "2026-11-17",
-   "added": "2026-11-18",
-   "source_name": "Hypebeast",
-   "source_url": "https://hypebeast.com/2026/11/miami-heat-custom-grand-theft-auto-6-playstation-5-pro-consoles-vice-city-revealed"
+   "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-19",
+   "source_name": "Marketing-Interactive",
+   "source_url": "https://www.marketing-interactive.com/stealing-more-than-cars-brands-hijack-the-gta-6-conversation"
+  },
+  {
+   "id": "uno-tourism-new-zealand-getting-gta-6-first-post",
+   "brand": "Tourism New Zealand",
+   "title": "Tourism New Zealand welcomes the 'New Zealand trick' crowd",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "Eurogamer",
+   "source_url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick"
+  },
+  {
+   "id": "uno-toblerone-gta-style-social-post",
+   "brand": "Toblerone",
+   "title": "Toblerone: 'Caught with 4.5kg'",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-19",
+   "source_name": "Marketing-Interactive",
+   "source_url": "https://www.marketing-interactive.com/stealing-more-than-cars-brands-hijack-the-gta-6-conversation"
+  },
+  {
+   "id": "uno-terp-bros-gta-vi-launch-giveaways",
+   "brand": "Terp Bros",
+   "title": "New York dispensary Terp Bros runs a GTA VI countdown and giveaways",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "source_name": "Modern Retail",
+   "source_url": "https://www.modernretail.co/marketing/retailers-ride-the-grand-theft-auto-vi-wave-with-special-promos/"
+  },
+  {
+   "id": "uno-spectrum-500-hidden-hard-drives-in-new-york-and-la",
+   "brand": "Spectrum",
+   "title": "Spectrum reportedly hides 500 hard drives in New York and LA",
+   "category": "unofficial",
+   "status": "rumoured",
+   "type": "stunt",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "Adweek",
+   "source_url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/"
+  },
+  {
+   "id": "uno-snooze-free-delivery-with-code-gtadelivery",
+   "brand": "Snooze",
+   "title": "Snooze offers free delivery for launch with code GTADELIVERY",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "food and drink",
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "source_name": "Restaurant Business",
+   "source_url": "https://www.restaurantbusinessonline.com/marketing/grand-theft-appetite-restaurants-bet-big-launch-popular-video-game"
   }
  ],
  "upcoming": [
+  {
+   "id": "off-andrew-20-piece-gta-vi-capsule-collection",
+   "brand": "Andrew (Miami skate shop)",
+   "title": "Miami skate shop Andrew drops a 20-piece GTA VI capsule",
+   "category": "official",
+   "status": "rumoured",
+   "type": "merch",
+   "date": "2026-11-18",
+   "added": "2026-11-18",
+   "source_name": "Parade",
+   "source_url": "https://parade.com/shopping/andrew-skateshop-gta-6-collection"
+  },
+  {
+   "id": "off-rimowa-rimowa-x-rockstar-gta-vi-ps5-case",
+   "brand": "RIMOWA",
+   "title": "RIMOWA and Rockstar make a one-off GTA VI PS5 case",
+   "category": "official",
+   "status": "confirmed",
+   "type": "merch",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "Hypebeast",
+   "source_url": "https://hypebeast.com/2026/11/rimowa-rockstar-games-exclusive-grand-theft-auto-vi-playstation-5-case"
+  },
   {
    "id": "off-rockstar-atlantic-gta-vi-album-listening-parties",
    "brand": "Rockstar Games / Atlantic Records",
@@ -159,6 +219,54 @@
    "added": "2026-11-12",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
+  },
+  {
+   "id": "uno-blinkit-sells-gta-vi-in-11-indian-cities",
+   "brand": "Blinkit",
+   "title": "Blinkit delivers GTA VI in 11 Indian cities",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "retail",
+   "date": "2026-11-18",
+   "added": "2026-11-18",
+   "source_name": "Business Standard",
+   "source_url": "https://www.business-standard.com/amp/technology/tech-news/gta-vi-arrives-after-13-years-unlocking-a-business-world-beyond-gaming-126111800950_1.html"
+  },
+  {
+   "id": "uno-mcdonald-s-mcdelivery-ordering-inside-discord",
+   "brand": "McDonald's",
+   "title": "McDonald's puts McDelivery inside Discord for launch week",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "platform partnership",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "PR Newswire (McDonald's USA)",
+   "source_url": "https://www.prnewswire.com/news-releases/locked-in-gaming-mcdonalds-has-u-covered-on-discord-302943191.html"
+  },
+  {
+   "id": "uno-spectrum-500-hidden-hard-drives-in-new-york-and-la",
+   "brand": "Spectrum",
+   "title": "Spectrum reportedly hides 500 hard drives in New York and LA",
+   "category": "unofficial",
+   "status": "rumoured",
+   "type": "stunt",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "Adweek",
+   "source_url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/"
+  },
+  {
+   "id": "uno-tourism-new-zealand-getting-gta-6-first-post",
+   "brand": "Tourism New Zealand",
+   "title": "Tourism New Zealand welcomes the 'New Zealand trick' crowd",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "Eurogamer",
+   "source_url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick"
   },
   {
    "id": "off-weekly-famitsu-gta-vi-cover-and-32-page-special",
@@ -209,89 +317,17 @@
    "source_url": "https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7"
   },
   {
-   "id": "uno-inde-by-chairscarte-company-holiday-for-gta-vi-launch",
-   "brand": "Inde by ChairsCarte",
-   "title": "Chennai design firm Inde by ChairsCarte closes for GTA VI",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "stunt",
-   "date": "2026-11-19",
-   "added": "2026-11-18",
-   "source_name": "Times Now",
-   "source_url": "https://www.timesnownews.com/technology-science/just-2-days-left-for-gta-6-this-indian-company-announces-holiday-for-employees-on-november-19-article-156524927"
-  },
-  {
-   "id": "uno-jbl-miami-gta-vi-launch-creator-day-with-clix",
-   "brand": "JBL",
-   "title": "JBL sponsors a Miami GTA VI launch day with Clix",
+   "id": "uno-comic-con-india-gta-vi-launch-day-play-sessions",
+   "brand": "Comic Con India (Nodwin Gaming)",
+   "title": "Comic Con India hosts GTA VI launch-day play sessions",
    "category": "unofficial",
    "status": "confirmed",
    "type": "event",
    "date": "2026-11-19",
    "added": "2026-11-18",
-   "source_name": "IGN",
-   "source_url": "https://www.ign.com/articles/this-is-akin-to-a-moon-landing-how-gamings-top-content-creators-are-preparing-for-gta-6s-launch-and-beyond"
-  },
-  {
-   "id": "uno-kalshi-gta-vi-researcher-job",
-   "brand": "Kalshi",
-   "title": "Kalshi advertises a paid 'GTA VI researcher' job to livestream the game",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "media campaign",
-   "date": "2026-11-19",
-   "added": "2026-11-14",
-   "source_name": "Yahoo Finance UK",
-   "source_url": "https://uk.finance.yahoo.com/news/kalshi-is-hiring-a-gta-vi-researcher-to-livestream-the-game-and-study-its-economy-110000519.html"
-  },
-  {
-   "id": "uno-kfc-australia-funeral-for-ann-alibi-on-gta-vi-launch-day",
-   "brand": "KFC Australia",
-   "title": "KFC Australia holds a funeral for 'Ann Alibi' on GTA VI launch day",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "stunt",
-   "date": "2026-11-19",
-   "added": "2026-11-16",
-   "source_name": "Mumbrella",
-   "source_url": "https://mumbrella.com.au/kfc-stages-fake-funeral-to-give-gta-6-fans-an-excuse-to-chuck-a-sickie-944667"
-  },
-  {
-   "id": "uno-kfc-uk-cluck-n-bell-cadillac-delivery-in-london",
-   "brand": "KFC UK & Ireland",
-   "title": "KFC's 'Cluck n' Bell' pink Cadillac delivers in London",
-   "category": "unofficial",
-   "status": "rumoured",
-   "type": "promotion",
-   "date": "2026-11-19",
-   "added": "2026-11-18",
-   "source_name": "Dexerto",
-   "source_url": "https://www.dexerto.com/food/kfc-brings-gta-inspired-cluck-n-bell-to-life-with-delivery-car-straight-out-of-gta-6-3428986/"
-  },
-  {
-   "id": "uno-le-grand-rex-let-s-play-gta-vi-launch-night",
-   "brand": "Le Grand Rex / Iconic Production",
-   "title": "\"Let's Play GTA VI\" launch night at Le Grand Rex",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "event",
-   "date": "2026-11-19",
-   "added": "2026-11-03",
-   "source_name": "GTA BOOM",
-   "source_url": "https://www.gtaboom.com/a-historic-paris-cinema-is-turning-the-gta-6-launch-night-into-a-big-screen-event-c403"
-  },
-  {
-   "id": "uno-logitech-logi-game-day-gta-vi-day-off",
-   "brand": "Logitech",
-   "title": "Logitech gives its staff a day off for GTA VI launch",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "stunt",
-   "date": "2026-11-19",
-   "added": "2026-11-12",
-   "source_name": "Video Games Chronicle",
-   "source_url": "https://www.videogameschronicle.com/news/play-is-not-the-opposite-of-work-logitech-is-giving-workers-time-off-for-gta-6/"
+   "source_name": "Business Standard",
+   "source_url": "https://www.business-standard.com/amp/technology/tech-news/gta-vi-arrives-after-13-years-unlocking-a-business-world-beyond-gaming-126111800950_1.html"
   }
  ],
- "pushed": "2026-11-18T23:04:53+00:00"
+ "pushed": "2026-11-19T07:19:04+00:00"
 }
