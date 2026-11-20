@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-19T07:14:49+00:00",
- "read_on": "19 Nov 2026",
+ "generated": "2026-11-20T07:13:06+00:00",
+ "read_on": "20 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 38,
- "official": 3,
- "unofficial": 35,
+ "total": 53,
+ "official": 5,
+ "unofficial": 48,
  "reported": 4,
  "before": 186,
- "realworld_now": 224,
- "scheduled": 40,
+ "realworld_now": 239,
+ "scheduled": 50,
  "days": [
   {
    "date": "2026-11-18",
@@ -19,12 +19,12 @@
   {
    "date": "2026-11-19",
    "official": 1,
-   "unofficial": 28
+   "unofficial": 31
   },
   {
    "date": "2026-11-20",
-   "official": 0,
-   "unofficial": 0
+   "official": 2,
+   "unofficial": 10
   },
   {
    "date": "2026-11-21",
@@ -58,129 +58,136 @@
   }
  ],
  "sched": {
-  "official": 8,
-  "unofficial": 32,
+  "official": 9,
+  "unofficial": 41,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 14
+   "n": 18
+  },
+  {
+   "label": "stunt",
+   "n": 9
   },
   {
    "label": "food and drink",
    "n": 6
   },
   {
-   "label": "stunt",
-   "n": 6
-  },
-  {
-   "label": "event",
-   "n": 2
-  },
-  {
    "label": "merch",
-   "n": 2
+   "n": 4
+  },
+  {
+   "label": "promotion",
+   "n": 4
   }
  ],
- "brands": [],
+ "brands": [
+  {
+   "name": "PlayStation",
+   "n": 2,
+   "rank": 1,
+   "tied": false
+  }
+ ],
  "latest": [
   {
-   "id": "uno-volvo-cars-gta-style-social-post",
-   "brand": "Volvo Cars",
-   "title": "Volvo: 99 years preventing collisions, 13 years waiting to cause them",
+   "id": "uno-vivo-the-last-mission-gta-cash-into-reais",
+   "brand": "Vivo",
+   "title": "Vivo's 'The Last Mission' turns old GTA cash into real Brazilian reais",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "digital",
+   "date": "2026-11",
+   "added": "2026-11-20",
+   "source_name": "Ads of the World",
+   "source_url": "https://www.adsoftheworld.com/campaigns/the-last-mission"
+  },
+  {
+   "id": "uno-turo-cheat-codes-sydney-activation",
+   "brand": "Turo",
+   "title": "Turo's 'Cheat Codes' event lets Sydneysiders crack a code to win a car",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "event",
+   "date": "2026-11-14",
+   "added": "2026-11-20",
+   "source_name": "Mumbrella",
+   "source_url": "https://mumbrella.com.au/turo-brings-cheat-codes-to-life-with-sydney-activation-offering-luxury-car-experiences-943678"
+  },
+  {
+   "id": "uno-specsavers-sponsors-gta-transport-not-gta-vi",
+   "brand": "Specsavers",
+   "title": "Specsavers' 'biggest partnership of all time' is with GTA Transport, not GTA VI",
    "category": "unofficial",
    "status": "confirmed",
    "type": "social post",
    "date": "2026-11",
-   "added": "2026-11-19",
-   "source_name": "Marketing-Interactive",
-   "source_url": "https://www.marketing-interactive.com/stealing-more-than-cars-brands-hijack-the-gta-6-conversation"
+   "added": "2026-11-20",
+   "source_name": "Creative Bloq",
+   "source_url": "https://www.creativebloq.com/news/the-specsavers-gta-6-campaign-is-hilariously-on-brand"
   },
   {
-   "id": "uno-visiontell-ceo-trades-a-day-off-for-likes",
-   "brand": "VisionTell",
-   "title": "VisionTell's CEO trades a GTA VI day off for 10,000 likes",
+   "id": "uno-posh-management-thursday-is-officially-off",
+   "brand": "Posh Management",
+   "title": "Posh Management: 'Thursday is officially OFF' for GTA VI",
    "category": "unofficial",
    "status": "confirmed",
    "type": "stunt",
-   "date": "2026-11-20",
-   "added": "2026-11-19",
-   "source_name": "Business Insider",
-   "source_url": "https://www.businessinsider.com/grand-theft-auto-6-ask-boss-day-off-likes-trend-2026-11"
-  },
-  {
-   "id": "uno-uncle-roger-gta-style-social-post",
-   "brand": "Uncle Roger",
-   "title": "Uncle Roger prescribes fried rice for 'GTA flu'",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11",
-   "added": "2026-11-19",
-   "source_name": "Marketing-Interactive",
-   "source_url": "https://www.marketing-interactive.com/stealing-more-than-cars-brands-hijack-the-gta-6-conversation"
-  },
-  {
-   "id": "uno-tourism-new-zealand-getting-gta-6-first-post",
-   "brand": "Tourism New Zealand",
-   "title": "Tourism New Zealand welcomes the 'New Zealand trick' crowd",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11-18",
-   "added": "2026-11-19",
-   "source_name": "Eurogamer",
-   "source_url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick"
-  },
-  {
-   "id": "uno-toblerone-gta-style-social-post",
-   "brand": "Toblerone",
-   "title": "Toblerone: 'Caught with 4.5kg'",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11",
-   "added": "2026-11-19",
-   "source_name": "Marketing-Interactive",
-   "source_url": "https://www.marketing-interactive.com/stealing-more-than-cars-brands-hijack-the-gta-6-conversation"
-  },
-  {
-   "id": "uno-terp-bros-gta-vi-launch-giveaways",
-   "brand": "Terp Bros",
-   "title": "New York dispensary Terp Bros runs a GTA VI countdown and giveaways",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "promotion",
    "date": "2026-11-19",
-   "added": "2026-11-19",
-   "source_name": "Modern Retail",
-   "source_url": "https://www.modernretail.co/marketing/retailers-ride-the-grand-theft-auto-vi-wave-with-special-promos/"
+   "added": "2026-11-20",
+   "source_name": "Gulf News",
+   "source_url": "https://gulfnews.com/technology/companies-declare-holiday-for-gta-vi-launch-on-november-19-1.500751741"
   },
   {
-   "id": "uno-spectrum-500-hidden-hard-drives-in-new-york-and-la",
-   "brand": "Spectrum",
-   "title": "Spectrum reportedly hides 500 hard drives in New York and LA",
+   "id": "uno-narendra-modi-gta-v-to-gta-vi-india-upgraded-post",
+   "brand": "Narendra Modi",
+   "title": "India's Prime Minister posts 'how India upgraded' between GTA V and GTA VI",
    "category": "unofficial",
-   "status": "rumoured",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "source_name": "The Indian Express",
+   "source_url": "https://indianexpress.com/article/india/pm-modi-gta-6-insta-post-india-upgraded-bjp-12-years-10969323/"
+  },
+  {
+   "id": "uno-heinz-real-gorge-ketchup-bottles-giveaway",
+   "brand": "Heinz",
+   "title": "Heinz makes real bottles of GTA VI's 'GORGE' ketchup",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "product",
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "source_name": "Parade (via The Wenatchee World)",
+   "source_url": "https://www.wenatcheeworld.com/arena/lifestyle_entertainment/heinz-is-turning-a-gta-6-easter-egg-into-real-ketchup-bottles-and-fans-can/article_35b93681-5b0c-524c-823c-27c57dfefd08.html"
+  },
+  {
+   "id": "uno-doordash-miami-late-night-orders-up-25-on-launch-night",
+   "brand": "DoorDash",
+   "title": "DoorDash: Miami late-night orders up nearly 25% on GTA VI launch night",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "digital",
+   "date": "2026-11-18",
+   "added": "2026-11-20",
+   "source_name": "GTA BOOM",
+   "source_url": "https://www.gtaboom.com/miami-doordashed-the-most-launch-night-takeout-ever-for-gta-6-53ca"
+  },
+  {
+   "id": "uno-dakauz-company-holiday-for-gta-vi",
+   "brand": "Dakauz",
+   "title": "Dakauz declares a company holiday for GTA VI",
+   "category": "unofficial",
+   "status": "confirmed",
    "type": "stunt",
-   "date": "2026-11-18",
-   "added": "2026-11-19",
-   "source_name": "Adweek",
-   "source_url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/"
-  },
-  {
-   "id": "uno-snooze-free-delivery-with-code-gtadelivery",
-   "brand": "Snooze",
-   "title": "Snooze offers free delivery for launch with code GTADELIVERY",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "food and drink",
    "date": "2026-11-19",
-   "added": "2026-11-19",
-   "source_name": "Restaurant Business",
-   "source_url": "https://www.restaurantbusinessonline.com/marketing/grand-theft-appetite-restaurants-bet-big-launch-popular-video-game"
+   "added": "2026-11-20",
+   "source_name": "Gulf News",
+   "source_url": "https://gulfnews.com/technology/companies-declare-holiday-for-gta-vi-launch-on-november-19-1.500751741"
   }
  ],
  "upcoming": [
@@ -221,6 +228,18 @@
    "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
   },
   {
+   "id": "uno-bitget-ceo-trades-day-off-for-in-game-crypto-screenshot",
+   "brand": "Bitget",
+   "title": "Bitget CEO trades a day off for an in-game crypto screenshot",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "Blockzeit",
+   "source_url": "https://blockzeit.com/bitget-rides-the-gta-vi-hypetrain-with-new-giveaway/"
+  },
+  {
    "id": "uno-blinkit-sells-gta-vi-in-11-indian-cities",
    "brand": "Blinkit",
    "title": "Blinkit delivers GTA VI in 11 Indian cities",
@@ -231,6 +250,30 @@
    "added": "2026-11-18",
    "source_name": "Business Standard",
    "source_url": "https://www.business-standard.com/amp/technology/tech-news/gta-vi-arrives-after-13-years-unlocking-a-business-world-beyond-gaming-126111800950_1.html"
+  },
+  {
+   "id": "uno-boat-optional-day-off-for-gta-vi-launch",
+   "brand": "boAt",
+   "title": "boAt gives staff an optional day off: \"Out of office. Into Vice City\"",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "India.com",
+   "source_url": "https://www.india.com/viral/gta-6-craze-in-india-boat-influish-announce-paid-holiday-for-employees-on-nov-19-allow-staff-to-enjoy-vice-city-8546102/"
+  },
+  {
+   "id": "uno-doordash-miami-late-night-orders-up-25-on-launch-night",
+   "brand": "DoorDash",
+   "title": "DoorDash: Miami late-night orders up nearly 25% on GTA VI launch night",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "digital",
+   "date": "2026-11-18",
+   "added": "2026-11-20",
+   "source_name": "GTA BOOM",
+   "source_url": "https://www.gtaboom.com/miami-doordashed-the-most-launch-night-takeout-ever-for-gta-6-53ca"
   },
   {
    "id": "uno-mcdonald-s-mcdelivery-ordering-inside-discord",
@@ -269,6 +312,18 @@
    "source_url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick"
   },
   {
+   "id": "off-rockstar-games-official-gta-vi-map-download-and-poster",
+   "brand": "Rockstar Games",
+   "title": "Rockstar releases the official GTA VI map as a free download, with a poster to follow",
+   "category": "official",
+   "status": "confirmed",
+   "type": "merch",
+   "date": "2026-11-19",
+   "added": "2026-11-20",
+   "source_name": "Pure Xbox",
+   "source_url": "https://www.purexbox.com/news/2026/11/the-official-gta-6-map-is-now-available-to-download-for-free"
+  },
+  {
    "id": "off-weekly-famitsu-gta-vi-cover-and-32-page-special",
    "brand": "Weekly Famitsu",
    "title": "Weekly Famitsu puts GTA VI on its cover with a 32-page special",
@@ -279,55 +334,7 @@
    "added": "2026-11-16",
    "source_name": "Beebom",
    "source_url": "https://beebom.com/gta-6-famitsu-magazine-article-announced-japan/"
-  },
-  {
-   "id": "off-youtube-youtube-x-rockstar-gta-vi-launch-partnership",
-   "brand": "YouTube",
-   "title": "YouTube and Rockstar partner on GTA VI launch, with a 24-hour livestream",
-   "category": "official",
-   "status": "confirmed",
-   "type": "platform partnership",
-   "date": "2026-11-19",
-   "added": "2026-11-13",
-   "source_name": "YouTube Official Blog",
-   "source_url": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/"
-  },
-  {
-   "id": "uno-bolt-grand-trip-away-competition",
-   "brand": "Bolt",
-   "title": "Bolt's 'Grand Trip Away' competition sends a gamer's partner on a launch-weekend trip",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "promotion",
-   "date": "2026-11-19",
-   "added": "2026-11-14",
-   "source_name": "Roastbrief US",
-   "source_url": "https://roastbrief.us/bolts-grand-trip-away-gives-one-overlooked-gamers-partner-a-real-life-adventure-on-the-gta-vi-launch-weekend/"
-  },
-  {
-   "id": "uno-clevelander-south-beach-gta-vi-launch-party",
-   "brand": "Clevelander South Beach",
-   "title": "The real Ocean View Hotel throws a GTA VI launch party",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "event",
-   "date": "2026-11-19",
-   "added": "2026-11-12",
-   "source_name": "GTA BOOM",
-   "source_url": "https://www.gtaboom.com/the-real-life-ocean-view-hotel-is-throwing-a-gta-vi-launch-party-96f7"
-  },
-  {
-   "id": "uno-comic-con-india-gta-vi-launch-day-play-sessions",
-   "brand": "Comic Con India (Nodwin Gaming)",
-   "title": "Comic Con India hosts GTA VI launch-day play sessions",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "event",
-   "date": "2026-11-19",
-   "added": "2026-11-18",
-   "source_name": "Business Standard",
-   "source_url": "https://www.business-standard.com/amp/technology/tech-news/gta-vi-arrives-after-13-years-unlocking-a-business-world-beyond-gaming-126111800950_1.html"
   }
  ],
- "pushed": "2026-11-19T19:32:33+00:00"
+ "pushed": "2026-11-20T07:16:19+00:00"
 }
