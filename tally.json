@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-20T07:13:06+00:00",
+ "generated": "2026-11-20T07:54:28+00:00",
  "read_on": "20 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 53,
+ "total": 57,
  "official": 5,
- "unofficial": 48,
+ "unofficial": 52,
  "reported": 4,
  "before": 186,
- "realworld_now": 239,
- "scheduled": 50,
+ "realworld_now": 243,
+ "scheduled": 51,
  "days": [
   {
    "date": "2026-11-18",
@@ -19,12 +19,12 @@
   {
    "date": "2026-11-19",
    "official": 1,
-   "unofficial": 31
+   "unofficial": 32
   },
   {
    "date": "2026-11-20",
    "official": 2,
-   "unofficial": 10
+   "unofficial": 13
   },
   {
    "date": "2026-11-21",
@@ -59,13 +59,13 @@
  ],
  "sched": {
   "official": 9,
-  "unofficial": 41,
+  "unofficial": 42,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 18
+   "n": 21
   },
   {
    "label": "stunt",
@@ -142,6 +142,18 @@
    "source_url": "https://gulfnews.com/technology/companies-declare-holiday-for-gta-vi-launch-on-november-19-1.500751741"
   },
   {
+   "id": "uno-nhs-england-bandaged-hand-gta6-rsi-advice",
+   "brand": "NHS England",
+   "title": "NHS England posts its social media manager's bandaged hand ahead of GTA 6",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-16",
+   "added": "2026-11-20",
+   "source_name": "NHS on Instagram",
+   "source_url": "https://www.instagram.com/p/Dfzi_xeF0Ci/"
+  },
+  {
    "id": "uno-narendra-modi-gta-v-to-gta-vi-india-upgraded-post",
    "brand": "Narendra Modi",
    "title": "India's Prime Minister posts 'how India upgraded' between GTA V and GTA VI",
@@ -154,6 +166,18 @@
    "source_url": "https://indianexpress.com/article/india/pm-modi-gta-6-insta-post-india-upgraded-bjp-12-years-10969323/"
   },
   {
+   "id": "uno-mini-vice-city-style-convertible-post",
+   "brand": "MINI",
+   "title": "MINI posts its convertible in a neon Vice City-style setting",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-20",
+   "source_name": "MINI on Instagram",
+   "source_url": "https://www.instagram.com/p/DfXoGulDEKI/"
+  },
+  {
    "id": "uno-heinz-real-gorge-ketchup-bottles-giveaway",
    "brand": "Heinz",
    "title": "Heinz makes real bottles of GTA VI's 'GORGE' ketchup",
@@ -164,30 +188,6 @@
    "added": "2026-11-20",
    "source_name": "Parade (via The Wenatchee World)",
    "source_url": "https://www.wenatcheeworld.com/arena/lifestyle_entertainment/heinz-is-turning-a-gta-6-easter-egg-into-real-ketchup-bottles-and-fans-can/article_35b93681-5b0c-524c-823c-27c57dfefd08.html"
-  },
-  {
-   "id": "uno-doordash-miami-late-night-orders-up-25-on-launch-night",
-   "brand": "DoorDash",
-   "title": "DoorDash: Miami late-night orders up nearly 25% on GTA VI launch night",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-18",
-   "added": "2026-11-20",
-   "source_name": "GTA BOOM",
-   "source_url": "https://www.gtaboom.com/miami-doordashed-the-most-launch-night-takeout-ever-for-gta-6-53ca"
-  },
-  {
-   "id": "uno-dakauz-company-holiday-for-gta-vi",
-   "brand": "Dakauz",
-   "title": "Dakauz declares a company holiday for GTA VI",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "stunt",
-   "date": "2026-11-19",
-   "added": "2026-11-20",
-   "source_name": "Gulf News",
-   "source_url": "https://gulfnews.com/technology/companies-declare-holiday-for-gta-vi-launch-on-november-19-1.500751741"
   }
  ],
  "upcoming": [
@@ -300,6 +300,18 @@
    "source_url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/"
   },
   {
+   "id": "uno-state-farm-vice-city-ooh-hijack-and-survey",
+   "brand": "State Farm",
+   "title": "State Farm parks a Vice City OOH truck beside Miami's GTA murals",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "outdoor ad",
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "source_name": "State Farm media kit",
+   "source_url": "https://drive.google.com/drive/folders/1ykS6R31j_ZXBxW7vzqe81EU3LFQORLrU?usp=sharing"
+  },
+  {
    "id": "uno-tourism-new-zealand-getting-gta-6-first-post",
    "brand": "Tourism New Zealand",
    "title": "Tourism New Zealand welcomes the 'New Zealand trick' crowd",
@@ -322,19 +334,7 @@
    "added": "2026-11-20",
    "source_name": "Pure Xbox",
    "source_url": "https://www.purexbox.com/news/2026/11/the-official-gta-6-map-is-now-available-to-download-for-free"
-  },
-  {
-   "id": "off-weekly-famitsu-gta-vi-cover-and-32-page-special",
-   "brand": "Weekly Famitsu",
-   "title": "Weekly Famitsu puts GTA VI on its cover with a 32-page special",
-   "category": "official",
-   "status": "confirmed",
-   "type": "media campaign",
-   "date": "2026-11-19",
-   "added": "2026-11-16",
-   "source_name": "Beebom",
-   "source_url": "https://beebom.com/gta-6-famitsu-magazine-article-announced-japan/"
   }
  ],
- "pushed": "2026-11-20T07:16:19+00:00"
+ "pushed": "2026-11-20T13:31:29+00:00"
 }
