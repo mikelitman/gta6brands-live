@@ -3,13 +3,13 @@
  "read_on": "21 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 74,
- "official": 5,
+ "total": 77,
+ "official": 8,
  "unofficial": 69,
- "reported": 3,
+ "reported": 2,
  "before": 186,
- "realworld_now": 260,
- "scheduled": 68,
+ "realworld_now": 263,
+ "scheduled": 70,
  "days": [
   {
    "date": "2026-11-18",
@@ -28,7 +28,7 @@
   },
   {
    "date": "2026-11-21",
-   "official": 0,
+   "official": 3,
    "unofficial": 16
   },
   {
@@ -58,9 +58,9 @@
   }
  ],
  "sched": {
-  "official": 9,
+  "official": 11,
   "unofficial": 59,
-  "reported": 3
+  "reported": 2
  },
  "types": [
   {
@@ -73,11 +73,11 @@
   },
   {
    "label": "digital",
-   "n": 7
+   "n": 8
   },
   {
    "label": "food and drink",
-   "n": 6
+   "n": 7
   },
   {
    "label": "promotion",
@@ -200,14 +200,14 @@
   {
    "id": "off-andrew-20-piece-gta-vi-capsule-collection",
    "brand": "Andrew (Miami skate shop)",
-   "title": "Miami skate shop Andrew drops a 20-piece GTA VI capsule",
+   "title": "Andrew releases an official 20-piece GTA VI capsule with Rockstar",
    "category": "official",
-   "status": "rumoured",
+   "status": "confirmed",
    "type": "merch",
    "date": "2026-11-18",
    "added": "2026-11-18",
-   "source_name": "Parade",
-   "source_url": "https://parade.com/shopping/andrew-skateshop-gta-6-collection"
+   "source_name": "Andrew",
+   "source_url": "https://andrewmiami.com/"
   },
   {
    "id": "off-rimowa-rimowa-x-rockstar-gta-vi-ps5-case",
@@ -342,5 +342,5 @@
    "source_url": "https://drive.google.com/drive/folders/1ykS6R31j_ZXBxW7vzqe81EU3LFQORLrU?usp=sharing"
   }
  ],
- "pushed": "2026-11-21T15:06:03+00:00"
+ "pushed": "2026-11-21T17:33:54+00:00"
 }
