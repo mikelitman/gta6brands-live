@@ -1,0 +1,116 @@
+{
+ "snapshot": "2026-11-22",
+ "note": "Built from each entry's added date and the published snapshots.",
+ "changes": [
+  {
+   "date": "2026-11-22",
+   "kind": "release",
+   "text": "Snapshot 22 Nov 2026 published: CSV, JSON, Markdown and a ZIP."
+  },
+  {
+   "date": "2026-11-22",
+   "kind": "added",
+   "text": "2 entries added."
+  },
+  {
+   "date": "2026-11-21",
+   "kind": "added",
+   "text": "50+ entries added."
+  },
+  {
+   "date": "2026-11-20",
+   "kind": "added",
+   "text": "20+ entries added."
+  },
+  {
+   "date": "2026-11-19",
+   "kind": "added",
+   "text": "30+ entries added."
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "added",
+   "text": "9 entries added."
+  },
+  {
+   "date": "2026-11-17",
+   "kind": "added",
+   "text": "10+ entries added."
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "added",
+   "text": "10+ entries added."
+  },
+  {
+   "date": "2026-11-15",
+   "kind": "added",
+   "text": "10+ entries added."
+  },
+  {
+   "date": "2026-11-14",
+   "kind": "added",
+   "text": "10+ entries added."
+  },
+  {
+   "date": "2026-11-13",
+   "kind": "added",
+   "text": "7 entries added."
+  },
+  {
+   "date": "2026-11-12",
+   "kind": "added",
+   "text": "8 entries added."
+  },
+  {
+   "date": "2026-11-11",
+   "kind": "added",
+   "text": "5 entries added."
+  },
+  {
+   "date": "2026-11-10",
+   "kind": "added",
+   "text": "8 entries added."
+  },
+  {
+   "date": "2026-11-09",
+   "kind": "added",
+   "text": "6 entries added."
+  },
+  {
+   "date": "2026-11-08",
+   "kind": "added",
+   "text": "6 entries added."
+  },
+  {
+   "date": "2026-11-07",
+   "kind": "added",
+   "text": "5 entries added."
+  },
+  {
+   "date": "2026-11-06",
+   "kind": "added",
+   "text": "1 entry added."
+  },
+  {
+   "date": "2026-11-05",
+   "kind": "added",
+   "text": "1 entry added."
+  },
+  {
+   "date": "2026-11-04",
+   "kind": "added",
+   "text": "3 entries added."
+  },
+  {
+   "date": "2026-11-03",
+   "kind": "added",
+   "text": "6 entries added."
+  },
+  {
+   "date": "2026-11-02",
+   "kind": "start",
+   "text": "Tracker opened with 150+ entries."
+  }
+ ]
+}
