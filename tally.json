@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-21T07:13:16+00:00",
- "read_on": "21 Nov 2026",
+ "generated": "2026-11-22T07:08:39+00:00",
+ "read_on": "22 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 77,
- "official": 8,
- "unofficial": 69,
- "reported": 2,
+ "total": 79,
+ "official": 6,
+ "unofficial": 73,
+ "reported": 3,
  "before": 186,
- "realworld_now": 263,
- "scheduled": 70,
+ "realworld_now": 265,
+ "scheduled": 73,
  "days": [
   {
    "date": "2026-11-18",
@@ -28,13 +28,13 @@
   },
   {
    "date": "2026-11-21",
-   "official": 3,
-   "unofficial": 16
+   "official": 0,
+   "unofficial": 19
   },
   {
    "date": "2026-11-22",
-   "official": 0,
-   "unofficial": 0
+   "official": 1,
+   "unofficial": 1
   },
   {
    "date": "2026-11-23",
@@ -58,9 +58,9 @@
   }
  ],
  "sched": {
-  "official": 11,
-  "unofficial": 59,
-  "reported": 2
+  "official": 10,
+  "unofficial": 63,
+  "reported": 3
  },
  "types": [
   {
@@ -68,20 +68,20 @@
    "n": 29
   },
   {
+   "label": "digital",
+   "n": 10
+  },
+  {
    "label": "stunt",
    "n": 10
   },
   {
-   "label": "digital",
-   "n": 8
-  },
-  {
    "label": "food and drink",
-   "n": 7
+   "n": 6
   },
   {
    "label": "promotion",
-   "n": 5
+   "n": 6
   }
  ],
  "brands": [
@@ -99,6 +99,30 @@
   }
  ],
  "latest": [
+  {
+   "id": "uno-g-fuel-miami-heist-giveaway",
+   "brand": "G FUEL",
+   "title": "G FUEL runs a GTA VI-themed 'Miami Heist' giveaway",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-21",
+   "added": "2026-11-22",
+   "source_name": "G FUEL",
+   "source_url": "https://gfuel.com/pages/miami-heists"
+  },
+  {
+   "id": "off-ign-official-gta-vi-strategy-guide",
+   "brand": "IGN Entertainment",
+   "title": "IGN hosts the Official Online Guide for GTA VI, made with Rockstar",
+   "category": "official",
+   "status": "confirmed",
+   "type": "digital",
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "source_name": "GamesIndustry.biz",
+   "source_url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6"
+  },
   {
    "id": "uno-tamil-nadu-police-grand-theft-demolisher",
    "brand": "Tamil Nadu Police",
@@ -170,44 +194,20 @@
    "added": "2026-11-21",
    "source_name": "CNBC TV18",
    "source_url": "https://www.cnbctv18.com/entertainment/gta-vi-is-here-and-indias-politicians-and-brands-want-in-on-the-game-20038103.htm"
-  },
-  {
-   "id": "uno-kerala-tourism-great-trips-ahead-poster",
-   "brand": "Kerala Tourism",
-   "title": "Kerala Tourism swaps Vice City beaches for tea hills",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11-19",
-   "added": "2026-11-21",
-   "source_name": "CNBC TV18",
-   "source_url": "https://www.cnbctv18.com/entertainment/gta-vi-is-here-and-indias-politicians-and-brands-want-in-on-the-game-20038103.htm"
-  },
-  {
-   "id": "uno-hyperoptic-launch-eve-busiest-night",
-   "brand": "Hyperoptic",
-   "title": "Hyperoptic: launch eve its busiest night of the month",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-19",
-   "added": "2026-11-21",
-   "source_name": "Hyperoptic",
-   "source_url": "https://www.hyperoptic.com/press/2026/gta-vi-turned-midnight-into-prime-time"
   }
  ],
  "upcoming": [
   {
    "id": "off-andrew-20-piece-gta-vi-capsule-collection",
    "brand": "Andrew (Miami skate shop)",
-   "title": "Andrew releases an official 20-piece GTA VI capsule with Rockstar",
+   "title": "Miami skate shop Andrew drops a 20-piece GTA VI capsule",
    "category": "official",
-   "status": "confirmed",
+   "status": "rumoured",
    "type": "merch",
    "date": "2026-11-18",
    "added": "2026-11-18",
-   "source_name": "Andrew",
-   "source_url": "https://andrewmiami.com/"
+   "source_name": "Parade",
+   "source_url": "https://parade.com/shopping/andrew-skateshop-gta-6-collection"
   },
   {
    "id": "off-rimowa-rimowa-x-rockstar-gta-vi-ps5-case",
@@ -342,5 +342,5 @@
    "source_url": "https://drive.google.com/drive/folders/1ykS6R31j_ZXBxW7vzqe81EU3LFQORLrU?usp=sharing"
   }
  ],
- "pushed": "2026-11-21T23:38:46+00:00"
+ "pushed": "2026-11-22T07:10:51+00:00"
 }
