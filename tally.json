@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-23T07:09:57+00:00",
+ "generated": "2026-11-23T08:05:02+00:00",
  "read_on": "23 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 82,
- "official": 7,
- "unofficial": 75,
+ "total": 102,
+ "official": 8,
+ "unofficial": 94,
  "reported": 3,
  "before": 186,
- "realworld_now": 268,
- "scheduled": 77,
+ "realworld_now": 288,
+ "scheduled": 82,
  "days": [
   {
    "date": "2026-11-18",
@@ -38,8 +38,8 @@
   },
   {
    "date": "2026-11-23",
-   "official": 0,
-   "unofficial": 1
+   "official": 1,
+   "unofficial": 20
   },
   {
    "date": "2026-11-24",
@@ -58,44 +58,44 @@
   }
  ],
  "sched": {
-  "official": 11,
-  "unofficial": 66,
+  "official": 12,
+  "unofficial": 70,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 30
+   "n": 43
+  },
+  {
+   "label": "stunt",
+   "n": 11
   },
   {
    "label": "digital",
    "n": 10
   },
   {
-   "label": "stunt",
-   "n": 10
+   "label": "promotion",
+   "n": 7
   },
   {
    "label": "food and drink",
-   "n": 6
-  },
-  {
-   "label": "promotion",
    "n": 6
   }
  ],
  "brands": [
   {
-   "name": "Heineken",
-   "n": 2,
+   "name": "PlayStation",
+   "n": 3,
    "rank": 1,
-   "tied": true
+   "tied": false
   },
   {
-   "name": "PlayStation",
+   "name": "Heineken",
    "n": 2,
-   "rank": 1,
-   "tied": true
+   "rank": 2,
+   "tied": false
   }
  ],
  "latest": [
@@ -112,88 +112,88 @@
    "source_url": "https://www.dexerto.com/food/just-eat-reveals-limited-edition-controller-with-order-food-button-for-instant-deliveries-3429904/"
   },
   {
-   "id": "uno-whatsapp-renames-x-account-whatup",
-   "brand": "WhatsApp (Meta)",
-   "title": "WhatsApp renames its X account 'WhatUp' after GTA VI's parody app",
+   "id": "uno-xpeng-ngp-too-law-abiding",
+   "brand": "XPENG",
+   "title": "XPENG jokes that its NGP is too law-abiding for Vice City",
    "category": "unofficial",
    "status": "confirmed",
    "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-23",
+   "source_name": "El País",
+   "source_url": "https://motor.elpais.com/actualidad/bmw-toyota-y-byd-se-apuntan-al-fenomeno-gta-6-asi-aprovechan-las-marcas-de-coches-el-lanzamiento-del-grand-theft-auto/"
+  },
+  {
+   "id": "uno-veronica-paid-day-off-for-launch",
+   "brand": "Veronica",
+   "title": "Veronica offers five viewers €300 each to take 19 November off",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "tv",
    "date": "2026-11-19",
-   "added": "2026-11-22",
-   "source_name": "Business Insider (via AOL)",
-   "source_url": "https://www.aol.co.uk/articles/whats-whatsapps-x-page-meta-112936000.html"
+   "added": "2026-11-23",
+   "source_name": "RTV Focus Zwolle",
+   "source_url": "https://www.rtvfocuszwolle.nl/gta-6-gekte-nederland-reclame-acties-zwolle/"
   },
   {
-   "id": "uno-g-fuel-miami-heist-giveaway",
-   "brand": "G FUEL",
-   "title": "G FUEL runs a GTA VI-themed 'Miami Heist' giveaway",
+   "id": "uno-thuisbezorgd-cheat-knop-controller",
+   "brand": "Thuisbezorgd.nl",
+   "title": "Thuisbezorgd.nl's 'Cheat Knop' controller orders a meal mid-game",
    "category": "unofficial",
    "status": "confirmed",
-   "type": "promotion",
-   "date": "2026-11-21",
-   "added": "2026-11-22",
-   "source_name": "G FUEL",
-   "source_url": "https://gfuel.com/pages/miami-heists"
+   "type": "product",
+   "date": "2026-11-17",
+   "added": "2026-11-23",
+   "source_name": "RTV Focus Zwolle",
+   "source_url": "https://www.rtvfocuszwolle.nl/gta-6-gekte-nederland-reclame-acties-zwolle/"
   },
   {
-   "id": "off-ign-official-gta-vi-strategy-guide",
-   "brand": "IGN Entertainment",
-   "title": "IGN hosts the Official Online Guide for GTA VI, made with Rockstar",
-   "category": "official",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-20",
-   "added": "2026-11-22",
-   "source_name": "GamesIndustry.biz",
-   "source_url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6"
-  },
-  {
-   "id": "uno-tamil-nadu-police-grand-theft-demolisher",
-   "brand": "Tamil Nadu Police",
-   "title": "Tamil Nadu Police: 'Grand Theft Demolisher' anti-drugs creative",
+   "id": "uno-postnl-midnight-release-delivery",
+   "brand": "PostNL",
+   "title": "PostNL's 'Midnight Release' delivers GTA 6 in the middle of the night",
    "category": "unofficial",
    "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11-19",
-   "added": "2026-11-21",
-   "source_name": "CNBC TV18",
-   "source_url": "https://www.cnbctv18.com/entertainment/gta-vi-is-here-and-indias-politicians-and-brands-want-in-on-the-game-20038103.htm"
+   "type": "stunt",
+   "date": "2026-11-12",
+   "added": "2026-11-23",
+   "source_name": "The Invaders",
+   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
   },
   {
-   "id": "uno-mwave-diary-killer",
-   "brand": "Mwave",
-   "title": "Mwave's 'Diary Killer' fills work calendars so gamers can play GTA 6",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-18",
-   "added": "2026-11-21",
-   "source_name": "Campaign Brief",
-   "source_url": "https://campaignbrief.com/mwave-lets-gamers-work-through-gta-6-launch-day-with-diary-killer-via-the-general-store/"
-  },
-  {
-   "id": "uno-modelo-model0-real-life-has-no-restart",
-   "brand": "Modelo",
-   "title": "Modelo's Model0% recreates GTA VI scenes: 'Real life has no restart'",
+   "id": "uno-politie-wanted-collegas-recruitment",
+   "brand": "Politie (Dutch Police)",
+   "title": "Politie's 'Wanted. Collega's.' campaign recruits with GTA-style films",
    "category": "unofficial",
    "status": "confirmed",
    "type": "video",
-   "date": "2026-11-20",
-   "added": "2026-11-21",
-   "source_name": "LBB",
-   "source_url": "https://lbbonline.com/news/modelo-brings-responsible-drinking-to-gta"
+   "date": "2026-11-18",
+   "added": "2026-11-23",
+   "source_name": "The Invaders",
+   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
   },
   {
-   "id": "uno-mercedes-benz-andrew-mytro-art-post",
-   "brand": "Mercedes-Benz",
-   "title": "Mercedes-Benz: no Carl and Bertha Benz, no auto to steal",
+   "id": "uno-philips-tv-france-ambilight-police-chase",
+   "brand": "Philips TV (France)",
+   "title": "Philips TV France pitches Ambilight as police-chase 'gyrophares' on the walls",
    "category": "unofficial",
    "status": "confirmed",
    "type": "social post",
-   "date": "2026-11-19",
-   "added": "2026-11-21",
-   "source_name": "Creative Bloq",
-   "source_url": "https://www.creativebloq.com/news/the-best-gta-6-brand-reactions-from-mercedes-benz-to-huggies"
+   "date": "2026-11",
+   "added": "2026-11-23",
+   "source_name": "RMC Conso",
+   "source_url": "https://rmc.bfmtv.com/conso/loisirs/burger-king-jbl-u-les-marques-s-emparent-de-gta-vi-pour-promouvoir-leurs-produits-mais-est-ce-que-ca-marche-vraiment_AN-202611200557.html"
+  },
+  {
+   "id": "uno-pemex-petrol-station-new-mission",
+   "brand": "Pemex",
+   "title": "Pemex presents energy sovereignty as a Vice City 'new mission'",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-23",
+   "source_name": "Expansión",
+   "source_url": "https://expansion.mx/mercadotecnia/2026/11/19/gta-6-marketing-marcas-publicidad"
   }
  ],
  "upcoming": [
@@ -208,6 +208,18 @@
    "added": "2026-11-18",
    "source_name": "Parade",
    "source_url": "https://parade.com/shopping/andrew-skateshop-gta-6-collection"
+  },
+  {
+   "id": "off-playstation-netherlands-choose-your-own-style",
+   "brand": "PlayStation Netherlands",
+   "title": "PlayStation Netherlands' 'Choose your own style' DualSense fashion posts",
+   "category": "official",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-18",
+   "added": "2026-11-23",
+   "source_name": "The Invaders",
+   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
   },
   {
    "id": "off-rimowa-rimowa-x-rockstar-gta-vi-ps5-case",
@@ -318,29 +330,17 @@
    "source_url": "https://campaignbrief.com/mwave-lets-gamers-work-through-gta-6-launch-day-with-diary-killer-via-the-general-store/"
   },
   {
-   "id": "uno-spectrum-500-hidden-hard-drives-in-new-york-and-la",
-   "brand": "Spectrum",
-   "title": "Spectrum reportedly hides 500 hard drives in New York and LA",
-   "category": "unofficial",
-   "status": "rumoured",
-   "type": "stunt",
-   "date": "2026-11-18",
-   "added": "2026-11-19",
-   "source_name": "Adweek",
-   "source_url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/"
-  },
-  {
-   "id": "uno-state-farm-vice-city-ooh-hijack-and-survey",
-   "brand": "State Farm",
-   "title": "State Farm parks a Vice City OOH truck beside Miami's GTA murals",
+   "id": "uno-politie-wanted-collegas-recruitment",
+   "brand": "Politie (Dutch Police)",
+   "title": "Politie's 'Wanted. Collega's.' campaign recruits with GTA-style films",
    "category": "unofficial",
    "status": "confirmed",
-   "type": "outdoor ad",
+   "type": "video",
    "date": "2026-11-18",
-   "added": "2026-11-19",
-   "source_name": "State Farm media kit",
-   "source_url": "https://drive.google.com/drive/folders/1ykS6R31j_ZXBxW7vzqe81EU3LFQORLrU?usp=sharing"
+   "added": "2026-11-23",
+   "source_name": "The Invaders",
+   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
   }
  ],
- "pushed": "2026-11-23T08:01:09+00:00"
+ "pushed": "2026-11-23T08:27:51+00:00"
 }
