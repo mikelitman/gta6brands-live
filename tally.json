@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-23T08:05:02+00:00",
+ "generated": "2026-11-23T10:14:10+00:00",
  "read_on": "23 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 102,
- "official": 8,
- "unofficial": 94,
+ "total": 159,
+ "official": 9,
+ "unofficial": 150,
  "reported": 3,
  "before": 186,
- "realworld_now": 288,
- "scheduled": 82,
+ "realworld_now": 345,
+ "scheduled": 123,
  "days": [
   {
    "date": "2026-11-18",
@@ -38,8 +38,8 @@
   },
   {
    "date": "2026-11-23",
-   "official": 1,
-   "unofficial": 20
+   "official": 2,
+   "unofficial": 76
   },
   {
    "date": "2026-11-24",
@@ -59,43 +59,61 @@
  ],
  "sched": {
   "official": 12,
-  "unofficial": 70,
+  "unofficial": 111,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 43
-  },
-  {
-   "label": "stunt",
-   "n": 11
-  },
-  {
-   "label": "digital",
-   "n": 10
+   "n": 70
   },
   {
    "label": "promotion",
-   "n": 7
+   "n": 18
+  },
+  {
+   "label": "digital",
+   "n": 16
+  },
+  {
+   "label": "stunt",
+   "n": 12
   },
   {
    "label": "food and drink",
-   "n": 6
+   "n": 8
   }
  ],
  "brands": [
   {
+   "name": "KFC",
+   "n": 3,
+   "rank": 1,
+   "tied": true
+  },
+  {
    "name": "PlayStation",
    "n": 3,
    "rank": 1,
-   "tied": false
+   "tied": true
+  },
+  {
+   "name": "Uber Eats",
+   "n": 3,
+   "rank": 1,
+   "tied": true
+  },
+  {
+   "name": "DoorDash",
+   "n": 2,
+   "rank": 4,
+   "tied": true
   },
   {
    "name": "Heineken",
    "n": 2,
-   "rank": 2,
-   "tied": false
+   "rank": 4,
+   "tied": true
   }
  ],
  "latest": [
@@ -124,6 +142,18 @@
    "source_url": "https://motor.elpais.com/actualidad/bmw-toyota-y-byd-se-apuntan-al-fenomeno-gta-6-asi-aprovechan-las-marcas-de-coches-el-lanzamiento-del-grand-theft-auto/"
   },
   {
+   "id": "uno-wingstop-spain-ps5-giveaway",
+   "brand": "Wingstop Spain",
+   "title": "Wingstop gives away PS5 and GTA VI packs at four Spanish restaurants",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "source_name": "MarketingNews",
+   "source_url": "https://www.marketingnews.es/marcas/noticia/1196260054305/kfc-y-wingstop-se-suman-al-furor-por-el-lanzamiento-de-la-nueva-entrega-del-videojuego-gta.1.html"
+  },
+  {
    "id": "uno-veronica-paid-day-off-for-launch",
    "brand": "Veronica",
    "title": "Veronica offers five viewers €300 each to take 19 November off",
@@ -136,64 +166,52 @@
    "source_url": "https://www.rtvfocuszwolle.nl/gta-6-gekte-nederland-reclame-acties-zwolle/"
   },
   {
-   "id": "uno-thuisbezorgd-cheat-knop-controller",
-   "brand": "Thuisbezorgd.nl",
-   "title": "Thuisbezorgd.nl's 'Cheat Knop' controller orders a meal mid-game",
+   "id": "uno-universal-pictures-universal-pictures-me-finishing-literally-everything-before",
+   "brand": "Universal Pictures",
+   "title": "Universal Pictures: 'me finishing literally everything before GTA 6'",
    "category": "unofficial",
    "status": "confirmed",
-   "type": "product",
-   "date": "2026-11-17",
-   "added": "2026-11-23",
-   "source_name": "RTV Focus Zwolle",
-   "source_url": "https://www.rtvfocuszwolle.nl/gta-6-gekte-nederland-reclame-acties-zwolle/"
-  },
-  {
-   "id": "uno-postnl-midnight-release-delivery",
-   "brand": "PostNL",
-   "title": "PostNL's 'Midnight Release' delivers GTA 6 in the middle of the night",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "stunt",
-   "date": "2026-11-12",
-   "added": "2026-11-23",
-   "source_name": "The Invaders",
-   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
-  },
-  {
-   "id": "uno-politie-wanted-collegas-recruitment",
-   "brand": "Politie (Dutch Police)",
-   "title": "Politie's 'Wanted. Collega's.' campaign recruits with GTA-style films",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "video",
+   "type": "social post",
    "date": "2026-11-18",
    "added": "2026-11-23",
-   "source_name": "The Invaders",
-   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
+   "source_name": "Mashable India",
+   "source_url": "https://in.mashable.com/tech/116336/gta-vi-launch-from-pizza-hut-to-playstation-swiggy-other-brands-join-in-celebration-with-hilarious-j"
   },
   {
-   "id": "uno-philips-tv-france-ambilight-police-chase",
-   "brand": "Philips TV (France)",
-   "title": "Philips TV France pitches Ambilight as police-chase 'gyrophares' on the walls",
+   "id": "uno-uber-eats-uber-eats-onamission-launch-day-code",
+   "brand": "Uber Eats",
+   "title": "Uber Eats' 'ONAMISSION' launch-day code",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11-19",
+   "added": "2026-11-23",
+   "source_name": "Mashable",
+   "source_url": "https://me.mashable.com/life-1/78483/gta-6-inspires-doordash-ubereats-grubhub-discount-codes"
+  },
+  {
+   "id": "uno-uber-eats-germany-berlin-graffiti-billboard",
+   "brand": "Uber Eats Germany",
+   "title": "Uber Eats sprays a giant graffiti billboard in Berlin for launch day",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "outdoor ad",
+   "date": "2026-11-19",
+   "added": "2026-11-23",
+   "source_name": "Campaign Germany",
+   "source_url": "https://campaigngermany.de/news/beitrag/4605-gta-vi-hype-uber-eats-positioniert-sich-als-erste-adresse-fuer-hungrige-gamer.html"
+  },
+  {
+   "id": "uno-uber-eats-france-jour-sacre",
+   "brand": "Uber Eats France",
+   "title": "Uber Eats France declares 19 November a 'sacred' day, not a holiday",
    "category": "unofficial",
    "status": "confirmed",
    "type": "social post",
    "date": "2026-11",
    "added": "2026-11-23",
-   "source_name": "RMC Conso",
-   "source_url": "https://rmc.bfmtv.com/conso/loisirs/burger-king-jbl-u-les-marques-s-emparent-de-gta-vi-pour-promouvoir-leurs-produits-mais-est-ce-que-ca-marche-vraiment_AN-202611200557.html"
-  },
-  {
-   "id": "uno-pemex-petrol-station-new-mission",
-   "brand": "Pemex",
-   "title": "Pemex presents energy sovereignty as a Vice City 'new mission'",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11",
-   "added": "2026-11-23",
-   "source_name": "Expansión",
-   "source_url": "https://expansion.mx/mercadotecnia/2026/11/19/gta-6-marketing-marcas-publicidad"
+   "source_name": "Dans Ta Pub",
+   "source_url": "https://www.danstapub.com/sortie-gta-6-meilleures-reactions-marques/"
   }
  ],
  "upcoming": [
@@ -246,6 +264,30 @@
    "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
   },
   {
+   "id": "uno-american-heart-association-american-heart-association-book-your-check-up-on-your-gta-si",
+   "brand": "American Heart Association",
+   "title": "American Heart Association: book your check-up on your GTA sick day",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-18",
+   "added": "2026-11-23",
+   "source_name": "Mashable India",
+   "source_url": "https://in.mashable.com/tech/116336/gta-vi-launch-from-pizza-hut-to-playstation-swiggy-other-brands-join-in-celebration-with-hilarious-j"
+  },
+  {
+   "id": "uno-banco-do-brasil-launch-night-livestream",
+   "brand": "Banco do Brasil",
+   "title": "Banco do Brasil hosts a launch-night livestream with influencers",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "streaming",
+   "date": "2026-11-18",
+   "added": "2026-11-23",
+   "source_name": "Folha de S.Paulo",
+   "source_url": "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-de-diferentes-setores-e-portes-usam-gta-6-para-ampliar-vendas-ou-fortalecer-marca.shtml"
+  },
+  {
    "id": "uno-bitget-ceo-trades-day-off-for-in-game-crypto-screenshot",
    "brand": "Bitget",
    "title": "Bitget CEO trades a day off for an in-game crypto screenshot",
@@ -294,53 +336,29 @@
    "source_url": "https://www.androidauthority.com/galaxy-z-fold-8-gta-vi-edition-3736869/"
   },
   {
-   "id": "uno-doordash-miami-late-night-orders-up-25-on-launch-night",
-   "brand": "DoorDash",
-   "title": "DoorDash: Miami late-night orders up nearly 25% on GTA VI launch night",
+   "id": "uno-cheil-sidemission-meeting-tool",
+   "brand": "Cheil",
+   "title": "Cheil's Sidemission.nl lets fans play through video calls",
    "category": "unofficial",
    "status": "confirmed",
    "type": "digital",
-   "date": "2026-11-18",
-   "added": "2026-11-20",
-   "source_name": "GTA BOOM",
-   "source_url": "https://www.gtaboom.com/miami-doordashed-the-most-launch-night-takeout-ever-for-gta-6-53ca"
-  },
-  {
-   "id": "uno-mcdonald-s-mcdelivery-ordering-inside-discord",
-   "brand": "McDonald's",
-   "title": "McDonald's puts McDelivery inside Discord for launch week",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "platform partnership",
-   "date": "2026-11-18",
-   "added": "2026-11-19",
-   "source_name": "PR Newswire (McDonald's USA)",
-   "source_url": "https://www.prnewswire.com/news-releases/locked-in-gaming-mcdonalds-has-u-covered-on-discord-302943191.html"
-  },
-  {
-   "id": "uno-mwave-diary-killer",
-   "brand": "Mwave",
-   "title": "Mwave's 'Diary Killer' fills work calendars so gamers can play GTA 6",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-18",
-   "added": "2026-11-21",
-   "source_name": "Campaign Brief",
-   "source_url": "https://campaignbrief.com/mwave-lets-gamers-work-through-gta-6-launch-day-with-diary-killer-via-the-general-store/"
-  },
-  {
-   "id": "uno-politie-wanted-collegas-recruitment",
-   "brand": "Politie (Dutch Police)",
-   "title": "Politie's 'Wanted. Collega's.' campaign recruits with GTA-style films",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "video",
    "date": "2026-11-18",
    "added": "2026-11-23",
-   "source_name": "The Invaders",
-   "source_url": "https://theinvaders.nl/from-politie-to-postnl-the-invaders-activates-four-brands-around-gta-vi/"
+   "source_name": "Adformatie",
+   "source_url": "https://www.adformatie.nl/tech/contentmarketing/van-samsung-tot-postnl-zo-haken-merken-in-op-gta-vi"
+  },
+  {
+   "id": "uno-chorus-chorus-gta-vi-sets-new-zealand-s-broadband-record",
+   "brand": "Chorus",
+   "title": "Chorus: GTA VI sets New Zealand's broadband record",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "digital",
+   "date": "2026-11-18",
+   "added": "2026-11-23",
+   "source_name": "NZ Herald",
+   "source_url": "https://www.nzherald.co.nz/business/pack-a-lunch-heres-how-long-will-take-you-to-download-grand-theft-auto-vi/E6OQW3SPQNFBVNRKEUCXKRIODQ/"
   }
  ],
- "pushed": "2026-11-23T08:27:51+00:00"
+ "pushed": "2026-11-23T10:27:22+00:00"
 }
