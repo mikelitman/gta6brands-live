@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-22T08:53:08+00:00",
- "read_on": "22 Nov 2026",
+ "generated": "2026-11-23T07:09:57+00:00",
+ "read_on": "23 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 80,
+ "total": 82,
  "official": 7,
- "unofficial": 73,
+ "unofficial": 75,
  "reported": 3,
  "before": 186,
- "realworld_now": 266,
- "scheduled": 74,
+ "realworld_now": 268,
+ "scheduled": 77,
  "days": [
   {
    "date": "2026-11-18",
@@ -34,12 +34,12 @@
   {
    "date": "2026-11-22",
    "official": 1,
-   "unofficial": 1
+   "unofficial": 2
   },
   {
    "date": "2026-11-23",
    "official": 0,
-   "unofficial": 0
+   "unofficial": 1
   },
   {
    "date": "2026-11-24",
@@ -59,13 +59,13 @@
  ],
  "sched": {
   "official": 11,
-  "unofficial": 63,
+  "unofficial": 66,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 29
+   "n": 30
   },
   {
    "label": "digital",
@@ -99,6 +99,30 @@
   }
  ],
  "latest": [
+  {
+   "id": "uno-just-eat-cheat-button-controller-giveaway",
+   "brand": "Just Eat",
+   "title": "Just Eat's 'ChEAT Button' controller lets players order food mid-game",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "product",
+   "date": "2026-11-19",
+   "added": "2026-11-23",
+   "source_name": "Dexerto",
+   "source_url": "https://www.dexerto.com/food/just-eat-reveals-limited-edition-controller-with-order-food-button-for-instant-deliveries-3429904/"
+  },
+  {
+   "id": "uno-whatsapp-renames-x-account-whatup",
+   "brand": "WhatsApp (Meta)",
+   "title": "WhatsApp renames its X account 'WhatUp' after GTA VI's parody app",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "source_name": "Business Insider (via AOL)",
+   "source_url": "https://www.aol.co.uk/articles/whats-whatsapps-x-page-meta-112936000.html"
+  },
   {
    "id": "uno-g-fuel-miami-heist-giveaway",
    "brand": "G FUEL",
@@ -170,30 +194,6 @@
    "added": "2026-11-21",
    "source_name": "Creative Bloq",
    "source_url": "https://www.creativebloq.com/news/the-best-gta-6-brand-reactions-from-mercedes-benz-to-huggies"
-  },
-  {
-   "id": "uno-linx-manchester-traffic-up-41-per-cent",
-   "brand": "LINX",
-   "title": "LINX: Manchester exchange traffic up 41% as GTA VI goes live",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-19",
-   "added": "2026-11-21",
-   "source_name": "LINX",
-   "source_url": "https://www.linx.net/news/gta-increases-linx-manchester-traffic-41-per-cent/"
-  },
-  {
-   "id": "uno-libas-grand-styles-theft-auto-6",
-   "brand": "Libas",
-   "title": "Libas: 'Grand Styles Theft Auto 6: The Libas Heist'",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11-19",
-   "added": "2026-11-21",
-   "source_name": "CNBC TV18",
-   "source_url": "https://www.cnbctv18.com/entertainment/gta-vi-is-here-and-indias-politicians-and-brands-want-in-on-the-game-20038103.htm"
   }
  ],
  "upcoming": [
@@ -342,5 +342,5 @@
    "source_url": "https://drive.google.com/drive/folders/1ykS6R31j_ZXBxW7vzqe81EU3LFQORLrU?usp=sharing"
   }
  ],
- "pushed": "2026-11-22T22:41:25+00:00"
+ "pushed": "2026-11-23T07:13:55+00:00"
 }
