@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-23T10:14:10+00:00",
+ "generated": "2026-11-23T20:05:02+00:00",
  "read_on": "23 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 159,
- "official": 9,
+ "total": 160,
+ "official": 10,
  "unofficial": 150,
  "reported": 3,
  "before": 186,
- "realworld_now": 345,
- "scheduled": 123,
+ "realworld_now": 346,
+ "scheduled": 124,
  "days": [
   {
    "date": "2026-11-18",
@@ -38,7 +38,7 @@
   },
   {
    "date": "2026-11-23",
-   "official": 2,
+   "official": 3,
    "unofficial": 76
   },
   {
@@ -58,7 +58,7 @@
   }
  ],
  "sched": {
-  "official": 12,
+  "official": 13,
   "unofficial": 111,
   "reported": 3
  },
@@ -360,5 +360,5 @@
    "source_url": "https://www.nzherald.co.nz/business/pack-a-lunch-heres-how-long-will-take-you-to-download-grand-theft-auto-vi/E6OQW3SPQNFBVNRKEUCXKRIODQ/"
   }
  ],
- "pushed": "2026-11-23T10:27:22+00:00"
+ "pushed": "2026-11-23T20:12:53+00:00"
 }
