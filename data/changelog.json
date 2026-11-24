@@ -1,7 +1,17 @@
 {
- "snapshot": "2026-11-22",
+ "snapshot": "2026-11-23",
  "note": "Built from each entry's added date and the published snapshots.",
  "changes": [
+  {
+   "date": "2026-11-23",
+   "kind": "release",
+   "text": "Snapshot 23 Nov 2026 published: CSV, JSON, Markdown and a ZIP."
+  },
+  {
+   "date": "2026-11-23",
+   "kind": "added",
+   "text": "70+ entries added."
+  },
   {
    "date": "2026-11-22",
    "kind": "release",
@@ -10,7 +20,7 @@
   {
    "date": "2026-11-22",
    "kind": "added",
-   "text": "2 entries added."
+   "text": "6 entries added."
   },
   {
    "date": "2026-11-21",
