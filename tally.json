@@ -3,13 +3,13 @@
  "read_on": "24 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 176,
- "official": 11,
+ "total": 177,
+ "official": 12,
  "unofficial": 165,
  "reported": 3,
  "before": 186,
- "realworld_now": 362,
- "scheduled": 128,
+ "realworld_now": 363,
+ "scheduled": 129,
  "days": [
   {
    "date": "2026-11-18",
@@ -43,7 +43,7 @@
   },
   {
    "date": "2026-11-24",
-   "official": 0,
+   "official": 1,
    "unofficial": 12
   },
   {
@@ -58,7 +58,7 @@
   }
  ],
  "sched": {
-  "official": 14,
+  "official": 15,
   "unofficial": 114,
   "reported": 3
  },
@@ -117,6 +117,18 @@
   }
  ],
  "latest": [
+  {
+   "id": "off-rockstar-games-ocean-outdoor-westfield-centro-oberhausen-ooh",
+   "brand": "Rockstar Games / Ocean Outdoor",
+   "title": "GTA VI takes over the screens at Westfield Centro Oberhausen",
+   "category": "official",
+   "status": "confirmed",
+   "type": "outdoor ad",
+   "date": "2026-11-18",
+   "added": "2026-11-24",
+   "source_name": "Der Westen",
+   "source_url": "https://www.derwesten.de/staedte/oberhausen/centro-oberhausen-shops-gta-vi-release-wiederzuerkennen-id302199866.html"
+  },
   {
    "id": "uno-zoo-wroclaw-gta-v-gta-vi-penguin-numbers-post",
    "brand": "ZOO Wrocław",
@@ -200,18 +212,6 @@
    "added": "2026-11-24",
    "source_name": "Wirtualnemedia.pl",
    "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
-  },
-  {
-   "id": "uno-inpost-gta-vi-codes-for-incoins",
-   "brand": "InPost",
-   "title": "InPost offers GTA VI codes for 3,500 InCoins",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "promotion",
-   "date": "2026-11",
-   "added": "2026-11-24",
-   "source_name": "Wirtualnemedia.pl",
-   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
   }
  ],
  "upcoming": [
@@ -262,6 +262,18 @@
    "added": "2026-11-12",
    "source_name": "GTA BOOM",
    "source_url": "https://www.gtaboom.com/gta-6-album-listening-parties-confirmed-for-230-plus-record-stores-in-the-us-on-november-18-4d74"
+  },
+  {
+   "id": "off-rockstar-games-ocean-outdoor-westfield-centro-oberhausen-ooh",
+   "brand": "Rockstar Games / Ocean Outdoor",
+   "title": "GTA VI takes over the screens at Westfield Centro Oberhausen",
+   "category": "official",
+   "status": "confirmed",
+   "type": "outdoor ad",
+   "date": "2026-11-18",
+   "added": "2026-11-24",
+   "source_name": "Der Westen",
+   "source_url": "https://www.derwesten.de/staedte/oberhausen/centro-oberhausen-shops-gta-vi-release-wiederzuerkennen-id302199866.html"
   },
   {
    "id": "uno-american-heart-association-american-heart-association-book-your-check-up-on-your-gta-si",
@@ -346,19 +358,7 @@
    "added": "2026-11-23",
    "source_name": "Adformatie",
    "source_url": "https://www.adformatie.nl/tech/contentmarketing/van-samsung-tot-postnl-zo-haken-merken-in-op-gta-vi"
-  },
-  {
-   "id": "uno-chorus-chorus-gta-vi-sets-new-zealand-s-broadband-record",
-   "brand": "Chorus",
-   "title": "Chorus: GTA VI sets New Zealand's broadband record",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "digital",
-   "date": "2026-11-18",
-   "added": "2026-11-23",
-   "source_name": "NZ Herald",
-   "source_url": "https://www.nzherald.co.nz/business/pack-a-lunch-heres-how-long-will-take-you-to-download-grand-theft-auto-vi/E6OQW3SPQNFBVNRKEUCXKRIODQ/"
   }
  ],
- "pushed": "2026-11-24T08:26:43+00:00"
+ "pushed": "2026-11-24T12:34:41+00:00"
 }
