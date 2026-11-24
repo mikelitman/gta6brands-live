@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-24T07:09:47+00:00",
+ "generated": "2026-11-24T18:06:43+00:00",
  "read_on": "24 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 177,
- "official": 12,
+ "total": 178,
+ "official": 13,
  "unofficial": 165,
  "reported": 3,
  "before": 186,
- "realworld_now": 363,
- "scheduled": 129,
+ "realworld_now": 364,
+ "scheduled": 130,
  "days": [
   {
    "date": "2026-11-18",
@@ -43,7 +43,7 @@
   },
   {
    "date": "2026-11-24",
-   "official": 1,
+   "official": 2,
    "unofficial": 12
   },
   {
@@ -58,14 +58,14 @@
   }
  ],
  "sched": {
-  "official": 15,
+  "official": 16,
   "unofficial": 114,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 78
+   "n": 79
   },
   {
    "label": "promotion",
@@ -360,5 +360,5 @@
    "source_url": "https://www.adformatie.nl/tech/contentmarketing/van-samsung-tot-postnl-zo-haken-merken-in-op-gta-vi"
   }
  ],
- "pushed": "2026-11-24T12:34:41+00:00"
+ "pushed": "2026-11-24T18:15:54+00:00"
 }
