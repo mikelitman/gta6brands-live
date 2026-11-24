@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-23T20:05:02+00:00",
- "read_on": "23 Nov 2026",
+ "generated": "2026-11-24T07:09:47+00:00",
+ "read_on": "24 Nov 2026",
  "start": "2026-11-18",
  "end": "2026-11-26",
- "total": 160,
- "official": 10,
- "unofficial": 150,
+ "total": 176,
+ "official": 11,
+ "unofficial": 165,
  "reported": 3,
  "before": 186,
- "realworld_now": 346,
- "scheduled": 124,
+ "realworld_now": 362,
+ "scheduled": 128,
  "days": [
   {
    "date": "2026-11-18",
@@ -38,13 +38,13 @@
   },
   {
    "date": "2026-11-23",
-   "official": 3,
-   "unofficial": 76
+   "official": 4,
+   "unofficial": 79
   },
   {
    "date": "2026-11-24",
    "official": 0,
-   "unofficial": 0
+   "unofficial": 12
   },
   {
    "date": "2026-11-25",
@@ -58,18 +58,18 @@
   }
  ],
  "sched": {
-  "official": 13,
-  "unofficial": 111,
+  "official": 14,
+  "unofficial": 114,
   "reported": 3
  },
  "types": [
   {
    "label": "social post",
-   "n": 70
+   "n": 78
   },
   {
    "label": "promotion",
-   "n": 18
+   "n": 21
   },
   {
    "label": "digital",
@@ -77,7 +77,7 @@
   },
   {
    "label": "stunt",
-   "n": 12
+   "n": 13
   },
   {
    "label": "food and drink",
@@ -118,100 +118,100 @@
  ],
  "latest": [
   {
-   "id": "uno-just-eat-cheat-button-controller-giveaway",
-   "brand": "Just Eat",
-   "title": "Just Eat's 'ChEAT Button' controller lets players order food mid-game",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "product",
-   "date": "2026-11-19",
-   "added": "2026-11-23",
-   "source_name": "Dexerto",
-   "source_url": "https://www.dexerto.com/food/just-eat-reveals-limited-edition-controller-with-order-food-button-for-instant-deliveries-3429904/"
-  },
-  {
-   "id": "uno-xpeng-ngp-too-law-abiding",
-   "brand": "XPENG",
-   "title": "XPENG jokes that its NGP is too law-abiding for Vice City",
+   "id": "uno-zoo-wroclaw-gta-v-gta-vi-penguin-numbers-post",
+   "brand": "ZOO Wrocław",
+   "title": "Wrocław Zoo pairs GTA V and GTA VI logos with a penguin-numbers message",
    "category": "unofficial",
    "status": "confirmed",
    "type": "social post",
    "date": "2026-11",
-   "added": "2026-11-23",
-   "source_name": "El País",
-   "source_url": "https://motor.elpais.com/actualidad/bmw-toyota-y-byd-se-apuntan-al-fenomeno-gta-6-asi-aprovechan-las-marcas-de-coches-el-lanzamiento-del-grand-theft-auto/"
+   "added": "2026-11-24",
+   "source_name": "Wirtualnemedia.pl",
+   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
   },
   {
-   "id": "uno-wingstop-spain-ps5-giveaway",
-   "brand": "Wingstop Spain",
-   "title": "Wingstop gives away PS5 and GTA VI packs at four Spanish restaurants",
+   "id": "uno-x-kom-overnight-gta-vi-launch-event-warsaw",
+   "brand": "x-kom",
+   "title": "x-kom holds an overnight GTA VI launch event in Warsaw",
    "category": "unofficial",
    "status": "confirmed",
-   "type": "promotion",
-   "date": "2026-11-20",
-   "added": "2026-11-23",
-   "source_name": "MarketingNews",
-   "source_url": "https://www.marketingnews.es/marcas/noticia/1196260054305/kfc-y-wingstop-se-suman-al-furor-por-el-lanzamiento-de-la-nueva-entrega-del-videojuego-gta.1.html"
+   "type": "event",
+   "date": "2026-11",
+   "added": "2026-11-24",
+   "source_name": "Wirtualnemedia.pl",
+   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
   },
   {
-   "id": "uno-veronica-paid-day-off-for-launch",
-   "brand": "Veronica",
-   "title": "Veronica offers five viewers €300 each to take 19 November off",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "tv",
-   "date": "2026-11-19",
-   "added": "2026-11-23",
-   "source_name": "RTV Focus Zwolle",
-   "source_url": "https://www.rtvfocuszwolle.nl/gta-6-gekte-nederland-reclame-acties-zwolle/"
-  },
-  {
-   "id": "uno-universal-pictures-universal-pictures-me-finishing-literally-everything-before",
-   "brand": "Universal Pictures",
-   "title": "Universal Pictures: 'me finishing literally everything before GTA 6'",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "social post",
-   "date": "2026-11-18",
-   "added": "2026-11-23",
-   "source_name": "Mashable India",
-   "source_url": "https://in.mashable.com/tech/116336/gta-vi-launch-from-pizza-hut-to-playstation-swiggy-other-brands-join-in-celebration-with-hilarious-j"
-  },
-  {
-   "id": "uno-uber-eats-uber-eats-onamission-launch-day-code",
-   "brand": "Uber Eats",
-   "title": "Uber Eats' 'ONAMISSION' launch-day code",
+   "id": "uno-twix-doppelgamer-body-double-competition",
+   "brand": "Twix",
+   "title": "Twix offers a professional body double so you can play GTA VI instead of working",
    "category": "unofficial",
    "status": "confirmed",
    "type": "promotion",
    "date": "2026-11-19",
-   "added": "2026-11-23",
-   "source_name": "Mashable",
-   "source_url": "https://me.mashable.com/life-1/78483/gta-6-inspires-doordash-ubereats-grubhub-discount-codes"
+   "added": "2026-11-24",
+   "source_name": "LBB",
+   "source_url": "https://lbbonline.com/news/Grand-theft-auto-vi-global-brands-marketing-round-up-news-list"
   },
   {
-   "id": "uno-uber-eats-germany-berlin-graffiti-billboard",
-   "brand": "Uber Eats Germany",
-   "title": "Uber Eats sprays a giant graffiti billboard in Berlin for launch day",
-   "category": "unofficial",
-   "status": "confirmed",
-   "type": "outdoor ad",
-   "date": "2026-11-19",
-   "added": "2026-11-23",
-   "source_name": "Campaign Germany",
-   "source_url": "https://campaigngermany.de/news/beitrag/4605-gta-vi-hype-uber-eats-positioniert-sich-als-erste-adresse-fuer-hungrige-gamer.html"
-  },
-  {
-   "id": "uno-uber-eats-france-jour-sacre",
-   "brand": "Uber Eats France",
-   "title": "Uber Eats France declares 19 November a 'sacred' day, not a holiday",
+   "id": "uno-slaski-ogrod-zoologiczny-invites-gamers-loved-ones",
+   "brand": "Śląski Ogród Zoologiczny",
+   "title": "Silesian Zoo invites the loved ones of people absorbed in GTA VI",
    "category": "unofficial",
    "status": "confirmed",
    "type": "social post",
    "date": "2026-11",
-   "added": "2026-11-23",
-   "source_name": "Dans Ta Pub",
-   "source_url": "https://www.danstapub.com/sortie-gta-6-meilleures-reactions-marques/"
+   "added": "2026-11-24",
+   "source_name": "Wirtualnemedia.pl",
+   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
+  },
+  {
+   "id": "uno-personal-touch-skincare-holiday-for-gta-vi-launch",
+   "brand": "Personal Touch Skincare",
+   "title": "Delhi beauty brand Personal Touch Skincare declares 19 November a holiday",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "stunt",
+   "date": "2026-11-19",
+   "added": "2026-11-24",
+   "source_name": "CNA",
+   "source_url": "https://www.channelnewsasia.com/asia/gaming-cafes-packed-offices-declare-holidays-how-grand-theft-auto-vi-fever-gripped-india-6574361"
+  },
+  {
+   "id": "uno-muzeum-narodowe-krakow-gaming-memes",
+   "brand": "Muzeum Narodowe w Krakowie",
+   "title": "National Museum in Kraków turns paintings into gaming and sick-day memes",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "social post",
+   "date": "2026-11",
+   "added": "2026-11-24",
+   "source_name": "Wirtualnemedia.pl",
+   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
+  },
+  {
+   "id": "uno-linkhouse-launch-leave-joke-and-double-points",
+   "brand": "Linkhouse",
+   "title": "Linkhouse jokes about launch-day leave and doubles points during Black Weeks",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11",
+   "added": "2026-11-24",
+   "source_name": "Wirtualnemedia.pl",
+   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
+  },
+  {
+   "id": "uno-inpost-gta-vi-codes-for-incoins",
+   "brand": "InPost",
+   "title": "InPost offers GTA VI codes for 3,500 InCoins",
+   "category": "unofficial",
+   "status": "confirmed",
+   "type": "promotion",
+   "date": "2026-11",
+   "added": "2026-11-24",
+   "source_name": "Wirtualnemedia.pl",
+   "source_url": "https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a"
   }
  ],
  "upcoming": [
@@ -360,5 +360,5 @@
    "source_url": "https://www.nzherald.co.nz/business/pack-a-lunch-heres-how-long-will-take-you-to-download-grand-theft-auto-vi/E6OQW3SPQNFBVNRKEUCXKRIODQ/"
   }
  ],
- "pushed": "2026-11-24T00:37:25+00:00"
+ "pushed": "2026-11-24T08:26:43+00:00"
 }
