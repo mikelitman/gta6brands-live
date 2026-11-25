@@ -1,15 +1,15 @@
 ---
 title: "GTA 6 Brands tracker"
-snapshot: "2026-11-23"
-entries: 453
+snapshot: "2026-11-25"
+entries: 473
 source: "https://www.gta6brands.com/tracker/"
 licence: "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: hello@mikelitman.me. The sources belong to their publishers."
-cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 23 Nov 2026. https://www.gta6brands.com/data/"
+cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 25 Nov 2026. https://www.gta6brands.com/data/"
 ---
 
 # GTA 6 Brands tracker
 
-Every GTA 6 brand move on gta6brands.com, read on 23 Nov 2026. One entry per section. Each links to its source.
+Every GTA 6 brand move on gta6brands.com, read on 25 Nov 2026. One entry per section. Each links to its source.
 
 ## 24/7
 
@@ -1386,8 +1386,8 @@ Official empty GTA VI display cases and posters were photographed in Currys and 
 - type: digital
 - date: 2026-08-27
 - location: UK / global
-- source_name: LBB Online
-- source_url: https://lbbonline.com/news/Dazed-Magazine-Cover-Story-Honours-Grand-Theft-Auto-VI-Launch
+- source_name: Dazed
+- source_url: https://www.dazeddigital.com/life-culture/article/70859/1/gta-6-grand-theft-auto-vi-rockstar-exclusive-deep-dive-game-unparalleled-world
 - added: 2026-11-02
 
 Dazed's "New Idols" issue put Jason and Lucia on the cover, with original artwork made by Rockstar, fashion by Rockstar's in-house team and interviews with Rob Nelson of Rockstar North and Rupert Humphries, Rockstar's senior vice president of narrative.
@@ -1760,6 +1760,19 @@ Miami HEAT star Giannis Antetokounmpo previewed a player-exclusive Freak 8 with 
 - added: 2026-11-02
 
 Rockstar opened pre-orders on 24 September for a $399.99 collectible set themed on the in-game TV show Macca the Gator. It includes GTA VI Oakley Frogskins sunglasses, a New Era 9FORTY cap and a Macca figure among other items. The game is not included.
+
+## Panini America / Rockstar Games: Panini and Rockstar announce the GTA VI Sports Trading Card Collection
+
+- id: off-panini-america-gta-vi-sports-trading-card-collection
+- category: official
+- status: confirmed
+- type: merch
+- date: 2026-11-24
+- source_name: Panini America
+- source_url: https://blog.paniniamerica.net/panini-and-rockstar-games-announce-grand-theft-auto-vi-trading-card-collection/
+- added: 2026-11-24
+
+On 24 November 2026, Panini America announced a partnership with Rockstar Games for officially licensed trading cards, the GTA VI: Sports Trading Card Collection, to be released in December 2026. The collection features real-world versions of in-game card collectibles found throughout the world of Grand Theft Auto VI. Each four-pack box includes on average two Rookies, one Retro, one Illustrated and four Special Silvers, plus rare-numbered cards and team colour parallels, including Silver, Pink, Teal and Light Blue, and Legend Bronze (numbered to 49), Silver (numbered to 25) and 1-of-1 Gold parallels.
 
 ## PlayStation: GTA VI theatre at the PlayStation booth, Tokyo Game Show 2026
 
@@ -2147,6 +2160,20 @@ A fan video posted on 9 November by X user videotech shows GTA VI key art and th
 
 Fan posts on X on 11 November show a passenger tunnel at King's Cross Underground station wrapped in pink and purple Grand Theft Auto VI artwork with the November 2026 release date. One poster wrote they never imagined "seeing king's cross wrapped in GTA 6 ads". No outlet or Rockstar post has reported it yet, so it is unconfirmed.
 
+## Rockstar Games: Rockstar surprise-releases a deluxe GTA VI album with 23 bonus tracks
+
+- id: off-rockstar-games-gta-vi-the-album-deluxe-edition
+- category: official
+- status: confirmed
+- type: music
+- date: 2026-11-23
+- location: Global
+- source_name: PlayStation LifeStyle
+- source_url: https://www.playstationlifestyle.net/2026/11/23/gta-6-major-addition-23-new-songs
+- added: 2026-11-23
+
+Four days after launch, Rockstar released a deluxe edition of Grand Theft Auto VI: The Album on streaming services, adding 23 bonus tracks to take it from 34 to 57 songs. Artists include Travis Scott, Slayyyter, The Dare, Denzel Curry, Offset and Overmono, who contribute five songs; Dork credits the release to Rockstar and Atlantic Records.
+
 ## Rockstar Games: GTA VI trailer reported on the Piccadilly Circus screen
 
 - id: off-rockstar-games-gta-vi-trailer-on-piccadilly-circus-screen
@@ -2175,6 +2202,21 @@ Fan account @needlessrelic16 posted photos and 4K video on 16 November of GTA VI
 - added: 2026-11-08
 
 A 3,000 m² Jason and Lucia visual covers the glass front of the Westfield CNIT until early December, with Lucia's revolver left in, unlike the masked Bagnolet tower version. A separate 60 m² screen at Westfield Les 4 Temps runs until 22 November.
+
+## Rockstar Games / Ocean Outdoor: GTA VI takes over the screens at Westfield Centro Oberhausen
+
+- id: off-rockstar-games-ocean-outdoor-westfield-centro-oberhausen-ooh
+- category: official
+- status: confirmed
+- type: outdoor ad
+- date: 2026-11-18
+- location: Westfield Centro Oberhausen, Germany
+- source_name: Der Westen
+- source_url: https://www.derwesten.de/staedte/oberhausen/centro-oberhausen-shops-gta-vi-release-wiederzuerkennen-id302199866.html
+- added: 2026-11-24
+- updated: 2026-11-24
+
+GTA VI ads ran on several large digital screens inside Westfield Centro Oberhausen. Der Westen reported them on 18 November, ahead of launch. GamesWirtschaft had listed the mall among the new large-format sites in Germany a day earlier. Ocean Outdoor Germany, which operates the mall's large-format digital screens, commissioned Dilla.Media to photograph and film the installation for a cross-market Ocean highlight reel.
 
 ## Rockstar Games: Rockstar releases the official GTA VI map as a free download, with a poster to follow
 
@@ -2548,6 +2590,20 @@ Wynwood Walls announced a partnership with Rockstar covering new murals by artis
 
 Xbox announced that owners of GTA VI can stream it through Xbox Cloud Gaming on Xbox Series X|S and Xbox One from 1am ET on 19 November, the only way to play it on Xbox One. The game must be bought separately and is not in Game Pass, and at launch it will not stream to PC, phones, TVs or browsers.
 
+## YouTube: YouTube reports 3.5bn+ global views of GTAVI videos on release day
+
+- id: off-youtube-3-5bn-global-views-of-gtavi-videos-on-release-day
+- category: official
+- status: confirmed
+- type: social post
+- date: 2026-11-24
+- location: Global
+- source_name: YouTube (official X account)
+- source_url: https://x.com/YouTube/status/2125232727200813275
+- added: 2026-11-24
+
+On 24 November 2026, YouTube's official X account posted that GTAVI fans around the world pulled up and showed out on YouTube. The post's graphic said there were 3.5bn+ global views of GTAVI videos on release day, and that there were over 3.5 billion global views of videos with GTAVI in the title the day of the US release (19 November 2026), including variations of GTAVI keywords.
+
 ## YouTube: YouTube and Rockstar partner on GTA VI launch, with a 24-hour livestream
 
 - id: off-youtube-youtube-x-rockstar-gta-vi-launch-partnership
@@ -2576,6 +2632,20 @@ YouTube announced on 12 November that it is partnering with Rockstar Games for t
 - added: 2026-11-19
 
 A&W Malaysia posted GTA-style characters sitting on a car bonnet outside an A&W restaurant eating burgers, captioned 'GTA 6 got us waiting. A&W got us eating.'
+
+## adidas: adidas Samba OG "Miami" borrows the Vice City palette
+
+- id: uno-adidas-samba-og-miami-vice-city-colourway
+- category: unofficial
+- status: confirmed
+- type: product
+- date: 2026-12-05
+- location: Miami, USA
+- source_name: GQ UK
+- source_url: https://www.gq-magazine.co.uk/article/adidas-samba-miami-23-11-26
+- added: 2026-11-24
+
+GQ UK reports that adidas is releasing the Samba OG "Miami" on 5 December 2026, in icy blue with embossed palm fronds, pink details, a 305 area-code reference on the tongue and a tropical cityscape insole. GQ says it is not an official collaboration with Rockstar Games or Inter Miami, but looks like Vice City's colour palette. It goes on sale at Foot Locker and adidas, with an in-store release in Miami during Art Basel.
 
 ## Allianz Direct: Allianz Direct sends Dackel Dieter into a 'Große Tarif Aktion' open-world game
 
@@ -2702,6 +2772,20 @@ Axe shared an image of a billboard for its product set against the game's city, 
 - added: 2026-11-16
 
 Little Havana parlour Azucar Ice Cream has a limited-edition 'Coconut 305' flavour inspired by the excitement around the game's launch.
+
+## B&Q: B&Q defaces its own billboard with "for lucia"
+
+- id: uno-b-q-for-lucia-defaced-billboard
+- category: unofficial
+- status: confirmed
+- type: outdoor ad
+- date: 2026-11
+- location: UK
+- source_name: LBB
+- source_url: https://lbbonline.com/news/Grand-theft-auto-vi-global-brands-marketing-round-up-news-list
+- added: 2026-11-24
+
+LBB reports that B&Q ran an outdoor billboard from Leo UK with its heritage tagline spray-painted with "for lucia", a nod to Jason fixing up the house for Lucia in the game. It was shared on B&Q's Instagram with a caption asking followers to explain the vandalism, and the creative uses models with power drills and paint cans in a loading-screen style. LBB says it was a hit in the comments.
 
 ## BambooHR: HR platform publishes GTA 6 PTO spike data
 
@@ -3026,6 +3110,34 @@ BYD Auto Europe posted its own version of the classic GTA cover art with 'Build 
 - added: 2026-11-02
 
 After Rockstar's trailer announcement image, several rival game accounts recreated the GTA 6 announcement style for their own updates.
+
+## Canal+ Polska: Canal+ promotes The Office PL season six with GTA-style artwork
+
+- id: uno-canal-plus-polska-the-office-pl-gta-style-artwork
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that Canal+ commissioned illustrator Kuba Kwiatkowski to make a GTA-style artwork promoting the sixth season of The Office PL. Filip Połoska of creative group Nowy Ład singled it out as the stand-out Polish piece.
+
+## Carly Rae Jepsen: 'Run Away With Me' streams jump 288%
+
+- id: uno-carly-rae-jepsen-run-away-with-me-streaming-boost
+- category: unofficial
+- status: confirmed
+- type: music
+- date: 2026-11-21
+- location: Global
+- source_name: Rolling Stone
+- source_url: https://www.rollingstone.com/music/music-news/carly-rae-jepsens-run-away-with-me-gta-vi-streaming-bump-1235663046/
+- added: 2026-11-24
+
+On 21 Nov, per Rolling Stone, citing Luminate.
 
 ## Caviar: Caviar's gold GTA VI 'Ocean Drive' Galaxy Z Fold 8
 
@@ -3549,6 +3661,34 @@ DoorDash offered $6 off Cheesecake Factory orders of $20 or more with the code C
 - added: 2026-11-10
 
 Russian beer brand Dr.Diesel is reported to be releasing a limited "Game Series" can (5%, 0.43 L) with a Roman "VI" and the slogan "Vice Vibes & Energy", due in Russian shops in mid-November. The can does not name GTA or Rockstar and there is no Rockstar deal; no statement from the brand itself was found.
+
+## Durex India: Durex India worries GTA VI will mean less action in the bedroom
+
+- id: uno-durex-india-gta-style-social-post
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: India
+- source_name: Creative Bloq
+- source_url: https://www.creativebloq.com/news/the-best-gta-6-brand-reactions-from-mercedes-benz-to-huggies
+- added: 2026-11-23
+
+Durex India marked the GTA VI launch with an Instagram post joking that the game could mean less action in the bedroom. It is a brand reaction, not a Rockstar partnership.
+
+## Dzik: Energy drink Dzik says its planned post made way for gaming
+
+- id: uno-dzik-post-makes-way-for-gaming
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that Polish energy drink brand Dzik posted a handwritten-style note pinned to a board saying its scheduled post had made way for playing. The joke also reminded followers of its drinks, shown on a graphic in tropical colours.
 
 ## E11EVEN Miami: E11EVEN becomes NINE1NINE for one night
 
@@ -4211,6 +4351,20 @@ Indian company Influish gave its roughly 50 employees paid leave on launch day, 
 
 Innoveev, a software studio, says it is off on Thursday 19 and Friday 20 November for the GTA VI launch and back on Saturday 21 November. Its operations team stays online to watch systems and answer support; new project enquiries, calls and design reviews pause. Announced on its own blog by founder and CEO Hasan Kassas.
 
+## InPost: InPost offers GTA VI codes for 3,500 InCoins
+
+- id: uno-inpost-gta-vi-codes-for-incoins
+- category: unofficial
+- status: confirmed
+- type: promotion
+- date: 2026-11
+- location: Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that InPost said it would make GTA VI codes for PlayStation 5 available in its loyalty programme for 3,500 InCoins, its loyalty points.
+
 ## ITV: ITV's "TV Joint Custody Agreement"
 
 - id: uno-itv-tv-joint-custody-agreement
@@ -4581,6 +4735,20 @@ Indian fashion brand Libas posted 'Grand Styles Theft Auto 6: The Libas Heist', 
 
 Lidl CZ posted an Instagram reel that plays a supermarket shop as a GTA mission, complete with minimap and on-screen prompts. It uses no game footage and is not a Rockstar partnership.
 
+## Linkhouse: Linkhouse jokes about launch-day leave and doubles points during Black Weeks
+
+- id: uno-linkhouse-launch-leave-joke-and-double-points
+- category: unofficial
+- status: confirmed
+- type: promotion
+- date: 2026-11
+- location: Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that Linkhouse joked about employees taking time off for the launch while reminding customers that GTA VI is in its loyalty rewards catalogue. The post was paired with double points on orders during Black Weeks.
+
 ## LINX: LINX: Manchester exchange traffic up 41% as GTA VI goes live
 
 - id: uno-linx-manchester-traffic-up-41-per-cent
@@ -4791,6 +4959,20 @@ Cerveza Modelo and agency GUT recreated recognisable GTA VI scenes shot for shot
 
 Mooyah is selling a limited-time 6-STAR Combo online from 19 to 29 November, a nod to the wanted-level stars. Rewards members who order it while logged in get an entry to win a PS5 Digital Edition and a GTA VI code.
 
+## Muzeum Narodowe w Krakowie: National Museum in Kraków turns paintings into gaming and sick-day memes
+
+- id: uno-muzeum-narodowe-krakow-gaming-memes
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Kraków, Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that the National Museum in Kraków used paintings from its collection to make memes about gaming and missing work around the GTA VI launch.
+
 ## Mwave: Mwave's 'Diary Killer' fills work calendars so gamers can play GTA 6
 
 - id: uno-mwave-diary-killer
@@ -4846,6 +5028,20 @@ Prime Minister Narendra Modi marked launch day with an Instagram post comparing 
 - added: 2026-11-19
 
 NBN Co told TechRadar that overnight into 19 November, as GTA VI launched in Australia, its network hit 36.54Tbps, 'the most data we've ever moved in a single second'.
+
+## NESCAFÉ South Africa: NESCAFÉ South Africa offers a caffeine boost for late-night GTA VI sessions
+
+- id: uno-nescafe-south-africa-caffeine-for-late-night-gamers
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: South Africa
+- source_name: Creative Bloq
+- source_url: https://www.creativebloq.com/news/the-best-gta-6-brand-reactions-from-mercedes-benz-to-huggies
+- added: 2026-11-23
+
+NESCAFÉ South Africa used the GTA VI launch to remind late-night players that its coffee can keep them going. It is a brand reaction, not a Rockstar partnership.
 
 ## Netto Marken-Discount: Netto sells GTA VI pre-orders and a 'Heist Deal' snack bundle
 
@@ -5056,6 +5252,20 @@ Burger chain Patties gave out 400 symbolic time-off notes across five restaurant
 - added: 2026-11-23
 
 Pemex, Mexico's state oil company, illustrated one of its petrol stations among palm trees under a pink and purple sky, presenting energy sovereignty as a 'new mission'. There is no Rockstar deal.
+
+## Personal Touch Skincare: Delhi beauty brand Personal Touch Skincare declares 19 November a holiday
+
+- id: uno-personal-touch-skincare-holiday-for-gta-vi-launch
+- category: unofficial
+- status: confirmed
+- type: stunt
+- date: 2026-11-19
+- location: Delhi, India
+- source_name: CNA
+- source_url: https://www.channelnewsasia.com/asia/gaming-cafes-packed-offices-declare-holidays-how-grand-theft-auto-vi-fever-gripped-india-6574361
+- added: 2026-11-24
+
+CNA reports that Delhi-based beauty products brand Personal Touch Skincare announced 19 November as a holiday for employees in posts on social media, as GTA VI fever spilled into Indian workplaces.
 
 ## Philips TV (France): Philips TV France pitches Ambilight as police-chase 'gyrophares' on the walls
 
@@ -5368,6 +5578,20 @@ Real estate firm SERHANT's founder Ryan Serhant told an employee in a video they
 - added: 2026-11-23
 
 Sky Broadband said download traffic hit an all-time high of 31.3Tbps at 21:10 on 18 November, beating the Arsenal v Atletico Madrid record, with about 1,487PB downloaded from pre-load day to midday on launch day.
+
+## Śląski Ogród Zoologiczny: Silesian Zoo invites the loved ones of people absorbed in GTA VI
+
+- id: uno-slaski-ogrod-zoologiczny-invites-gamers-loved-ones
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Silesia, Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that the Silesian Zoo used the launch to invite the loved ones of people absorbed in the game to visit.
 
 ## Snappy Shopper: Snappy Shopper's £5.99 GTA 6 Snack Bundle
 
@@ -5707,6 +5931,20 @@ The gaming headset brand showed its headset on a pastel palm-tree gradient in GT
 
 At the TwitchCon 2026 keynote, Twitch CEO Dan Clancy said the platform will surprise-drop digital codes for GTA VI Ultimate Edition every day from launch until the end of November. Its 'GTAVI Launch Celebration' Drops campaign runs from 18 to 30 November: six Chain badges for watching a participating stream for an hour on six separate days, six subscription badges and emotes, and a Golden Iguana badge for collecting all 12. Twitch has not said how many codes it will give away. Clancy also told Bloomberg on 12 November that Twitch has built ad technology so brands that want to be part of the GTA VI launch can keep their ads away from parts of the game they do not want to be associated with, which Dexerto reports should help streamers earn more from playing it.
 
+## Twix: Twix offers a professional body double so you can play GTA VI instead of working
+
+- id: uno-twix-doppelgamer-body-double-competition
+- category: unofficial
+- status: confirmed
+- type: promotion
+- date: 2026-11-19
+- location: Not stated
+- source_name: Leo UK
+- source_url: http://www.andrewlongcreative.com/portfolio/twix-doppelgamer/
+- added: 2026-11-24
+
+Mars Snacking's Twix and the Publicis Groupe OneMars team, which includes Leo UK, ran "Doppelgamer", a competition to win a real-life professional body double to handle the winner's day job so they could play GTA VI. The winner got a premium gaming setup and the stunt was streamed live on social platforms. Mars Snacking's Fabio Ruffet linked it to the so-called GTA flu of workers planning to call in sick.
+
 ## Uber Eats France: Uber Eats France declares 19 November a 'sacred' day, not a holiday
 
 - id: uno-uber-eats-france-jour-sacre
@@ -5948,6 +6186,20 @@ WhatsApp temporarily renamed its X account WhatUp, the game's fake messaging app
 
 After Rockstar released the GTA VI cover art, the White House posted "We really saved America before GTA 6", and accounts for HHS Secretary Kennedy, CBP and the Department of Labor followed with their own versions over 18 and 19 June. Rockstar told Kotaku it had no comment.
 
+## The White House: White House posts a GTA-style 'Welcome to MAGA City' TikTok
+
+- id: uno-white-house-welcome-to-maga-city-tiktok
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11-18
+- location: United States
+- source_name: Forbes
+- source_url: https://www.forbes.com/sites/conormurray/2026/11/21/is-gta-brand-safe-now-weather-channel-to-netflix-join-massive-marketing-campaign/
+- added: 2026-11-23
+
+On the eve of launch, the White House posted a TikTok mixing clips of President Trump with GTA-inspired imagery, captioned "WELCOME TO MAGA CITY". There is no reported link to Rockstar.
+
 ## Wildanet: Broadband firm calculates GTA 6 download times
 
 - id: uno-wildanet-broadband-firm-calculates-gta-6-download-times
@@ -6003,6 +6255,20 @@ Local takeaway Woodham Pizza ran a Facebook competition to win one copy of GTA V
 - added: 2026-11-12
 
 Worldworthy, which publishes the Worldworthy 100 rankings, is letting staff take up to three optional paid days off from launch day with no doctor's note needed, with Shay Kleiman quoted as saying the company "decided not to fight it". Only JFeed has reported this so far and Kleiman's role is unconfirmed; there is no deal with Rockstar.
+
+## x-kom: x-kom holds an overnight GTA VI launch event in Warsaw
+
+- id: uno-x-kom-overnight-gta-vi-launch-event-warsaw
+- category: unofficial
+- status: confirmed
+- type: event
+- date: 2026-11
+- location: Warsaw, Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that electronics retailer x-kom prepared a night event at its store in the G City Reduta centre in Warsaw, with gaming stations, contests and promotions.
 
 ## Xbox: Xbox and DJ Khaled's 'Dr. Xbox' writes notes for a day off
 
@@ -6087,3 +6353,17 @@ Yamaha's European accounts posted GTA VI-style artwork, with Yamaha Motor France
 - added: 2026-11-16
 
 Miami bakery Zak the Baker has a limited-edition GTA VI cookie tin, with a GTA tote bag for the first 100 in-store buyers. No Rockstar partnership is stated.
+
+## ZOO Wrocław: Wrocław Zoo pairs GTA V and GTA VI logos with a penguin-numbers message
+
+- id: uno-zoo-wroclaw-gta-v-gta-vi-penguin-numbers-post
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Wrocław, Poland
+- source_name: Wirtualnemedia.pl
+- source_url: https://www.wirtualnemedia.pl/polskie-marki-wykorzystaly-premiere-gta-vi-i-ruszyly-do-vice-city,7354124205410336a
+- added: 2026-11-24
+
+Wirtualnemedia.pl reports that Wrocław Zoo set GTA V and GTA VI markings side by side with a note about falling penguin numbers.

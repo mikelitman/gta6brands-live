@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.0",
+ "name": "GTA 6 Brands tracker",
+ "snapshot": "2026-11-25",
+ "generated_at": "2026-11-25T02:08:16+00:00",
+ "source": "https://www.gta6brands.com/tracker/",
+ "licence": "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: hello@mikelitman.me. The sources belong to their publishers.",
+ "cite_as": "GTA 6 Brands tracker, gta6brands.com, snapshot 25 Nov 2026. https://www.gta6brands.com/data/",
+ "corrections": "hello@mikelitman.me",
+ "counts": {
+  "entries": 473,
+  "official": 100,
+  "unofficial": 266,
+  "in_game": 107,
+  "brands": 328,
+  "publishers": 212
+ },
+ "fields": [
+  {
+   "name": "id",
+   "description": "Stable entry ID. Prefix shows the category: off-, uno- or ing-."
+  },
+  {
+   "name": "brand",
+   "description": "The brand named in the entry."
+  },
+  {
+   "name": "title",
+   "description": "Short headline for the move. Blank on in-game rows."
+  },
+  {
+   "name": "category",
+   "description": "Official, unofficial or ingame (rockstar's fictional in-game brands)."
+  },
+  {
+   "name": "status",
+   "description": "Confirmed, rumoured, new or returning; status_label says 'reported' where status is rumoured (not yet confirmed)."
+  },
+  {
+   "name": "type",
+   "description": "Kind of move, e.g. social post, outdoor ad, stunt. Blank on in-game rows."
+  },
+  {
+   "name": "date",
+   "description": "Yyyy-mm-dd where the source gives a day, yyyy-mm or yyyy otherwise, blank on in-game rows."
+  },
+  {
+   "name": "location",
+   "description": "Where it happened, when the source says."
+  },
+  {
+   "name": "source_name",
+   "description": "Publisher of the source."
+  },
+  {
+   "name": "source_url",
+   "description": "Link to the source. Link to it when you repeat a claim."
+  },
+  {
+   "name": "summary",
+   "description": "One or two sentences, drawn from the source."
+  },
+  {
+   "name": "added",
+   "description": "Date the entry joined the tracker (YYYY-MM-DD)."
+  },
+  {
+   "name": "updated",
+   "description": "Date the entry was last changed, if it has been."
+  }
+ ],
+ "files": [
+  {
+   "name": "tracker.json",
+   "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/tracker.json",
+   "bytes": 390709,
+   "sha256": "c6cfdb6f22d32e6e38311b1bf481f1e3c3099346ee55f5fd37fefb6702815472"
+  },
+  {
+   "name": "tracker.csv",
+   "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/tracker.csv",
+   "bytes": 244086,
+   "sha256": "5a8578dc91e57931faeb2d280e29f14cf1b2512aa7342a53321ccc8f17b78784"
+  },
+  {
+   "name": "tracker.md",
+   "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/tracker.md",
+   "bytes": 287058,
+   "sha256": "da06a115977e241dc8ef8b6d7f3d6bb116075cd10d86bee42ba538a3a21583c5"
+  },
+  {
+   "name": "LICENSE.md",
+   "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/LICENSE.md",
+   "bytes": 1029,
+   "sha256": "10ac8db1d8fd14c2080f47e5e22abe22f2276ded3152c66a70eba0b850a7d238"
+  },
+  {
+   "name": "README.md",
+   "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/README.md",
+   "bytes": 853,
+   "sha256": "66056167a6a20ad509802b459a318ad75dd70470c743dd767981f3b72aef508d"
+  }
+ ]
+}
