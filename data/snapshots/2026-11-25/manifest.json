@@ -2,18 +2,18 @@
  "schema_version": "1.0",
  "name": "GTA 6 Brands tracker",
  "snapshot": "2026-11-25",
- "generated_at": "2026-11-25T02:08:16+00:00",
+ "generated_at": "2026-11-25T20:23:04+00:00",
  "source": "https://www.gta6brands.com/tracker/",
  "licence": "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: hello@mikelitman.me. The sources belong to their publishers.",
  "cite_as": "GTA 6 Brands tracker, gta6brands.com, snapshot 25 Nov 2026. https://www.gta6brands.com/data/",
  "corrections": "hello@mikelitman.me",
  "counts": {
-  "entries": 473,
-  "official": 100,
-  "unofficial": 266,
+  "entries": 478,
+  "official": 102,
+  "unofficial": 269,
   "in_game": 107,
-  "brands": 328,
-  "publishers": 212
+  "brands": 332,
+  "publishers": 214
  },
  "fields": [
   {
@@ -73,20 +73,20 @@
   {
    "name": "tracker.json",
    "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/tracker.json",
-   "bytes": 390709,
-   "sha256": "c6cfdb6f22d32e6e38311b1bf481f1e3c3099346ee55f5fd37fefb6702815472"
+   "bytes": 397118,
+   "sha256": "607cfcc36702586cbe8f86afc039492a13fddc430a24230554f788b3b3138ae1"
   },
   {
    "name": "tracker.csv",
    "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/tracker.csv",
-   "bytes": 244086,
-   "sha256": "5a8578dc91e57931faeb2d280e29f14cf1b2512aa7342a53321ccc8f17b78784"
+   "bytes": 248943,
+   "sha256": "13ef2d0735bd3ee1b8074d5ed769a3cbf342c2b0106de85537fc26bf67170a04"
   },
   {
    "name": "tracker.md",
    "url": "https://www.gta6brands.com/data/snapshots/2026-11-25/tracker.md",
-   "bytes": 287058,
-   "sha256": "da06a115977e241dc8ef8b6d7f3d6bb116075cd10d86bee42ba538a3a21583c5"
+   "bytes": 292417,
+   "sha256": "7e5b9aa737b63ea4fae533217f43cb546d2801c19bdca994480d30d5011d8d59"
   },
   {
    "name": "LICENSE.md",

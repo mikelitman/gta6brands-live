@@ -1,7 +1,7 @@
 ---
 title: "GTA 6 Brands tracker"
 snapshot: "2026-11-25"
-entries: 473
+entries: 478
 source: "https://www.gta6brands.com/tracker/"
 licence: "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: hello@mikelitman.me. The sources belong to their publishers."
 cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 25 Nov 2026. https://www.gta6brands.com/data/"
@@ -220,8 +220,9 @@ The chicken chain from San Andreas got a real food stand inside Miami's Kaseya C
 - source_name: Video Games Chronicle
 - source_url: https://videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city
 - added: 2026-11-02
+- updated: 2026-11-25
 
-Tesla-style EV brand from GTA V, advertised in Rockstar's October 2026 Miami campaign, including Raiden kiosk ads.
+Tesla-style EV brand from GTA V, advertised in Rockstar's October 2026 Miami campaign, including Raiden kiosk ads. IGN's Rhiannon Bevan tested the cars in-game and found that trying to steal a Coil locks you inside, after which the car either drives itself to the nearest police station or waits for the police. Consequence, citing player footage, calls the feature an Autonomous Security System. You can escape by breaking a window, IGN says, and the mechanic was not found on other Tesla-like electric cars in the game.
 
 ## Crowex
 
@@ -1321,6 +1322,20 @@ Sightseeing buses wrapped in GTA VI art were reported in New York and Chicago, a
 
 Versions of the in-game fast food chains opened as concession stands inside Kaseya Center. The HEAT lists Burger Shot at sections 105, 120, 308 and 324 and Cluckin' Bell at section 325. Reports say Burger Shot took over a Skinny Louie stand, with staff in GTA-style uniforms. IGN reports that from 13 November to 31 December Burger Shot is expanding to Skinny Louie's standalone stores across Florida, with Burger Shot signage, uniforms and a game-themed menu including The Bleeder triple smash burger and a caramel milkshake.
 
+## Cactus Jack: Cactus Jack x Grand Theft Auto VI tees and apparel
+
+- id: off-cactus-jack-grand-theft-auto-vi-tees-and-apparel
+- category: official
+- status: confirmed
+- type: merch
+- date: 2026-11-23
+- location: Global
+- source_name: Cactus Jack (official shop)
+- source_url: https://shop.travisscott.com/products/cj-x-grand-theft-auto-vi-logo-vice-city-tee
+- added: 2026-11-25
+
+The official Cactus Jack shop is selling a Grand Theft Auto VI apparel range. Confirmed tee prices include the Logo Vice City Tee, Jack of Hearts Security Tee and I Didn't Work Today Tee at $55, the Leonida Collage Tee at $60, the Cactus Jack Nike x Grand Theft Auto VI x Miami Heat Athletic Dept Tee at $58, and the Vice City women's baby tee at $52. An apparel collection had already been mentioned in the Air Force 1 entry, with pieces on Nike SNKRS from 21 November and more on the Cactus Jack shop from 23 November.
+
 ## City of Miami Beach / Boucher Brothers: Vice City beach chairs and umbrellas on Miami Beach
 
 - id: off-city-of-miami-beach-boucher-brothers-vice-city-beach-c
@@ -1574,7 +1589,7 @@ A double-deck tram wrapped in GTA VI colours, showing the release date in Chines
 - source_url: https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6
 - added: 2026-11-22
 
-IGN Entertainment has released a free Official Online Guide for GTA VI on IGN.com, created in direct collaboration with Rockstar Games. It includes an interactive map built on IGN's MapGenie platform, checklist trackers and mission and mechanics guides, and will be updated after launch. IGN's Peer Schneider said the guide is spoiler-safe. GamesIndustry.biz, which reported it, is owned by IGN.
+IGN Entertainment released its free Official Online Guide for GTA VI on IGN.com, made in direct collaboration with Rockstar Games, alongside the game's 19 November launch. Rockstar publicly linked to it as the official guide. At launch it covered the first two chapters with an interactive map of Leonida built on IGN's MapGenie platform, checklist trackers and mission and mechanics guides, with more to follow. IGN's Peer Schneider said the guide is spoiler-safe.
 
 ## Justice / Atlantic Records: Launch trailer debuts Justice single "Flower in a Hurricane"
 
@@ -1745,7 +1760,7 @@ On 5 November Travis Scott showed a black, camo and pink Air Force 1 Low with "G
 - source_url: https://www.soleretriever.com/news/articles/nike-giannis-freak-8-gta-6-pe-a-night-in-vice-city
 - added: 2026-11-17
 
-Miami HEAT star Giannis Antetokounmpo previewed a player-exclusive Freak 8 with a pink-to-black gradient matching the Nike x Cactus Jack Vice City jerseys, expected to be worn at the HEAT's 'A Night in Vice City' game against the Bucks on 18 November. It is not a retail release and carries no direct GTA branding.
+Miami HEAT star Giannis Antetokounmpo previewed a player-exclusive Nike Freak 8 with a pink-to-black gradient matching the Nike x Cactus Jack Vice City jerseys, ahead of the HEAT's 'A Night in Vice City' game against the Bucks on 18 November, the day after GTA VI's launch. The HEAT won 137-130, with Giannis recording 27 points, 14 rebounds and 9 assists against his former team. The shoe is not a retail release and carries no direct GTA branding.
 
 ## Oakley / New Era: "The Goodtime State" Vice City Collection collector's box
 
@@ -1763,16 +1778,18 @@ Rockstar opened pre-orders on 24 September for a $399.99 collectible set themed 
 
 ## Panini America / Rockstar Games: Panini and Rockstar announce the GTA VI Sports Trading Card Collection
 
-- id: off-panini-america-gta-vi-sports-trading-card-collection
+- id: off-panini-rockstar-gta-vi-trading-cards
 - category: official
 - status: confirmed
 - type: merch
 - date: 2026-11-24
+- location: United States
 - source_name: Panini America
 - source_url: https://blog.paniniamerica.net/panini-and-rockstar-games-announce-grand-theft-auto-vi-trading-card-collection/
 - added: 2026-11-24
+- updated: 2026-11-25
 
-On 24 November 2026, Panini America announced a partnership with Rockstar Games for officially licensed trading cards, the GTA VI: Sports Trading Card Collection, to be released in December 2026. The collection features real-world versions of in-game card collectibles found throughout the world of Grand Theft Auto VI. Each four-pack box includes on average two Rookies, one Retro, one Illustrated and four Special Silvers, plus rare-numbered cards and team colour parallels, including Silver, Pink, Teal and Light Blue, and Legend Bronze (numbered to 49), Silver (numbered to 25) and 1-of-1 Gold parallels.
+On 24 November 2026, Panini America announced a partnership with Rockstar Games for officially licensed trading cards, the GTA VI: Sports Trading Card Collection, to be released in December 2026. The collection features real-world versions of in-game card collectibles found throughout the world of Grand Theft Auto VI, built around fictional sports stars and teams, mixing stylised artwork with in-game character renders. Each four-pack box includes on average two Rookies, one Retro, one Illustrated and four Special Silvers, plus rare-numbered cards and team colour parallels, including Silver, Pink, Teal and Light Blue, and Legend Bronze (numbered to 49), Silver (numbered to 25) and 1-of-1 Gold parallels. Panini has not yet said exactly when in December the cards go on sale, how much they will cost or which regions beyond the US will get them.
 
 ## PlayStation: GTA VI theatre at the PlayStation booth, Tokyo Game Show 2026
 
@@ -1886,6 +1903,20 @@ PlayStation Netherlands ran 'Choose your own style', a social campaign in which 
 - updated: 2026-11-15
 
 PlayStation's UK console leasing service, PlayStation Flex, now lists three GTA VI bundles, with prices starting at £18.49 a month. TheGamer reports the GTA VI bundles cannot be rolled monthly like standard leases: customers must choose a fixed 12, 24 or 36 month term.
+
+## PlayStation: PS5 Welcome hub GTA VI takeover and five backgrounds
+
+- id: off-playstation-ps5-welcome-hub-gta-vi-backgrounds
+- category: official
+- status: confirmed
+- type: digital
+- date: 2026-11-19
+- location: Global
+- source_name: Push Square
+- source_url: https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers
+- added: 2026-11-25
+
+On launch day the PS5 Welcome hub took on a Vice City-style icon and a GTA VI promo panel, plus a new folder of five illustrated GTA VI backgrounds, most featuring Jason and Lucia. Push Square reported the takeover on 19 November.
 
 ## PlayStation (Sony Interactive Entertainment): Sony and Rockstar partnership: GTA VI "plays best on PS5"
 
@@ -2374,7 +2405,7 @@ Rockstar's GTA VI ads went up across the Netherlands from 9 November via Ocean O
 - added: 2026-11-09
 - updated: 2026-11-19
 
-Rockstar and PlayStation are staging a one-day music festival at Mana Wynwood on 21 November, two days after launch, headlined by Cactus Jack presents Travis Scott with Cardi B, Kodak Black, Don Toliver, Metro Boomin, Tainy and a Justice DJ set. Tickets went by lottery, which closed on 10 November; the event is 17+ only. On 18 November Rockstar published set times: doors at 4pm, Metro Boomin at midnight, and a Cactus Jack finale with Travis Scott, Don Toliver, Kodak Black and Sofaygo from 12:40am. An on-site store will sell GTA VI gear.
+Rockstar and PlayStation staged a one-day music festival at Mana Wynwood in Miami's Wynwood neighbourhood on 21 November, two days after launch. Thousands of fans attended an immersive Vice City experience with customised sports cars and themed food from Taco Bomb and Burger Shot. Ca7riel & Paco Amoroso opened, Cardi B closed her set with "Don't Chart" from GTA VI: The Album and offered to give 10 people in the crowd a copy of the game, and Travis Scott's Cactus Jack finale brought out Don Toliver, Sheck Wes and Sexyy Red. Metro Boomin, Justice, Kodak Black, Tainy and Rauw Alejandro also performed, with Rauw arriving on stage in a car after a simulated in-game police chase. An on-site store sold GTA VI gear.
 
 ## Rockstar Store: Official GTA VI merchandise collection
 
@@ -2982,7 +3013,7 @@ Bolt, the European ride-hailing and food delivery platform, launched 'Grand Trip
 - added: 2026-11-14
 - updated: 2026-11-23
 
-Booby Trap On The River announced on Instagram on 11 November a GTA VI takeover on the night of launch. Complex reports the invite-only event on Thursday 19 November would feature a performance by Cardi B, expected to include 'Don't Chart' from GTA VI: The Album. There is no sign Rockstar is involved.
+Booby Trap On The River hosted a GTA VI takeover on launch night, Thursday 19 November. Cardi B hosted a pink-carpet event and performed, including "Don't Chart" from GTA VI: The Album. Travis Scott later hosted an official after-party at the same venue following the GTA VI festival on 21 November. There is no sign Rockstar is involved.
 
 ## BT: BT says GTA VI pre-downloads caused its second-biggest traffic peak
 
@@ -3423,6 +3454,20 @@ The Cyberpunk 2077 account recalled its own old 'no more delays' promise in resp
 - added: 2026-11-20
 
 Dakauz posted its own GTA VI company-holiday notice for launch day, captioned: "Just a day off for a game we've waited years for." Gulf News listed it among companies declaring a holiday for 19 November.
+
+## Dave & Buster's / IGN: IGN and Dave & Buster's host a two-night Game with IGN event in Irvine
+
+- id: uno-dave-busters-ign-game-with-ign-irvine
+- category: unofficial
+- status: confirmed
+- type: event
+- date: 2026-11-20
+- location: Irvine, California, United States
+- source_name: IGN Entertainment (LinkedIn)
+- source_url: https://www.linkedin.com/posts/ign-entertainment_game-with-ign-at-dave-busters-activity-7529602619439357953-s3a5
+- added: 2026-11-25
+
+IGN and Dave & Buster's hosted a two-night Game with IGN event at Dave & Buster's in Irvine, California, on 20 and 21 November, from 6pm to midnight PST. IGN's own LinkedIn post advertised themed drinks, arcade action, head-to-head competitions and prize giveaways including a PlayStation 5, with pre-loaded Power Cards for the first 100 guests. IGN's event page, linked from that post, also offered hands-on access to 'the game the world has been waiting for', the weekend after GTA VI launched. No Rockstar deal is mentioned.
 
 ## DE-CIX: DE-CIX says GTA VI set a global internet exchange traffic record
 
@@ -5437,6 +5482,20 @@ Posh Management posted a GTA VI holiday notice for launch day that read: "Thursd
 
 PostNL's 'Midnight Release' had a PostNL employee and a creator deliver a GTA 6 Ultimate Edition package in the middle of the night to three gamers, Morrog, Ayv3e and Martin Verschoor, around the night of 11 to 12 November. The Invaders was the agency. There is no Rockstar deal.
 
+## Privé Porter / Moneybags: One-of-one Vice City Hermès Birkin, covered in Swarovski crystals
+
+- id: uno-prive-porter-moneybags-vice-city-hermes-birkin
+- category: unofficial
+- status: confirmed
+- type: merch
+- date: 2026-11-18
+- location: Miami, USA
+- source_name: Hypebeast
+- source_url: https://hypebeast.com/2026/11/gta-6-custom-vice-city-hermes-birkin
+- added: 2026-11-25
+
+Privé Porter and Moneybags x MB unveiled a one-of-one pink Hermès Birkin covered in Swarovski crystals, as a Vice City tribute. The bag is an independent customisation of a genuine Birkin, not an official Hermès or Rockstar collaboration. Privé Porter posted it on Instagram with the line "We got a Vice City Birkin before GTA 6!". Hypebeast covered it on 18 November. Lana Del Rey was later photographed with it at a Miami launch event, according to Page Six. No price was announced.
+
 ## Prosper Police Department: Prosper Police: 'Save the reckless driving for the game'
 
 - id: uno-prosper-police-department-prosper-police-save-the-reckless-driving-for-the-game
@@ -5634,6 +5693,20 @@ The US breakfast chain is offering free nationwide delivery on 19 and 20 Novembe
 - added: 2026-11-23
 
 South Australia Police used the launch for a road safety post on the "Fatal Five": "Keep the chaos on screen, not on our roads. Because in real life, there are no respawns."
+
+## Spearmint Rhino: Spearmint Rhino recreates GTA VI strip club dances
+
+- id: uno-spearmint-rhino-gta-vi-lap-dance-recreations
+- category: unofficial
+- status: confirmed
+- type: promotion
+- date: 2026-11-24
+- location: London, UK and West Palm Beach, US
+- source_name: GTA BOOM
+- source_url: https://www.gtaboom.com/spearmint-rhino-gta-6-strip-club-dances-9d98
+- added: 2026-11-25
+
+Strip club chain Spearmint Rhino hired a choreographer to recreate lap dances inspired by two clubs in GTA VI, Jack of Hearts in Vice City and Delights Cabaret in Port Gellhorn, after what it said were hundreds of fan requests. Through 30 November, guests at its London and West Palm Beach venues get free admission on presenting a valid GTA VI purchase receipt and photo ID. Chain president and COO Kathy Vercher said the company joined in because of the fan demand.
 
 ## Specsavers: Specsavers' 'biggest partnership of all time' is with GTA Transport, not GTA VI
 
