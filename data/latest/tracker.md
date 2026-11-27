@@ -1,15 +1,15 @@
 ---
 title: "GTA 6 Brands tracker"
-snapshot: "2026-11-25"
-entries: 478
+snapshot: "2026-11-26"
+entries: 489
 source: "https://www.gta6brands.com/tracker/"
-licence: "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: hello@mikelitman.me. The sources belong to their publishers."
-cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 25 Nov 2026. https://www.gta6brands.com/data/"
+licence: "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: npc@gta6brands.com. The sources belong to their publishers."
+cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 26 Nov 2026. https://www.gta6brands.com/data/"
 ---
 
 # GTA 6 Brands tracker
 
-Every GTA 6 brand move on gta6brands.com, read on 25 Nov 2026. One entry per section. Each links to its source.
+Every GTA 6 brand move on gta6brands.com, read on 26 Nov 2026. One entry per section. Each links to its source.
 
 ## 24/7
 
@@ -176,6 +176,7 @@ GTA VI's money app: its logo sits on the HUD next to banked cash and it has a bi
 - source_name: Dexerto
 - source_url: https://www.dexerto.com/gta/gtas-burger-shot-cluckin-bell-are-now-real-in-miami-ahead-of-gta-6-3420945/
 - added: 2026-11-02
+- updated: 2026-11-26
 
 GTA's burger chain, first seen in Vice City, was made real as a food stand inside Miami's Kaseya Center in October 2026, with kiosk and billboard ads around the city.
 
@@ -331,8 +332,9 @@ Named tattoo studio in official Ultimate Edition material, listed by Leonidaguid
 - source_name: GTA Wiki (gta.wiki)
 - source_url: https://gta.wiki/w/Eris_(HD_Universe)
 - added: 2026-11-02
+- updated: 2026-11-26
 
-Nike-style sportswear brand from GTA IV and V, on a dirt biker's trainers in Trailer 1 and maker of the Manatees jersey Dre'Quan wears.
+Nike-style sportswear brand from GTA IV and V, on a dirt biker's trainers in Trailer 1 and maker of the Manatees jersey Dre'Quan wears. In the game it also has a sneaker line. GQ, on 19 November 2026, names models including the Rise Low, Strife 360, Strife 90 and Rook 1 High. An in-game sponsored post from the brand's @ERIS account introduces a shoe called the Strife.
 
 ## FizzAzz
 
@@ -496,8 +498,9 @@ New tube-packed crisps seen in Uncle Jack's in Trailer 1, The Rusty Anchor in Tr
 - source_name: Kotaku
 - source_url: https://kotaku.com/gta-6-arcade-games-console-rob-nelson-vice-city-interview-gta6-2000757904
 - added: 2026-11-20
+- updated: 2026-11-26
 
-The games console in Jason and Lucia's home, which runs playable parody mini-games. Coverage names it but does not say outright that it parodies PlayStation.
+The games console in Jason and Lucia's home, which runs playable parody mini-games. Kotaku names it but does not say outright that it parodies PlayStation. GameSpot is the sourced comparison with PlayStation.
 
 ## Juice Loose
 
@@ -794,6 +797,7 @@ Round Postal shipping logo on a store window in the Extended Look, a shortened f
 - source_name: Postmode (Substack)
 - source_url: https://postmode.substack.com/p/gta-6-extended-look-24-things-you-missed
 - added: 2026-11-02
+- updated: 2026-11-26
 
 GTA sportswear label from San Andreas onwards, seen on a basketball and trainers in the Extended Look.
 
@@ -838,6 +842,7 @@ New sports drink seen in a Xero minimart fridge and on stock car liveries at a r
 - source_name: Leonidaguide (citing official Rockstar material)
 - source_url: https://leonidaguide.gg/en/guides/world-and-characters/gta-6-marchi-aziende/
 - added: 2026-11-21
+- updated: 2026-11-26
 
 Cigarette brand on the visor of Wyman, the Ultimate Edition collector, in official edition material.
 
@@ -950,6 +955,17 @@ Monogrammed GTA V fashion house seen on a bikini in Trailer 1, and on framed pos
 - added: 2026-11-02
 
 Downtown Vice City bank that Jason and Lucia rob in a heist shown in Trailer 2.
+
+## Slop.AI
+
+- id: ing-slop-ai
+- category: ingame
+- status: new
+- source_name: ElijahOutWest (X)
+- source_url: https://x.com/ElijahOutWest/status/2125404938612437440
+- added: 2026-11-26
+
+An in-game magazine article, 'AI Solves Russo's Assassination', says it prompted a tool called Slop.AI to re-examine a frame from the 'Zandford film' of President Joe S. Russo's assassination, using mock methods including forensic inflatable-flamingo analysis and 'cutting-edge rumba science'. The name plays on 'AI slop' and is widely read as a parody of ChatGPT and OpenAI. First widely shared in a screenshot posted by ElijahOutWest on 25 November 2026.
 
 ## Snapmatic
 
@@ -1204,9 +1220,9 @@ In-game consumable covered by the IGN official strategy guide page Where to Get 
 - source_name: 2K Newsroom
 - source_url: https://newsroom.2k.com/news/vice-city-comes-to-nbar-2k27-in-season-3
 - added: 2026-11-14
-- updated: 2026-11-16
+- updated: 2026-11-26
 
-2K confirmed a 'first-of-its-kind partnership with Rockstar Games': NBA 2K27 Season 3 runs from 27 November 2026 to 15 January 2027 with a Vice City-inspired park, the Sahara Arena and Burger Shot and Cluckin' Bell staff outfits. A $39.99 Vice City Edition has Bam Adebayo on the cover, and GTA+ members on PS5 and Xbox Series X|S can play the Standard Edition at no extra cost during the season.
+2K confirmed a 'first-of-its-kind partnership with Rockstar Games': NBA 2K27 Season 3 plays from 27 November 2026 to 15 January 2027, with a Vice City-inspired park, the Sahara Arena and Bam Adebayo on the limited Vice City Edition cover. An official NBA 2K trailer posted on 25 November, branded Vice City Edition, shows the Pro Pass rewards, including a Nike x Cactus Jack 'Vice City' swingman jersey at level 21, a Cluckin' Bell employee outfit at level 36 and Macca the Gator at level 39. The season rewards track adds a Burger Shot employee outfit at level 38, a Rockstar Games sweatshirt at level 36 and a Sprunk race suit at level 39. A $39.99 Vice City Edition includes the Season 3 Pro Pass, and GTA+ members on PS5 and Xbox Series X|S can play the Standard Edition at no extra cost during the season.
 
 ## Andrew (Miami skate shop): Miami skate shop Andrew drops a 20-piece GTA VI capsule
 
@@ -1440,15 +1456,16 @@ Discord announced on X on 16 November a free Vice City makeover with Rockstar Ga
 
 - id: off-druski-coulda-been-records-episode-presented-by-gta-vi
 - category: official
-- status: confirmed
+- status: rumoured
 - type: video
 - date: 2026-10-23
 - location: Online (YouTube)
-- source_name: GTA BOOM
-- source_url: https://gtaboom.com/rockstar-is-now-sponsoring-comedy-youtube-shows-to-sell-gta-6-0544
+- source_name: Druski on YouTube (original upload)
+- source_url: https://www.youtube.com/watch?v=yHLNoTKOO4A
 - added: 2026-11-03
+- updated: 2026-11-26
 
-Druski's "OLD HEADS" auditions episode with Ali G opened with a read saying it was presented by GTA VI from Rockstar Games, urging viewers to pre-order the Ultimate Edition, with a pre-order link in the description. It is a rare paid creator placement for Rockstar, which has not commented.
+Druski's "OLD HEADS" auditions episode with Ali G, published on YouTube on 23 October 2026 (Pacific time), included an announcement saying it was presented by GTA VI from Rockstar Games, encouraging viewers to pre-order the Ultimate Edition. The video description links to Rockstar's pre-order page. The only explicit sponsorship disclosure is for SeatGeek. Neither Rockstar nor Druski has publicly confirmed a commercial agreement.
 
 ## Edge: Edge issue 430 GTA VI special with gatefold cover
 
@@ -1590,6 +1607,20 @@ A double-deck tram wrapped in GTA VI colours, showing the release date in Chines
 - added: 2026-11-22
 
 IGN Entertainment released its free Official Online Guide for GTA VI on IGN.com, made in direct collaboration with Rockstar Games, alongside the game's 19 November launch. Rockstar publicly linked to it as the official guide. At launch it covered the first two chapters with an interactive map of Leonida built on IGN's MapGenie platform, checklist trackers and mission and mechanics guides, with more to follow. IGN's Peer Schneider said the guide is spoiler-safe.
+
+## iHeartRadio / Rockstar Games: DJ Stevie J takes over iHeartRadio Hip-Hop stations for Black Friday
+
+- id: off-iheartradio-dj-stevie-j-black-friday-takeover
+- category: official
+- status: confirmed
+- type: music
+- date: 2026-11-27
+- location: USA
+- source_name: iHeart
+- source_url: https://www.iheart.com/content/2026-11-25-dj-stevie-j-to-host-gta-vi-takeover-on-black-friday/
+- added: 2026-11-26
+
+On Black Friday, 27 November, DJ Stevie J takes over iHeartRadio's Hip-Hop stations from 5pm, playing a mix of rap tracks from the GTA VI: The Album soundtrack and debuting two new songs, 'OMC' and 'SIU'. Stevie J voices the resident DJ at VYB Nightclub on Vice Beach in GTA VI, a character based on his real job as head DJ at LIV Miami, where he performs weekly.
 
 ## Justice / Atlantic Records: Launch trailer debuts Justice single "Flower in a Hurricane"
 
@@ -1744,9 +1775,9 @@ Rockstar and Netflix announced on 6 August that GTA VI: An Extended Look would p
 - source_name: Culted
 - source_url: https://culted.com/sneakers/travis-scott-unveils-exclusive-gta-vi-nike-air-force-1-collaboration/
 - added: 2026-11-06
-- updated: 2026-11-21
+- updated: 2026-11-26
 
-On 5 November Travis Scott showed a black, camo and pink Air Force 1 Low with "GTA" on the midsole and six Wanted stars, saying only a few pairs were made for fans and friends. Complex confirms Travis Scott unveiled the Cactus Jack x Rockstar Games x Nike shoe on Instagram. Sneaker Bar Detroit reports the White and Black pairs release on 21 November via a SNKRS app raffle, expected at $130 each, while the multi-colour pair stays Friends and Family only, limited to 600 pairs. Citing Cactus Jack's Instagram, it adds a GTA 6 apparel collection of tees and hoodies on Nike SNKRS on 21 November at 10am ET, with more pieces on cactusjack.com from 23 November. A Cactus Jack pop-up styled as a bank vault opened at 2300 N Miami Ave in Miami from 19 to 22 November (11am to 6pm daily), selling the Air Force 1 Low, Vice City Jersey, Nike, GTA 6 and Miami Heat collections, according to Sneaker News.
+On 5 November Travis Scott showed a black, camo and pink Air Force 1 Low with "GTA" on the midsole and six Wanted stars, saying only a few pairs were made for fans and friends. Complex confirms Travis Scott unveiled the Cactus Jack x Rockstar Games x Nike shoe on Instagram. Sneaker Bar Detroit reports the White and Black pairs release on 21 November via a SNKRS app raffle, expected at $130 each, while the multi-colour pair stays Friends and Family only, limited to 600 pairs. Citing Cactus Jack's Instagram, it adds a GTA 6 apparel collection of tees and hoodies on Nike SNKRS on 21 November at 10am ET, with more pieces on cactusjack.com from 23 November. A Cactus Jack pop-up styled as a bank vault opened at 2300 N Miami Ave in Miami from 19 to 22 November (11am to 6pm daily), selling the Air Force 1 Low, Vice City Jersey, Nike, GTA 6 and Miami Heat collections, according to Sneaker News. On 24 November at 5pm ET, Travis Scott opened a public raffle on his own website for all three Air Force 1 Lows, including the previously friends-and-family-only multi-colour "Gradient Camo" pair (limited to 600 numbered pairs): entrants play a mini-game to collect six AF1 pairs before they can enter, according to Sole Retriever.
 
 ## Nike / Giannis Antetokounmpo: Giannis previews a GTA VI-inspired Nike Freak 8 for the HEAT's 'A Night in Vice City'
 
@@ -1787,9 +1818,9 @@ Rockstar opened pre-orders on 24 September for a $399.99 collectible set themed 
 - source_name: Panini America
 - source_url: https://blog.paniniamerica.net/panini-and-rockstar-games-announce-grand-theft-auto-vi-trading-card-collection/
 - added: 2026-11-24
-- updated: 2026-11-25
+- updated: 2026-11-26
 
-On 24 November 2026, Panini America announced a partnership with Rockstar Games for officially licensed trading cards, the GTA VI: Sports Trading Card Collection, to be released in December 2026. The collection features real-world versions of in-game card collectibles found throughout the world of Grand Theft Auto VI, built around fictional sports stars and teams, mixing stylised artwork with in-game character renders. Each four-pack box includes on average two Rookies, one Retro, one Illustrated and four Special Silvers, plus rare-numbered cards and team colour parallels, including Silver, Pink, Teal and Light Blue, and Legend Bronze (numbered to 49), Silver (numbered to 25) and 1-of-1 Gold parallels. Panini has not yet said exactly when in December the cards go on sale, how much they will cost or which regions beyond the US will get them.
+On 24 November 2026, Panini America announced a partnership with Rockstar Games for officially licensed trading cards, the GTA VI: Sports Trading Card Collection, going on sale 18 December 2026. The collection features real-world versions of in-game card collectibles found throughout the world of Grand Theft Auto VI, built around fictional sports stars and teams, mixing stylised artwork with in-game character renders. The 70-card base set breaks down into 30 normal cards, 9 illustrated, 9 retro, 10 rookie and 12 wrestling cards, plus Legend and Legacy parallels in Bronze (numbered to 49), Silver (numbered to 25) and 1-of-1 Gold. Each four-pack hobby box includes on average two Rookies, one Retro, one Illustrated and four Special Silvers, plus rare-numbered cards and team colour parallels including Silver, Pink, Teal and Light Blue. Panini has still not announced pricing or which regions beyond the US will get the set.
 
 ## PlayStation: GTA VI theatre at the PlayStation booth, Tokyo Game Show 2026
 
@@ -2004,6 +2035,20 @@ GTA BOOM reports that more than 230 US record stores, including Zia Records, New
 - updated: 2026-11-14
 
 Fan site GTA6VC reports that the Caribbean Club in Key Largo, Florida, has been made over as The Rusty Anchor, a bar from GTA VI's Key Lento. The report is based on photos shared by the GTAVI_Countdown account, crediting a Reddit user, showing a sign and merchandise bearing The Rusty Anchor name. Rockstar has not commented, so this is reported, not confirmed.
+
+## Rockstar Games: In-game QR codes open official FIB Seized pages
+
+- id: off-rockstar-games-fib-seized-qr-pages
+- category: official
+- status: confirmed
+- type: digital
+- date: 2026-11-25
+- location: Global
+- source_name: Rockstar Games
+- source_url: https://www.rockstargames.com/VI/seized/hacking-crimes
+- added: 2026-11-26
+
+QR codes inside Grand Theft Auto VI, scanned with a real phone, open Rockstar's short link rsg.ms/qr1, which redirects to official pages headed SEIZED at rockstargames.com/VI/seized/. The pages say the site has been seized by the Federal Investigation Bureau, in accordance with a warrant citing 47 U.S.C. § 11.25(A), and in partnership with the Vice City Police Department Cybercrime Division. They then joke that, due to a lack of federal funding, the FIB is selling ad space on seized IP addresses. The named offence changes between visits; nine variants were live when checked on 26 November 2026, including Hacking Crimes and Wire Fraud. The in-game phone does not open the pages. The bare /VI/seized URL returns a 404; each offence has its own path.
 
 ## Rockstar Games (fictional brands): In-game brand posters and digital ads across Miami streets
 
@@ -2475,8 +2520,9 @@ The Bayside observation wheel was reported lit in the game's pink-to-purple colo
 - source_name: Analytics Insight
 - source_url: https://www.analyticsinsight.net/news/gta-6-gameplay-appears-in-south-park-and-rockstars-credits-tell-the-story
 - added: 2026-11-02
+- updated: 2026-11-26
 
-The South Park episode "Guinea Pig on a Stick" showed a short clip of GTA VI gameplay, with Jason on a Vice City beach in a dog mess gag. Outlets report the credits thank Rockstar, but no formal partnership has been announced.
+The South Park episode "Guinea Pig on a Stick" showed a short clip of GTA VI gameplay, with Jason on a Vice City beach in a dog mess gag. Outlets report the credits thank Rockstar, but no formal partnership has been announced. South Park's season 29 finale, which aired this week, leaned on GTA VI again: a power cut leaves South America unable to play the newly released game, with one resident warning that losing power mid-mission means losing everything, before the story turns out billionaires are diverting the town's electricity to AI data centres.
 
 ## Spotify: Spotify opens a dedicated GTA VI editorial world in 33 markets
 
@@ -6043,8 +6089,9 @@ Uber Eats France posted a mock 'official statement' on a palm-tree and pink grad
 - source_name: Campaign Germany
 - source_url: https://campaigngermany.de/news/beitrag/4605-gta-vi-hype-uber-eats-positioniert-sich-als-erste-adresse-fuer-hungrige-gamer.html
 - added: 2026-11-23
+- updated: 2026-11-23
 
-Uber Eats had its own billboard on Gneisenaustrasse in Berlin-Kreuzberg covered in oversized graffiti on launch day, as part of an international outdoor campaign aimed at gamers that never names the game. Mother Berlin is the agency. There is no Rockstar deal.
+Uber Eats had its own billboard on Gneisenaustrasse in Berlin-Kreuzberg covered in oversized graffiti on launch day, as part of an international outdoor campaign aimed at gamers that never names the game. Mother Berlin is the agency. There is no Rockstar deal. Uber Eats offered $10 off orders of $20 or more with the code ONAMISSION, which it said was for GTA VI's launch day.
 
 ## Uber Eats: Uber Eats' 'ONAMISSION' launch-day code
 
@@ -6440,3 +6487,91 @@ Miami bakery Zak the Baker has a limited-edition GTA VI cookie tin, with a GTA t
 - added: 2026-11-24
 
 Wirtualnemedia.pl reports that Wrocław Zoo set GTA V and GTA VI markings side by side with a note about falling penguin numbers.
+
+## Tenshun
+
+- id: ing-tenshun
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/tenshun
+- added: 2026-11-26
+
+Consumer electronics brand spotted in the Extended Look on a microwave, copiers and phones. Widely read as probably Samsung.
+
+## Facade
+
+- id: ing-facade
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/facade
+- added: 2026-11-26
+
+Software brand in official GTA 6 videos, widely read as probably Microsoft.
+
+## Whiz Wireless Communication
+
+- id: ing-whiz-wireless-communication
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/whiz-wireless-communication
+- added: 2026-11-26
+
+Mobile network brand in official GTA 6 videos, widely read as probably Sprint.
+
+## Junk Energy Drink
+
+- id: ing-junk-energy-drink
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/junk-energy-drink
+- added: 2026-11-26
+
+Energy drink in official GTA 6 videos, widely read as Monster Energy, and also as Red Bull or Mountain Dew.
+
+## Blagueurs
+
+- id: ing-blagueurs
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/blagueurs
+- added: 2026-11-26
+
+Fashion label in official GTA 6 videos, widely read as probably Balenciaga and Vetements.
+
+## Maibatsu
+
+- id: ing-maibatsu
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/maibatsu
+- added: 2026-11-26
+
+Car maker in official GTA 6 videos, a parody of Mitsubishi.
+
+## Nagasaki
+
+- id: ing-nagasaki
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/nagasaki
+- added: 2026-11-26
+
+Motorcycle maker in official GTA 6 videos, widely read as probably Kawasaki.
+
+## Obey
+
+- id: ing-obey
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/obey
+- added: 2026-11-26
+
+Car maker in official GTA 6 videos, a parody of Audi.
