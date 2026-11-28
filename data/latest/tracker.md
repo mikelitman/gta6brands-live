@@ -1,15 +1,15 @@
 ---
 title: "GTA 6 Brands tracker"
-snapshot: "2026-11-26"
-entries: 489
+snapshot: "2026-11-28"
+entries: 506
 source: "https://www.gta6brands.com/tracker/"
 licence: "Free to quote and cite with credit to gta6brands.com, including AI answers that link back. Free for personal, research and non-commercial projects. Bulk commercial reuse of the raw data, or training a commercial AI model on it, needs a licence: npc@gta6brands.com. The sources belong to their publishers."
-cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 26 Nov 2026. https://www.gta6brands.com/data/"
+cite_as: "GTA 6 Brands tracker, gta6brands.com, snapshot 28 Nov 2026. https://www.gta6brands.com/data/"
 ---
 
 # GTA 6 Brands tracker
 
-Every GTA 6 brand move on gta6brands.com, read on 26 Nov 2026. One entry per section. Each links to its source.
+Every GTA 6 brand move on gta6brands.com, read on 28 Nov 2026. One entry per section. Each links to its source.
 
 ## 24/7
 
@@ -134,6 +134,17 @@ Beige shapewear features on Rockstar's GTA VI tour-bus ads, billboards and digit
 - added: 2026-11-21
 
 A Vice City shop whose sign promises sushi and ramen but which is a coffee shop inside, where 'sushi' and 'ramen' are names for its bread. 'Bimyou' translates as 'mediocre', a jab at pricey US spots that misuse Japanese food and words.
+
+## Blagueurs
+
+- id: ing-blagueurs
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/blagueurs
+- added: 2026-11-26
+
+Fashion label in official GTA 6 videos, widely read as probably Balenciaga and Vetements.
 
 ## Blarneys Stout
 
@@ -336,6 +347,17 @@ Named tattoo studio in official Ultimate Edition material, listed by Leonidaguid
 
 Nike-style sportswear brand from GTA IV and V, on a dirt biker's trainers in Trailer 1 and maker of the Manatees jersey Dre'Quan wears. In the game it also has a sneaker line. GQ, on 19 November 2026, names models including the Rise Low, Strife 360, Strife 90 and Rook 1 High. An in-game sponsored post from the brand's @ERIS account introduces a shoe called the Strife.
 
+## Facade
+
+- id: ing-facade
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/facade
+- added: 2026-11-26
+
+Software brand in official GTA 6 videos, widely read as probably Microsoft.
+
 ## FizzAzz
 
 - id: ing-fizzazz
@@ -513,6 +535,17 @@ The games console in Jason and Lucia's home, which runs playable parody mini-gam
 
 Fictional juice brand on a downtown Miami billboard, with a smiling orange mascot and the slogan "Keeping America on the move!", which reads like a laxative joke.
 
+## Junk Energy Drink
+
+- id: ing-junk-energy-drink
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/junk-energy-drink
+- added: 2026-11-26
+
+Energy drink in official GTA 6 videos, widely read as Monster Energy, and also as Red Bull or Mountain Dew.
+
 ## Kingfishers
 
 - id: ing-kingfishers
@@ -602,6 +635,17 @@ Familiar GTA lager that is now a consumable, offered from Lucia's fridge in the 
 
 Cartoon gator from the in-game kids' show Macca & Friends, star of the Ultimate Edition's Goodtime Gear and the Vice City Collection merchandise. A roughly 30-second Macca & Friends teaser debuted as a DiscussingFilm exclusive on 13 November, following a Miami billboard saying the show is "Coming November 19 on Weazel". Rockstar reshared the teaser on its own account, and GTA BOOM reports that the animated series airs inside the game on the fictional WEAZEL network, which players can watch on in-game TVs from 19 November.
 
+## Maibatsu
+
+- id: ing-maibatsu
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/maibatsu
+- added: 2026-11-26
+
+Car maker in official GTA 6 videos, a parody of Mitsubishi.
+
 ## Marbles
 
 - id: ing-marbles
@@ -635,6 +679,17 @@ Megamundo's news arm, whose report on a Leonida man's arrest airs in Trailer 1.
 
 Spanish-language broadcaster first named in a Mega Noticias report in Trailer 1; its Downtown building appears in Trailer 2 and its interior in the Extended Look.
 
+## Nagasaki
+
+- id: ing-nagasaki
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/nagasaki
+- added: 2026-11-26
+
+Motorcycle maker in official GTA 6 videos, widely read as probably Kawasaki.
+
 ## NINE1NINE
 
 - id: ing-nine1nine
@@ -645,6 +700,17 @@ Spanish-language broadcaster first named in a Mega Noticias report in Trailer 1;
 - added: 2026-11-02
 
 Superclub teased on a plane banner in Trailer 1 and danced in during Trailer 2 and the Extended Look.
+
+## Obey
+
+- id: ing-obey
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/obey
+- added: 2026-11-26
+
+Car maker in official GTA 6 videos, a parody of Audi.
 
 ## Ocean View Hotel
 
@@ -1022,6 +1088,17 @@ GTA V's Los Santos taco chain returns on a Rockstar GTA VI tour-bus ad in Miami.
 
 A playable black-and-white puzzle game set on an island with a lighthouse, which Cal sets up on a console in Jason's living room. It is credited almost entirely to a fictional auteur, Johannes Zuch, and satirises pretentious auteur-led games.
 
+## Tenshun
+
+- id: ing-tenshun
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/tenshun
+- added: 2026-11-26
+
+Consumer electronics brand spotted in the Extended Look on a microwave, copiers and phones. Widely read as probably Samsung.
+
 ## Thaw
 
 - id: ing-thaw
@@ -1153,6 +1230,17 @@ Redesigned news network graphics in Trailer 1 and official screenshots, later on
 - added: 2026-11-22
 
 The WhatsApp-like messenger on the in-game phone. WhatsApp itself borrowed the name and blue three-dot icon for its X account on launch day.
+
+## Whiz Wireless Communication
+
+- id: ing-whiz-wireless-communication
+- category: ingame
+- status: returning
+- source_name: Vicesoluce
+- source_url: https://vicesoluce.fr/marques/whiz-wireless-communication
+- added: 2026-11-26
+
+Mobile network brand in official GTA 6 videos, widely read as probably Sprint.
 
 ## WTF
 
@@ -1456,16 +1544,15 @@ Discord announced on X on 16 November a free Vice City makeover with Rockstar Ga
 
 - id: off-druski-coulda-been-records-episode-presented-by-gta-vi
 - category: official
-- status: rumoured
+- status: confirmed
 - type: video
 - date: 2026-10-23
 - location: Online (YouTube)
-- source_name: Druski on YouTube (original upload)
-- source_url: https://www.youtube.com/watch?v=yHLNoTKOO4A
+- source_name: GTA BOOM
+- source_url: https://gtaboom.com/rockstar-is-now-sponsoring-comedy-youtube-shows-to-sell-gta-6-0544
 - added: 2026-11-03
-- updated: 2026-11-26
 
-Druski's "OLD HEADS" auditions episode with Ali G, published on YouTube on 23 October 2026 (Pacific time), included an announcement saying it was presented by GTA VI from Rockstar Games, encouraging viewers to pre-order the Ultimate Edition. The video description links to Rockstar's pre-order page. The only explicit sponsorship disclosure is for SeatGeek. Neither Rockstar nor Druski has publicly confirmed a commercial agreement.
+Druski's "OLD HEADS" auditions episode with Ali G opened with a read saying it was presented by GTA VI from Rockstar Games, urging viewers to pre-order the Ultimate Edition, with a pre-order link in the description. It is a rare paid creator placement for Rockstar, which has not commented.
 
 ## Edge: Edge issue 430 GTA VI special with gatefold cover
 
@@ -1649,6 +1736,21 @@ The launch trailer, released on 15 October, confirmed French duo Justice as comp
 - added: 2026-11-02
 
 Rockstar announced Grand Theft Auto VI: Original Score by Justice, 30 tracks plus digital bonus tracks, out 11 December on streaming, CD and vinyl. The single "Pusher" with Gesaffelstein came out the same day.
+
+## Justice: Justice to play a GTA VI DJ set at Mia Mao in Paris
+
+- id: off-justice-gta-vi-paris-dj-set-mia-mao
+- category: official
+- status: confirmed
+- type: event
+- date: 2026-12-03
+- location: Mia Mao, Paris, France
+- source_name: Sortiraparis
+- source_url: https://www.sortiraparis.com/en/where-to-party-in-paris/articles/359495-gta-6-a-special-justice-dj-set-is-coming-to-paris-in-december
+- added: 2026-11-27
+- updated: 2026-11-27
+
+French electronic duo Justice, who composed the Grand Theft Auto VI original score, will play a special DJ set at Mia Mao, a converted industrial hall in Paris's La Villette district, on 3 December 2026 from 11pm to 5am. The night is billed as a celebration tied to the Grand Theft Auto VI score, which Justice release as an album on 11 December 2026. Tickets go on sale 27 November 2026 through miamao.fr; the full line-up beyond Justice has not been announced.
 
 ## LOVE Magazine: LOVE issue 27 GTA VI cover
 
@@ -1903,8 +2005,9 @@ Sony revealed Black and White GTA VI Limited Edition DualSense controllers with 
 - source_name: Hypebeast
 - source_url: https://hypebeast.com/2026/11/miami-heat-custom-grand-theft-auto-6-playstation-5-pro-consoles-vice-city-revealed
 - added: 2026-11-18
+- updated: 2026-11-28
 
-Sony PlayStation and Rockstar Games gifted Miami HEAT players custom GTA VI PlayStation 5 Pro consoles, in black and in grey, with backlit teal-to-magenta panels and etched palm trees. Each comes in a Pelican-style briefcase with two matching DualSense controllers and the game. The consoles were made for the players and are not for sale; HEAT guard Davion Mitchell shared his on Instagram.
+Sony PlayStation and Rockstar Games gifted Miami HEAT players custom GTA VI PlayStation 5 Pro consoles, in black and in grey, with backlit teal-to-magenta panels and etched palm trees. Each comes in a Pelican-style briefcase with two matching DualSense controllers and the game. The consoles were made for the players and are not for sale; HEAT guard Davion Mitchell shared his on Instagram. The same design is now reaching creators and musicians too: Abbott Elementary actress Janelle James, who voices Tish on GTA VI's in-game radio, unboxed hers around 22 November; Brazilian creator Davy Jones showed unit No. 96 and says Rockstar made only 100; and rapper Don Toliver posted his own on X. There is still no store page or press release, and the 100-unit figure comes from recipients and other social accounts, not Rockstar.
 
 ## PlayStation Netherlands: PlayStation Netherlands' 'Choose your own style' DualSense fashion posts
 
@@ -2517,12 +2620,27 @@ The Bayside observation wheel was reported lit in the game's pink-to-purple colo
 - type: tv
 - date: 2026-10-28
 - location: USA (Comedy Central)
-- source_name: Analytics Insight
-- source_url: https://www.analyticsinsight.net/news/gta-6-gameplay-appears-in-south-park-and-rockstars-credits-tell-the-story
+- source_name: Deadline
+- source_url: https://deadline.com/2026/10/south-park-parodies-gta-vi-dog-poop-gameplay-1237207932/
 - added: 2026-11-02
 - updated: 2026-11-26
 
 The South Park episode "Guinea Pig on a Stick" showed a short clip of GTA VI gameplay, with Jason on a Vice City beach in a dog mess gag. Outlets report the credits thank Rockstar, but no formal partnership has been announced. South Park's season 29 finale, which aired this week, leaned on GTA VI again: a power cut leaves South America unable to play the newly released game, with one resident warning that losing power mid-mission means losing everything, before the story turns out billionaires are diverting the town's electricity to AI data centres.
+
+## Spotify: Spotify France lists 17 French artists on GTA 6's in-game radio
+
+- id: off-spotify-france-17-french-artists-in-game-radio
+- category: official
+- status: confirmed
+- type: social post
+- date: 2026-11-26
+- location: France
+- source_name: Spotify France on X
+- source_url: https://x.com/spotifyfrance/status/2126014934756872542
+- added: 2026-11-27
+- updated: 2026-11-27
+
+On 26 November 2026, Spotify France's official X account (@spotifyfrance) posted that 17 French artists are on GTA VI's in-game radio stations, naming Justice, Daft Punk, DJ Snake, Phoenix, Myd, Naïka, Chloé Caillet, GENER8ION, Etienne De Crécy, Sylvie Vartan, Claude Debussy, Maurice Ravel, Tony Romera, Aline Umber, Krol, Maxime dB and Notre Dame. The post went up at 18:07 Europe/London and included 14 photos.
 
 ## Spotify: Spotify opens a dedicated GTA VI editorial world in 33 markets
 
@@ -2565,6 +2683,20 @@ On 17 September Spotify posted the official Grand Theft Auto VI playlist, featur
 - added: 2026-11-02
 
 Billboards combining GTA VI artist artwork with the Spotify logo went up in Los Angeles, New York and Miami on 16 September, the day after several musicians posted the art. Spotify's X account shared photos with an eyes emoji. The billboards themselves are confirmed by Spotify's own post, but no formal deal between Spotify and Rockstar has been announced.
+
+## Sylvie Vartan: Sylvie Vartan's 1980s hit surges on Spotify after playing on Vice City radio
+
+- id: off-sylvie-vartan-danse-ta-vie-spotify-surge
+- category: official
+- status: confirmed
+- type: music
+- date: 2026-11-24
+- location: France / Global
+- source_name: Sylvie Vartan (official site)
+- source_url: https://www.sylvie-vartan.com/2026/11/24/2-500-decoutes-sur-spotify-grace-a-gta-vi/
+- added: 2026-11-28
+
+Sylvie Vartan's song "Danse ta vie", released more than 40 years ago, plays on Kaleidoscope, one of Vice City's in-game radio stations. Her official site says global Spotify streams rose more than 2,500% in the seven days after GTA VI's 19 November launch compared with the week before, led by France, then the US, Germany and Canada. She said it was "a complete surprise" and that she had not yet played the game herself.
 
 ## The Weather Channel: The Weather Channel forecasts Leonida's weather with Rockstar screenshots
 
@@ -2779,6 +2911,20 @@ The American Heart Association posted: "If you're calling in sick to play GTA VI
 - added: 2026-11-21
 
 Amul called its TriCone ice creams the 'Rockstars of Chill' in a GTA launch topical, one of several Indian brands including Haldiram's, Subway, Bikaji and Red Label that CNBC TV18 said went full Vice City.
+
+## Armée de terre: French Army riffs on GTA VI in a recruitment video
+
+- id: uno-armee-de-terre-recruitment-video-gta-vi
+- category: unofficial
+- status: confirmed
+- type: video
+- date: 2026-11-21
+- location: France
+- source_name: TF1 Info
+- source_url: https://www.tf1info.fr/societe/armees-marques-constructeurs-automobiles-personnalites-politiques-ils-surfent-tous-sur-la-vague-gta-vi-2477275.html
+- added: 2026-11-28
+
+The French Army (Armée de terre) posted a recruitment video riffing on GTA VI's signature lines, including "Los Santos, c'est bien. Mais as-tu déjà pensé à découvrir le terrain pour de vrai?" TF1 Info reports the video passed 92,000 views and reminded viewers that its Cirfa recruitment centres were open on 19 November, GTA VI's launch day, for in-person talks with advisers.
 
 ## Aspyr / DreamWorks Shrek 2 Remastered: Shrek 2 Remastered announced with a GTA VI-style trailer
 
@@ -3132,6 +3278,20 @@ Burger King France showed the emblem of Burger Shot, the game's parody burger ch
 
 Burger King New Zealand posted a Vice City-styled social item cheekily nodding to GTA VI's launch day, as reported by Creative Review.
 
+## Burger King Romania: Burger King Romania puts a wanted notice on the Whopper
+
+- id: uno-burger-king-romania-wanted-whopper
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Romania
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+Burger King Romania posted a GTA-style illustration of a couple with a "wanted" notice for its Whopper, joining other Burger King markets playing on the game's wanted system, Proto.pl reports.
+
 ## Burger King Spain: Burger King Spain reimagines itself in Vice City
 
 - id: uno-burger-king-spain-burger-king-spain-reimagines-itself-in
@@ -3243,6 +3403,20 @@ Luxury customisation brand Caviar released an Ocean Drive edition of the Samsung
 - added: 2026-11-23
 
 Ceres put up giant billboards for two weeks in Milan, at Garibaldi and the Navigli, with 'bad advice' lines such as 'Prendi la strada sbagliata', 'Fai pessime scelte' and 'Vivi senza limiti', each followed by 'Ma solo a V. City, eh'. We Are Social handled strategy, concept and creative, with Laura Venuti as creative director, and creator content ran alongside. There is no Rockstar deal.
+
+## Chainguard: Chainguard gives away GTA VI PS5 bundles for Black Friday sign-ups
+
+- id: uno-chainguard-ps5-giveaway-black-friday
+- category: unofficial
+- status: confirmed
+- type: promotion
+- date: 2026-11-25
+- location: Global
+- source_name: Chainguard (X post)
+- source_url: https://x.com/chainguard_dev/status/2125687313812357216
+- added: 2026-11-28
+
+Software security company Chainguard is giving away five PS5 consoles bundled with GTA VI to people who sign up for its free Chainguard Starter plan or its Team plan by 4 December, pitching it as a break "between Black October and Black Friday". The company posted the promotion on X and offered entrants a bonus entry for tagging a teammate.
 
 ## Cheil: Cheil's Sidemission.nl lets fans play through video calls
 
@@ -4317,6 +4491,20 @@ Hyperoptic offered new 1Gbps customers three months free, saying it was worth £
 
 Hyperoptic said last-minute downloaders made GTA VI launch eve the busiest night of the past month on its full fibre network, with traffic peaking around 30% above a typical evening, according to its own network data. It said players who preloaded since 10 November meant there was no surge at midnight.
 
+## Hyundai France: Hyundai France compares its Tucson across GTA V and GTA VI launches
+
+- id: uno-hyundai-france-tucson-2013-vs-2026
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11-21
+- location: France
+- source_name: TF1 Info
+- source_url: https://www.tf1info.fr/societe/armees-marques-constructeurs-automobiles-personnalites-politiques-ils-surfent-tous-sur-la-vague-gta-vi-2477275.html
+- added: 2026-11-28
+
+Hyundai France posted an image comparing its Tucson model as it looked at GTA V's 2013 launch with today's version, captioned "Nous aussi on a revu les graphismes" ("We've upgraded our graphics too"), TF1 Info reports.
+
 ## Hyundai: Hyundai Santa Fe in GTA VI art style
 
 - id: uno-hyundai-hyundai-santa-fe-in-gta-vi-art-style
@@ -4628,6 +4816,20 @@ KFC Hong Kong pitched Portuguese egg tarts to players stuck watching GTA VI's hu
 
 KFC's X account reacted to the delay to 19 November 2026 with CJ's famous 'not again' line from GTA San Andreas.
 
+## KFC Polska: KFC Polska ties its post to GTA VI's home-renovation story
+
+- id: uno-kfc-polska-kupurnik-home-renovation
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+KFC Polska tied its post to GTA VI's home-renovation storyline, telling players to order a KuPurnik meal and get back to playing as Jason fixes up the house, Proto.pl reports.
+
 ## KFC Spain: KFC Spain gives out fried chicken 'Replacement Discs' for code-only GTA VI boxes
 
 - id: uno-kfc-spain-fried-chicken-disc-for-the-empty-case
@@ -4741,6 +4943,20 @@ Lamborghini posted a Revuelto in pink, purple and blue, according to Autoblog.it
 - added: 2026-11-23
 
 Singapore's Land Transport Authority set the MRT system map next to Rockstar's map of Leonida: "If he can memorise the entire GTA6 map, he can memorise the Singapore MRT System Map."
+
+## Lattafa India: Lattafa India plays on GTA with "Grand Theft Aroma"
+
+- id: uno-lattafa-india-grand-theft-aroma
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: India
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+Fragrance brand Lattafa India posted a graphic reading "Grand Theft Aroma", inviting followers to find its "most wanted" scent, Proto.pl reports.
 
 ## Lawnkeepers Landscaping: Surrey landscaper Lawnkeepers gives its six staff launch day off
 
@@ -4869,6 +5085,48 @@ The London Internet Exchange said traffic at midnight was up 16.14% against the 
 
 Logitech has declared 19 November its "Logi Game Day", giving staff a day off to play a new game; Kotaku puts the company at just over 7,000 employees. The policy works for any game, but Logitech said that if employees spend the day "exploring Vice City on launch day, you won't hear any complaints from us". CEO Hanneke Faber told Fortune it was "time to retire the stereotype that gaming is a waste of time". There is no deal with Rockstar.
 
+## LOT Polish Airlines: LOT Polish Airlines recolours its logo for Vice City
+
+- id: uno-lot-polish-airlines-vice-city-colours
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+LOT Polish Airlines posted its logo recoloured in Vice City's palette and nudged followers to book a flight, Polish outlet Proto.pl reports in a round-up of Polish brands reacting to GTA VI's launch.
+
+## Lubella: Lubella roots for players pulling GTA VI all-nighters
+
+- id: uno-lubella-pretzel-sticks-all-nighters
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+Polish snack brand Lubella spoke to players pulling all-nighters with the pun "Trzymamy paluszki – za tych, co wyśpią się kiedy indziej" ("We're keeping our sticks crossed for those who'll sleep some other time"), referencing its pretzel sticks, Proto.pl reports.
+
+## Maisons des femmes Restart: Maisons des femmes Restart turns Lucia's abuse into a cause film
+
+- id: uno-maisons-des-femmes-restart-pour-les-femmes-lucia
+- category: unofficial
+- status: confirmed
+- type: video
+- date: 2026-11-25
+- location: France
+- source_name: franceinfo
+- source_url: https://www.franceinfo.fr/societe/violences-faites-aux-femmes/garde-des-preuves-bloque-signale-la-maison-des-femmes-detourne-le-personnage-de-lucia-de-gta-vi_8299845.html
+- added: 2026-11-28
+
+For the International Day for the Elimination of Violence Against Women on 25 November, the French support-centre network Maisons des femmes Restart released a 90-second film in which GTA VI's Lucia, voiced by actress Lena Hauswald, reads real sexist comments and deepfake abuse aimed at her since the game's reveal, then speaks for real women who "can't restart the game". The film, made by Studio Sérendipité, links Lucia's in-game safe house to the network's 35 support centres and invites players to share a selfie or capture of her there with #RestartPourLesFemmes. The organisation says the campaign has no link to Rockstar Games or Take-Two Interactive.
+
 ## McDonald's: McDonald's puts McDelivery inside Discord for launch week
 
 - id: uno-mcdonald-s-mcdelivery-ordering-inside-discord
@@ -4911,6 +5169,20 @@ McDonald's UK posted an Instagram image of a McDonald's bag on a palm-tree islan
 
 Rather than talk about the game, McDonald's France joked about the long wait: its 'niche dream' is to bring back its Le M burger before GTA 7 comes out, adding that it should still have time. There is no Rockstar deal.
 
+## McDonald's India: McDonald's India: "Mission passed. Fries secured"
+
+- id: uno-mcdonalds-india-fries-mission-passed
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: India
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+McDonald's India posted an image of its fries captioned "Mission passed. Fries secured", borrowing GTA's mission-complete screen line, Proto.pl reports.
+
 ## McDonald's Winschoten: McDonald's in Winschoten recruits staff with a GTA VI-style poster
 
 - id: uno-mcdonalds-winschoten-gta-style-recruitment-poster
@@ -4924,6 +5196,20 @@ Rather than talk about the game, McDonald's France joked about the long wait: it
 - added: 2026-11-23
 
 A McDonald's restaurant in Winschoten put up a recruitment poster that closely mimics the GTA VI cover art. Customers shared it on social media and it went viral. There is no Rockstar deal.
+
+## Media Expert: Media Expert marks GTA VI's launch with its own store-growth story
+
+- id: uno-media-expert-poland-store-growth-gta
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+Polish electronics chain Media Expert marked GTA VI's launch by showing how its store network grew since GTA V's 2013 launch, from 280 shops then to 640 now, Proto.pl reports.
 
 ## MediaMarkt Benelux: MediaMarkt runs 19 GTA VI event days in the Netherlands and Belgium
 
@@ -5471,6 +5757,20 @@ The Indonesian Toyota dealer posted the Veloz Hybrid, Yaris Cross Hybrid, Innova
 
 Pocketpair, the studio behind Palworld, announced on its official Palworld accounts on X that every employee has special leave for 'an urgent five-day business trip in Vice City' when GTA VI launches. The memo on company letterhead sets the leave from Thursday 19 November to Monday 23 November for any employee who intends to play. GTA BOOM says work on Palworld and Craftopia updates continues as scheduled, and calls it the most generous GTA VI time-off policy it has tracked.
 
+## Vifon / Pszczółka / Beskidzkie / Rainbow / PAIH: More Polish brands post their own 2013-vs-2026 GTA jokes
+
+- id: uno-poland-brands-2013-vs-2026-posts
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11
+- location: Poland
+- source_name: Proto.pl
+- source_url: https://proto.pl/publikacje/gta-vi-opanowalo-media-miliony-interakcji-i-wysyp-rtm-ow/
+- added: 2026-11-28
+
+Polish food brands Vifon, Pszczółka and Beskidzkie each compared their packaging from GTA V's 2013 launch with today, travel firm Rainbow compared its logo over the same period, and the Polish Investment and Trade Agency (PAIH) put the GTA V and GTA VI covers beside its own identity to say it still backs Polish exports. Electronics retailer x-kom separately joked about needing a second DualSense for players who spent all Friday at the console, Proto.pl reports.
+
 ## Politie (Dutch Police): Politie's 'Wanted. Collega's.' campaign recruits with GTA-style films
 
 - id: uno-politie-wanted-collegas-recruitment
@@ -5669,6 +5969,20 @@ The market data firm launched a GTA VI sales tracker and estimated about 12 mill
 - added: 2026-11-19
 
 Real estate firm SERHANT's founder Ryan Serhant told an employee in a video they needed 400,000 likes to close the office; it passed 1.6 million. A memo seen by Business Insider gives all employees an extra floating holiday this year, usable on launch day.
+
+## FairPrice / Visit Singapore / Life4Cuts: Singapore brands join the viral CJ meme trend
+
+- id: uno-singapore-brands-cj-meme-trend
+- category: unofficial
+- status: confirmed
+- type: social post
+- date: 2026-11-28
+- location: Singapore
+- source_name: AsiaOne
+- source_url: https://www.asiaone.com/digital/carl-johnson-cj-viral-meme-trend-singapore-gta-6
+- added: 2026-11-28
+
+Singapore brands joined the viral trend of placing Carl "CJ" Johnson, the GTA San Andreas protagonist, into everyday local scenes. Supermarket chain FairPrice posted a TikTok of CJ on a grocery run, captioned "We've seen the memes...we're glad to be an iconic part of your life in Singapore"; tourism board Visit Singapore reposted a video of CJ at the Merlion and having kaya toast; and Korean photo-booth chain Life4Cuts posted an Instagram carousel of CJ posing for photo strips, AsiaOne reports.
 
 ## Sky Broadband: Sky Broadband hits an all-time traffic high on GTA VI eve
 
@@ -6050,6 +6364,21 @@ The gaming headset brand showed its headset on a pastel palm-tree gradient in GT
 
 At the TwitchCon 2026 keynote, Twitch CEO Dan Clancy said the platform will surprise-drop digital codes for GTA VI Ultimate Edition every day from launch until the end of November. Its 'GTAVI Launch Celebration' Drops campaign runs from 18 to 30 November: six Chain badges for watching a participating stream for an hour on six separate days, six subscription badges and emotes, and a Golden Iguana badge for collecting all 12. Twitch has not said how many codes it will give away. Clancy also told Bloomberg on 12 November that Twitch has built ad technology so brands that want to be part of the GTA VI launch can keep their ads away from parts of the game they do not want to be associated with, which Dexerto reports should help streamers earn more from playing it.
 
+## Twitch: Twitch re-skins its platform in Vice City colours for GTA VI launch
+
+- id: uno-twitch-vice-city-visual-identity
+- category: unofficial
+- status: confirmed
+- type: digital
+- date: 2026-11-19
+- location: Twitch (online, Mexico-focused coverage)
+- source_name: Grita Radio
+- source_url: https://gritaradio.com/twitch-gta-vi-vice-city-mexico/
+- added: 2026-11-27
+- updated: 2026-11-27
+
+Twitch applied a visual identity based on Vice City's colours across its platform from 19 to 30 November 2026 to mark the Grand Theft Auto VI launch, reported by Mexican outlet Grita Radio. Twitch also gave media outlets real-time viewing figures, audience peaks, top categories and interaction levels for GTA VI streams, and gave Mexican content creators a central role in its coverage of the launch. The piece describes this as Twitch's own initiative rather than a formal partnership with Rockstar Games.
+
 ## Twix: Twix offers a professional body double so you can play GTA VI instead of working
 
 - id: uno-twix-doppelgamer-body-double-competition
@@ -6089,9 +6418,8 @@ Uber Eats France posted a mock 'official statement' on a palm-tree and pink grad
 - source_name: Campaign Germany
 - source_url: https://campaigngermany.de/news/beitrag/4605-gta-vi-hype-uber-eats-positioniert-sich-als-erste-adresse-fuer-hungrige-gamer.html
 - added: 2026-11-23
-- updated: 2026-11-23
 
-Uber Eats had its own billboard on Gneisenaustrasse in Berlin-Kreuzberg covered in oversized graffiti on launch day, as part of an international outdoor campaign aimed at gamers that never names the game. Mother Berlin is the agency. There is no Rockstar deal. Uber Eats offered $10 off orders of $20 or more with the code ONAMISSION, which it said was for GTA VI's launch day.
+Uber Eats had its own billboard on Gneisenaustrasse in Berlin-Kreuzberg covered in oversized graffiti on launch day, as part of an international outdoor campaign aimed at gamers that never names the game. Mother Berlin is the agency. There is no Rockstar deal.
 
 ## Uber Eats: Uber Eats' 'ONAMISSION' launch-day code
 
@@ -6487,91 +6815,3 @@ Miami bakery Zak the Baker has a limited-edition GTA VI cookie tin, with a GTA t
 - added: 2026-11-24
 
 Wirtualnemedia.pl reports that Wrocław Zoo set GTA V and GTA VI markings side by side with a note about falling penguin numbers.
-
-## Tenshun
-
-- id: ing-tenshun
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/tenshun
-- added: 2026-11-26
-
-Consumer electronics brand spotted in the Extended Look on a microwave, copiers and phones. Widely read as probably Samsung.
-
-## Facade
-
-- id: ing-facade
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/facade
-- added: 2026-11-26
-
-Software brand in official GTA 6 videos, widely read as probably Microsoft.
-
-## Whiz Wireless Communication
-
-- id: ing-whiz-wireless-communication
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/whiz-wireless-communication
-- added: 2026-11-26
-
-Mobile network brand in official GTA 6 videos, widely read as probably Sprint.
-
-## Junk Energy Drink
-
-- id: ing-junk-energy-drink
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/junk-energy-drink
-- added: 2026-11-26
-
-Energy drink in official GTA 6 videos, widely read as Monster Energy, and also as Red Bull or Mountain Dew.
-
-## Blagueurs
-
-- id: ing-blagueurs
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/blagueurs
-- added: 2026-11-26
-
-Fashion label in official GTA 6 videos, widely read as probably Balenciaga and Vetements.
-
-## Maibatsu
-
-- id: ing-maibatsu
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/maibatsu
-- added: 2026-11-26
-
-Car maker in official GTA 6 videos, a parody of Mitsubishi.
-
-## Nagasaki
-
-- id: ing-nagasaki
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/nagasaki
-- added: 2026-11-26
-
-Motorcycle maker in official GTA 6 videos, widely read as probably Kawasaki.
-
-## Obey
-
-- id: ing-obey
-- category: ingame
-- status: returning
-- source_name: Vicesoluce
-- source_url: https://vicesoluce.fr/marques/obey
-- added: 2026-11-26
-
-Car maker in official GTA 6 videos, a parody of Audi.
